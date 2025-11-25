@@ -140,11 +140,11 @@ NEO4J_PASSWORD=your-password
 
 ## 👥 Team Members
 
-- Aditya Pokharna - AI integration, model orchestration
-- Sahil Pawar - LangFlow integration, system testing
-- Wei-An Wang - Data engineering, embeddings
-- Yu-Yao Hsieh - Web scraping, baseline ML
-- Zih-Jyun Lin - Knowledge Graph, RAG pipeline, evaluation
+- Aditya Pokharna - 
+- Sahil Pawar - 
+- Wei-An Wang - 
+- Yu-Yao Hsieh - 
+- Zih-Jyun Lin - 
 
 ## 📄 License
 
