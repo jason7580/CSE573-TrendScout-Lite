@@ -1,0 +1,50 @@
+{
+  "question": "Which companies partner with government agencies?",
+  "expected_answer": "Perplexity (GSA), Anthropic (State of Maryland, US CAISI, UK AISI)",
+  "rag_only": {
+    "answer": "Based on the available information, two companies that have partnered with government agencies are:\n\n1. **Perplexity AI**: They have announced a partnership with the General Services Administration (GSA) to provide their \"Enterprise Pro for Government\" offering, which delivers enterprise-grade AI solutions to U.S. government agencies. This partnership marks Perplexity as the first major AI company to secure a direct government-wide contract (RAG Context, Doc 1).\n\n2. **Anthropic Research**: They are collaborating with the US Center for AI Standards and Innovation (CAISI) and the UK AI Security Institute (AISI). This partnership focuses on developing secure AI models, leveraging government expertise in areas such as cybersecurity and threat modeling. Their work includes testing models like Claude Opus 4 and 4.1 to identify vulnerabilities (RAG Context, Doc 2).\n\nNo structured data from the Knowledge Graph is available on this topic, but the details from the document search provide insight into the partnerships these companies have formed with government entities.",
+    "context_length": 1293,
+    "context": "(Showing 2 relevant sources based on query type)\n\n[Doc 1] 🟢 [perplexity-ai] (Wed, 19 Nov 2025 15:13:45 GMT (UTC)):\nCompany: perplexity-ai\nDate: Wed, 19 Nov 2025 15:13:45 GMT (UTC)\nContent: Today, we're announcing a first-of-its-kind partnership that brings enterprise-grade AI to the United States Government.Enterprise Pro for Government offers agencies powerful, model-agnostic AI with secure-by-default guarantees for all federal users.Through our partnership with the General Services Administration (GSA), Perplexity is now the first major AI company to enter a direct government-wide contract.Read more about Enterprise Pro for Government:https://lnkd.in/exEGP68k\n\n[Doc 2] 🟢 [anthropicresearch] (Fri, 12 Sep 2025 20:27:00 GMT (UTC)):\nCompany: anthropicresearch\nDate: Fri, 12 Sep 2025 20:27:00 GMT (UTC)\nContent: Our collaboration with the US Center for AI Standards and Innovation (CAISI) and the UK AI Security Institute (AISI) shows the importance of public-private partnerships in developing secure AI models.Governments bring expertise in areas like cybersecurity, intelligence analysis, and threat modeling. Their ongoing testing of models like Claude Opus 4 and 4.1 has helped us find vulnerabilities and build strong safeguards before deployment.Read more:https://lnkd.in/dU2haipV"
+  },
+  "rag_kg": {
+    "answer": "Several companies have established partnerships with government agencies. Here’s a summary based on the structured data (Knowledge Graph facts) and additional details from the context (RAG):\n\n1. **Mistral AI**\n   - **Partner:** Government of Morocco - **Details:** AI ecosystem development\n   - **Partner:** Government of Luxembourg - **Details:** AI deployment\n   - **Partner:** France Travail - **Details:** Job seeker assistance\n\n2. **Anthropic**\n   - **Partner:** State of Maryland - **Details:** Government services pilot\n   - **Partner:** US Center for AI Standards and Innovation (CAISI) - **Details:** Safety testing (RAG Context)\n   - **Partner:** UK AI Security Institute (AISI) - **Details:** Safety testing (RAG Context)\n\n3. **Perplexity AI**\n   - **Partner:** GSA (General Services Administration) - **Details:** Government-wide contract\n   - **Partner:** US Government - **Details:** Support for veterans\n\n4. **OpenAI**\n   - **Partner:** US Government - **Details:** Support for veterans\n\nIn summary, Mistral AI, Anthropic, Perplexity AI, and OpenAI are the companies that have partnered with various government agencies for different initiatives, including AI development, safety testing, and support programs.",
+    "kg_context_length": 931,
+    "rag_context_length": 1293,
+    "kg_context": "company: Mistral AI | partner: HTX | details: AI for security and safety\ncompany: Mistral AI | partner: Government of Morocco | details: AI ecosystem development\ncompany: Mistral AI | partner: Government of Luxembourg | details: AI deployment\ncompany: Mistral AI | partner: France Travail | details: Job seeker assistance\ncompany: Anthropic | partner: State of Maryland | details: Government services pilot\ncompany: Anthropic | partner: Japan AI Safety Institute | details: AI safety evaluation\ncompany: Anthropic | partner: AI Security Institute | details: Security research\ncompany: Anthropic | partner: US CAISI | details: Safety testing\ncompany: Anthropic | partner: UK AISI | details: Safety testing\ncompany: Perplexity AI | partner: GSA | details: Government-wide contract\ncompany: Perplexity AI | partner: US Government | details: Support for veterans\ncompany: OpenAI | partner: US Government | details: Support for veterans",
+    "rag_context": "(Showing 2 relevant sources based on query type)\n\n[Doc 1] 🟢 [perplexity-ai] (Wed, 19 Nov 2025 15:13:45 GMT (UTC)):\nCompany: perplexity-ai\nDate: Wed, 19 Nov 2025 15:13:45 GMT (UTC)\nContent: Today, we're announcing a first-of-its-kind partnership that brings enterprise-grade AI to the United States Government.Enterprise Pro for Government offers agencies powerful, model-agnostic AI with secure-by-default guarantees for all federal users.Through our partnership with the General Services Administration (GSA), Perplexity is now the first major AI company to enter a direct government-wide contract.Read more about Enterprise Pro for Government:https://lnkd.in/exEGP68k\n\n[Doc 2] 🟢 [anthropicresearch] (Fri, 12 Sep 2025 20:27:00 GMT (UTC)):\nCompany: anthropicresearch\nDate: Fri, 12 Sep 2025 20:27:00 GMT (UTC)\nContent: Our collaboration with the US Center for AI Standards and Innovation (CAISI) and the UK AI Security Institute (AISI) shows the importance of public-private partnerships in developing secure AI models.Governments bring expertise in areas like cybersecurity, intelligence analysis, and threat modeling. Their ongoing testing of models like Claude Opus 4 and 4.1 has helped us find vulnerabilities and build strong safeguards before deployment.Read more:https://lnkd.in/dU2haipV"
+  },
+  "scoring": {
+    "winner": "B",
+    "explanation": "System B includes more relevant information than System A. Both include accurate information, but System B is more comprehensive.",
+    "rag_only_scores": {
+      "accuracy": 5,
+      "completeness": 3,
+      "relevance": 5,
+      "total": 13
+    },
+    "rag_kg_scores": {
+      "accuracy": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "total": 15
+    }
+  },
+  "summary": {
+    "winner": "B",
+    "winner_system": "RAG+KG",
+    "rag_only_total_score": 13,
+    "rag_kg_total_score": 15,
+    "score_difference": 2,
+    "rag_only_breakdown": {
+      "accuracy": 5,
+      "completeness": 3,
+      "relevance": 5
+    },
+    "rag_kg_breakdown": {
+      "accuracy": 5,
+      "completeness": 5,
+      "relevance": 5
+    },
+    "explanation": "System B includes more relevant information than System A. Both include accurate information, but System B is more comprehensive."
+  }
+}

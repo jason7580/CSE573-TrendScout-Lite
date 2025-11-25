@@ -1,0 +1,1206 @@
+{
+    "company": "anthropicresearch",
+    "display_name": "Anthropic",
+    "total_posts": 40,
+    "posts": [
+      {
+        "global_id": 121,
+        "post_id": "anthropic-1",
+        "company": "anthropicresearch",
+        "date": "Tue, 18 Nov 2025",
+        "title": "Strategic Partnership with NVIDIA and Microsoft",
+        "summary": "Anthropic partners with NVIDIA and Microsoft, securing $15B investment and launching Claude on Azure.",
+        "post_type": "partnership_announcement",
+        "products": [
+          {
+            "name": "Claude",
+            "type": "AI model",
+            "description": "Frontier model on Azure"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Claude",
+            "provider": "Anthropic",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [
+          {
+            "partner": "NVIDIA",
+            "category": "tech_giant",
+            "type": "investment",
+            "details": "$10B investment commitment"
+          },
+          {
+            "partner": "Microsoft",
+            "category": "tech_giant",
+            "type": "investment",
+            "details": "$5B investment commitment"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "funding",
+          "cloud",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 122,
+        "post_id": "anthropic-2",
+        "company": "anthropicresearch",
+        "date": "Fri, 31 Oct 2025",
+        "title": "Claude for Financial Services Launch",
+        "summary": "Launch of Claude for Financial Services to help organizations with market analysis and operational efficiency.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Claude for Financial Services",
+            "type": "solution",
+            "description": "AI for finance sector"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Brex",
+            "category": "financial",
+            "type": "customer",
+            "details": "Operational efficiency"
+          },
+          {
+            "partner": "RBC",
+            "category": "financial",
+            "type": "customer",
+            "details": "Operational efficiency"
+          },
+          {
+            "partner": "BCI",
+            "category": "financial",
+            "type": "customer",
+            "details": "Operational efficiency"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "finance",
+          "enterprise",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 123,
+        "post_id": "anthropic-3",
+        "company": "anthropicresearch",
+        "date": "Mon, 17 Nov 2025",
+        "title": "Claude Code for Startups",
+        "summary": "Y Combinator founders share how Claude Code is helping startups pivot and build prototypes rapidly.",
+        "post_type": "product_update",
+        "products": [
+          {
+            "name": "Claude Code",
+            "type": "tool",
+            "description": "Coding agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Y Combinator",
+            "category": "education",
+            "type": "collaboration",
+            "details": "Startups using Claude Code"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "coding",
+          "enterprise",
+          "education"
+        ]
+      },
+      {
+        "global_id": 124,
+        "post_id": "anthropic-4",
+        "company": "anthropicresearch",
+        "date": "Thu, 13 Nov 2025",
+        "title": "Disruption of AI-Led Cyberattack",
+        "summary": "Anthropic disrupted a large-scale AI espionage campaign executed by a Chinese state-sponsored group.",
+        "post_type": "security_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "security",
+          "agents",
+          "government"
+        ]
+      },
+      {
+        "global_id": 125,
+        "post_id": "anthropic-5",
+        "company": "anthropicresearch",
+        "date": "Thu, 13 Nov 2025",
+        "title": "State of Maryland Partnership",
+        "summary": "Partnership with the state of Maryland to use Claude for government services and benefits processing.",
+        "post_type": "partnership_announcement",
+        "products": [
+          {
+            "name": "Claude",
+            "type": "AI model",
+            "description": "Government service assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "State of Maryland",
+            "category": "government",
+            "type": "collaboration",
+            "details": "Government services pilot"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "government",
+          "enterprise",
+          "education"
+        ]
+      },
+      {
+        "global_id": 126,
+        "post_id": "anthropic-6",
+        "company": "anthropicresearch",
+        "date": "Fri, 24 Oct 2025",
+        "title": "Claude for Life Sciences Momentum",
+        "summary": "Claude for Life Sciences helps companies like AbbVie and Novo Nordisk accelerate scientific discovery.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Claude for Life Sciences",
+            "type": "solution",
+            "description": "AI for life sciences"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "AbbVie",
+            "category": "healthcare",
+            "type": "customer",
+            "details": "Scientific discovery"
+          },
+          {
+            "partner": "Broad Institute",
+            "category": "healthcare",
+            "type": "customer",
+            "details": "Scientific discovery"
+          },
+          {
+            "partner": "Novo Nordisk",
+            "category": "healthcare",
+            "type": "customer",
+            "details": "Scientific discovery"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "healthcare",
+          "research",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 127,
+        "post_id": "anthropic-7",
+        "company": "anthropicresearch",
+        "date": "Wed, 12 Nov 2025",
+        "title": "Custom Data Center Investment",
+        "summary": "Anthropic invests $50 billion in custom-built data centers in Texas and New York with Fluidstack.",
+        "post_type": "infrastructure_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Fluidstack",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "Data center construction"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "funding",
+          "cloud"
+        ]
+      },
+      {
+        "global_id": 128,
+        "post_id": "anthropic-8",
+        "company": "anthropicresearch",
+        "date": "Fri, 07 Nov 2025",
+        "title": "New Offices in Paris and Munich",
+        "summary": "Anthropic opens offices in Paris and Munich to support growing demand in EMEA.",
+        "post_type": "enterprise_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "BMW",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "European user"
+          },
+          {
+            "partner": "SAP",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "European user"
+          },
+          {
+            "partner": "L'Oréal",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "European user"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "Europe",
+          "enterprise",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 129,
+        "post_id": "anthropic-9",
+        "company": "anthropicresearch",
+        "date": "Wed, 29 Oct 2025",
+        "title": "Tokyo Office and Japan Partnerships",
+        "summary": "Anthropic opens first APAC office in Tokyo and partners with Japan AI Safety Institute.",
+        "post_type": "enterprise_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Japan AI Safety Institute",
+            "category": "government",
+            "type": "collaboration",
+            "details": "AI safety evaluation"
+          },
+          {
+            "partner": "Rakuten",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "APAC user"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "safety",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 130,
+        "post_id": "anthropic-10",
+        "company": "anthropicresearch",
+        "date": "Tue, 23 Sep 2025",
+        "title": "Collaboration with Chan Zuckerberg Initiative",
+        "summary": "Anthropic works with Learning Commons from CZI to address AI challenges in K-12 education.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Chan Zuckerberg Initiative",
+            "category": "education",
+            "type": "collaboration",
+            "details": "K-12 AI education"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "education",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 131,
+        "post_id": "anthropic-11",
+        "company": "anthropicresearch",
+        "date": "Tue, 21 Oct 2025",
+        "title": "Claude in Pharmaceutical R&D at AbbVie",
+        "summary": "AbbVie uses Claude for multimodal data analysis and optimizing clinical trial designs.",
+        "post_type": "enterprise_announcement",
+        "products": [
+          {
+            "name": "Claude for Life Sciences",
+            "type": "solution",
+            "description": "R&D optimization"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "AbbVie",
+            "category": "healthcare",
+            "type": "customer",
+            "details": "Pharmaceutical R&D"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "healthcare",
+          "research",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 132,
+        "post_id": "anthropic-12",
+        "company": "anthropicresearch",
+        "date": "Mon, 08 Sep 2025",
+        "title": "Endorsement of California SB 53",
+        "summary": "Anthropic endorses California State Senator Scott Wiener’s SB 53 for AI governance.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "government",
+          "safety",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 133,
+        "post_id": "anthropic-13",
+        "company": "anthropicresearch",
+        "date": "Mon, 20 Oct 2025",
+        "title": "Eli Lilly Uses Claude for Research",
+        "summary": "Eli Lilly discusses using Claude for clinical research and drug development with Dario Amodei.",
+        "post_type": "enterprise_announcement",
+        "products": [
+          {
+            "name": "Claude for Life Sciences",
+            "type": "solution",
+            "description": "Drug development"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Eli Lilly",
+            "category": "healthcare",
+            "type": "customer",
+            "details": "Clinical research"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "healthcare",
+          "research",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 134,
+        "post_id": "anthropic-14",
+        "company": "anthropicresearch",
+        "date": "Mon, 29 Sep 2025",
+        "title": "Claude Sonnet 4.5 Release",
+        "summary": "Release of Claude Sonnet 4.5, offering top-tier coding, agentic capabilities, and reasoning upgrades.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "Claude Code",
+            "type": "tool",
+            "description": "Coding agent"
+          },
+          {
+            "name": "Claude App",
+            "type": "application",
+            "description": "Desktop application"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Claude Sonnet 4.5",
+            "provider": "Anthropic",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "Claude Sonnet 4",
+            "provider": "Anthropic",
+            "is_used": true,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Checkpoints",
+            "description": "Rewind code states",
+            "availability": "Claude Code"
+          },
+          {
+            "name": "Context Editing",
+            "description": "Clear stale context",
+            "availability": "Claude API"
+          }
+        ],
+        "topics": [
+          "coding",
+          "agents",
+          "cloud"
+        ]
+      },
+      {
+        "global_id": 135,
+        "post_id": "anthropic-15",
+        "company": "anthropicresearch",
+        "date": "Thu, 31 Jul 2025",
+        "title": "Claude Connects with Canva",
+        "summary": "Claude can now connect with Canva to turn documents into professional branded designs.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Claude",
+            "type": "AI model",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Canva",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Design generation"
+          }
+        ],
+        "features": [
+          {
+            "name": "Canva Integration",
+            "description": "Generate designs from text",
+            "availability": "Claude users"
+          }
+        ],
+        "topics": [
+          "partnerships",
+          "enterprise",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 136,
+        "post_id": "anthropic-16",
+        "company": "anthropicresearch",
+        "date": "Thu, 18 Sep 2025",
+        "title": "Problem Solver Motivation",
+        "summary": "A short motivational post encouraging problem solving.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "education"
+        ]
+      },
+      {
+        "global_id": 137,
+        "post_id": "anthropic-17",
+        "company": "anthropicresearch",
+        "date": "Mon, 20 Oct 2025",
+        "title": "Claude Code on the Web",
+        "summary": "Introduction of Claude Code on the web, allowing users to delegate coding tasks from the browser.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Claude Code",
+            "type": "tool",
+            "description": "Web-based coding tool"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Web Interface",
+            "description": "Browser-based coding",
+            "availability": "Pro/Max Beta"
+          }
+        ],
+        "topics": [
+          "coding",
+          "cloud",
+          "infrastructure"
+        ]
+      },
+      {
+        "global_id": 138,
+        "post_id": "anthropic-18",
+        "company": "anthropicresearch",
+        "date": "Fri, 18 Jul 2025",
+        "title": "Figma Connector for Claude",
+        "summary": "New Figma connector lets users turn designs into production-ready code using Claude.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Claude",
+            "type": "AI model",
+            "description": "Code generator"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Figma",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Design to code"
+          }
+        ],
+        "features": [
+          {
+            "name": "Figma Connector",
+            "description": "Generate code from design",
+            "availability": "Claude desktop"
+          }
+        ],
+        "topics": [
+          "coding",
+          "partnerships",
+          "MCP"
+        ]
+      },
+      {
+        "global_id": 139,
+        "post_id": "anthropic-19",
+        "company": "anthropicresearch",
+        "date": "Tue, 01 Jul 2025",
+        "title": "Claude Artifacts Gallery Showcase",
+        "summary": "Showcase of user-created artifacts ranging from games to analytical tools.",
+        "post_type": "product_update",
+        "products": [
+          {
+            "name": "Artifacts",
+            "type": "feature",
+            "description": "Interactive AI creations"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "education",
+          "coding",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 140,
+        "post_id": "anthropic-20",
+        "company": "anthropicresearch",
+        "date": "Mon, 30 Jun 2025",
+        "title": "Creating Interactive Artifacts",
+        "summary": "Walkthrough of how to create interactive experiences using Claude Artifacts without coding.",
+        "post_type": "product_update",
+        "products": [
+          {
+            "name": "Artifacts",
+            "type": "feature",
+            "description": "Interactive AI creations"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "education",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 141,
+        "post_id": "anthropic-21",
+        "company": "anthropicresearch",
+        "date": "Tue, 21 Oct 2025",
+        "title": "Statement on AI Administration Policy",
+        "summary": "CEO Dario Amodei issues a statement on sharing the US administration's goals for AI development.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "government",
+          "safety"
+        ]
+      },
+      {
+        "global_id": 142,
+        "post_id": "anthropic-22",
+        "company": "anthropicresearch",
+        "date": "Tue, 26 Aug 2025",
+        "title": "Claude for Chrome Research Preview",
+        "summary": "Release of Claude for Chrome as a research preview, enabling browser-based actions.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Claude for Chrome",
+            "type": "extension",
+            "description": "Browser agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Browser Actions",
+            "description": "Takes actions in browser",
+            "availability": "Research Preview"
+          }
+        ],
+        "topics": [
+          "agents",
+          "research",
+          "safety"
+        ]
+      },
+      {
+        "global_id": 143,
+        "post_id": "anthropic-23",
+        "company": "anthropicresearch",
+        "date": "Tue, 17 Jun 2025",
+        "title": "Internal Use of Claude Code",
+        "summary": "Deep dive into how Anthropic's own teams use Claude Code for internal development.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "Claude Code",
+            "type": "tool",
+            "description": "Coding agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "coding",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 144,
+        "post_id": "anthropic-24",
+        "company": "anthropicresearch",
+        "date": "Wed, 30 Jul 2025",
+        "title": "Claude on LinkedIn Launch",
+        "summary": "Anthropic launches a dedicated Claude page on LinkedIn for practical AI ideas.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "education",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 145,
+        "post_id": "anthropic-25",
+        "company": "anthropicresearch",
+        "date": "Fri, 10 Oct 2025",
+        "title": "Novo Nordisk Automates Regulatory Content",
+        "summary": "Novo Nordisk uses Claude Code to build NovoScribe, automating regulatory content creation.",
+        "post_type": "enterprise_announcement",
+        "products": [
+          {
+            "name": "Claude Code",
+            "type": "tool",
+            "description": "Coding agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Novo Nordisk",
+            "category": "healthcare",
+            "type": "customer",
+            "details": "Regulatory automation"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "healthcare",
+          "enterprise",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 146,
+        "post_id": "anthropic-26",
+        "company": "anthropicresearch",
+        "date": "Fri, 23 May 2025",
+        "title": "Rick Rubin Collaboration Project",
+        "summary": "Collaboration with Rick Rubin on 'THE WAY OF CODE', featuring AI-modified art.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Rick Rubin",
+            "category": "enterprise",
+            "type": "collaboration",
+            "details": "Art project"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "education"
+        ]
+      },
+      {
+        "global_id": 147,
+        "post_id": "anthropic-27",
+        "company": "anthropicresearch",
+        "date": "Thu, 09 Oct 2025",
+        "title": "Research on AI Data Poisoning",
+        "summary": "Research finds that small numbers of malicious documents can poison AI models of any size.",
+        "post_type": "research_publication",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "AI Security Institute",
+            "category": "government",
+            "type": "collaboration",
+            "details": "Security research"
+          },
+          {
+            "partner": "Alan Turing Institute",
+            "category": "education",
+            "type": "collaboration",
+            "details": "Security research"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "research",
+          "security",
+          "safety"
+        ]
+      },
+      {
+        "global_id": 148,
+        "post_id": "anthropic-28",
+        "company": "anthropicresearch",
+        "date": "Thu, 31 Jul 2025",
+        "title": "Artifacts File Reading Capability",
+        "summary": "Claude artifacts can now read uploaded files like PDFs and CSVs to build custom tools.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Artifacts",
+            "type": "feature",
+            "description": "Interactive AI creations"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "File Reading",
+            "description": "Read user uploaded files",
+            "availability": "All plans"
+          }
+        ],
+        "topics": [
+          "productivity",
+          "enterprise",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 149,
+        "post_id": "anthropic-29",
+        "company": "anthropicresearch",
+        "date": "Thu, 24 Jul 2025",
+        "title": "Claude and Canva Integration",
+        "summary": "Claude can now turn written content into branded visuals through Canva integration.",
+        "post_type": "feature_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Canva",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Visual generation"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 150,
+        "post_id": "anthropic-30",
+        "company": "anthropicresearch",
+        "date": "Fri, 03 Oct 2025",
+        "title": "AI Impact on Cybersecurity",
+        "summary": "Anthropic discusses improvements in defensive cybersecurity capabilities with Claude Sonnet 4.5.",
+        "post_type": "security_announcement",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Claude Sonnet 4.5",
+            "provider": "Anthropic",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "security",
+          "safety",
+          "research"
+        ]
+      },
+      {
+        "global_id": 151,
+        "post_id": "anthropic-31",
+        "company": "anthropicresearch",
+        "date": "Wed, 01 Oct 2025",
+        "title": "Enterprise Customer Stories",
+        "summary": "Highlights of how Novo Nordisk, Salesforce, and others use Claude for business transformation.",
+        "post_type": "enterprise_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Salesforce",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "Business transformation"
+          },
+          {
+            "partner": "Palo Alto Networks",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "Business transformation"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "healthcare",
+          "automotive"
+        ]
+      },
+      {
+        "global_id": 152,
+        "post_id": "anthropic-32",
+        "company": "anthropicresearch",
+        "date": "Mon, 14 Jul 2025",
+        "title": "Claude Integrations Directory",
+        "summary": "Launch of a directory to browse and connect tools like Notion and Stripe to Claude.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Claude Integrations",
+            "type": "feature",
+            "description": "Tool connectivity"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Notion",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Productivity tool"
+          },
+          {
+            "partner": "Stripe",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Payment data"
+          },
+          {
+            "partner": "Zapier",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Workflow automation"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "productivity",
+          "partnerships",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 153,
+        "post_id": "anthropic-33",
+        "company": "anthropicresearch",
+        "date": "Wed, 09 Jul 2025",
+        "title": "Research on Emotional Support Usage",
+        "summary": "Research findings on how people use Claude for emotional support and companionship.",
+        "post_type": "research_publication",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "research",
+          "safety",
+          "education"
+        ]
+      },
+      {
+        "global_id": 154,
+        "post_id": "anthropic-34",
+        "company": "anthropicresearch",
+        "date": "Tue, 08 Apr 2025",
+        "title": "Claude for Education Report",
+        "summary": "Release of the first Education Report analyzing student usage and announcing Claude for Education.",
+        "post_type": "research_publication",
+        "products": [
+          {
+            "name": "Claude for Education",
+            "type": "solution",
+            "description": "AI for universities"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Learning Mode",
+            "description": "Critical thinking tool",
+            "availability": "Pro users with .edu"
+          }
+        ],
+        "topics": [
+          "education",
+          "research",
+          "safety"
+        ]
+      },
+      {
+        "global_id": 155,
+        "post_id": "anthropic-35",
+        "company": "anthropicresearch",
+        "date": "Wed, 25 Jun 2025",
+        "title": "New Ways to Create with Artifacts",
+        "summary": "Introduction of a dedicated space for building and sharing AI-powered artifacts.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Artifacts",
+            "type": "feature",
+            "description": "App creation tool"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Artifacts Space",
+            "description": "Host and share apps",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "coding",
+          "education",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 156,
+        "post_id": "anthropic-36",
+        "company": "anthropicresearch",
+        "date": "Mon, 22 Sep 2025",
+        "title": "Cox Automotive Transformation",
+        "summary": "Cox Automotive uses Claude-powered agents to double consumer lead response times.",
+        "post_type": "enterprise_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Cox Automotive",
+            "category": "automotive",
+            "type": "customer",
+            "details": "AI agents for CRM"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "automotive",
+          "agents",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 157,
+        "post_id": "anthropic-37",
+        "company": "anthropicresearch",
+        "date": "Wed, 18 Jun 2025",
+        "title": "Remote MCP Support for Claude Code",
+        "summary": "Claude Code now supports connecting to remote Model Context Protocol (MCP) servers.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Claude Code",
+            "type": "tool",
+            "description": "Coding agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Remote MCP",
+            "description": "Connect remote tools",
+            "availability": "Claude Code"
+          }
+        ],
+        "topics": [
+          "MCP",
+          "coding",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 158,
+        "post_id": "anthropic-38",
+        "company": "anthropicresearch",
+        "date": "Tue, 09 Sep 2025",
+        "title": "File Creation and Editing in Claude",
+        "summary": "Claude can now create and edit Excel, Word, PowerPoint, and PDF files directly.",
+        "post_type": "feature_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "File Editing",
+            "description": "Create Office docs",
+            "availability": "Max/Team/Enterprise"
+          }
+        ],
+        "topics": [
+          "productivity",
+          "enterprise",
+          "finance"
+        ]
+      },
+      {
+        "global_id": 159,
+        "post_id": "anthropic-39",
+        "company": "anthropicresearch",
+        "date": "Tue, 03 Jun 2025",
+        "title": "Research and Integrations on Pro Plan",
+        "summary": "Research capabilities and Integrations with tools like Zapier are now available on Claude Pro.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Claude Pro",
+            "type": "subscription",
+            "description": "Paid plan"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Zapier",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Workflow automation"
+          },
+          {
+            "partner": "Asana",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Project management"
+          }
+        ],
+        "features": [
+          {
+            "name": "Integrations",
+            "description": "Connect apps",
+            "availability": "Claude Pro"
+          }
+        ],
+        "topics": [
+          "productivity",
+          "research",
+          "MCP"
+        ]
+      },
+      {
+        "global_id": 160,
+        "post_id": "anthropic-40",
+        "company": "anthropicresearch",
+        "date": "Fri, 12 Sep 2025",
+        "title": "AI Safety Partnership with US and UK Institutes",
+        "summary": "Collaboration with US CAISI and UK AISI to test and secure Claude Opus models.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Claude Opus 4",
+            "provider": "Anthropic",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "Claude Opus 4.1",
+            "provider": "Anthropic",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [
+          {
+            "partner": "US CAISI",
+            "category": "government",
+            "type": "collaboration",
+            "details": "Safety testing"
+          },
+          {
+            "partner": "UK AISI",
+            "category": "government",
+            "type": "collaboration",
+            "details": "Safety testing"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "safety",
+          "government",
+          "security"
+        ]
+      }
+    ]
+  }

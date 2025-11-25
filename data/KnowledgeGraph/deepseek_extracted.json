@@ -1,0 +1,540 @@
+{
+    "company": "deepseek-ai",
+    "display_name": "DeepSeek",
+    "total_posts": 14,
+    "posts": [
+      {
+        "global_id": 161,
+        "post_id": "deepseek-1",
+        "company": "deepseek-ai",
+        "date": "Mon, 29 Sep 2025",
+        "title": "DeepSeek-V3.2-Exp with Sparse Attention",
+        "summary": "DeepSeek releases V3.2-Exp featuring DeepSeek Sparse Attention for faster long-context training and 50% lower API prices.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "DeepSeek App",
+            "type": "platform",
+            "description": "User chat interface"
+          },
+          {
+            "name": "DeepSeek API",
+            "type": "API",
+            "description": "Developer interface"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3.2-Exp",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "DeepSeek-V3.1-Terminus",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "DeepSeek Sparse Attention",
+            "description": "Efficient long context processing",
+            "availability": "V3.2-Exp"
+          }
+        ],
+        "topics": [
+          "models",
+          "performance",
+          "pricing",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 162,
+        "post_id": "deepseek-2",
+        "company": "deepseek-ai",
+        "date": "Tue, 23 Sep 2025",
+        "title": "DeepSeek-V3.1-Terminus Update",
+        "summary": "Update to V3.1 improves language consistency, fixes mixed characters, and boosts Code and Search Agent performance.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3.1-Terminus",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Improved Language Consistency",
+            "description": "Fewer CN/EN mix-ups",
+            "availability": "All users"
+          },
+          {
+            "name": "Agent Upgrades",
+            "description": "Stronger Code and Search agents",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "agents",
+          "performance",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 163,
+        "post_id": "deepseek-3",
+        "company": "deepseek-ai",
+        "date": "Thu, 27 Feb 2025",
+        "title": "Optimized Parallelism Strategies Release",
+        "summary": "Release of DualPipe and EPLB algorithms for optimized parallelism in V3/R1 training during OpenSourceWeek.",
+        "post_type": "open_source_release",
+        "products": [
+          {
+            "name": "DualPipe",
+            "type": "tool",
+            "description": "Bidirectional pipeline parallelism algorithm"
+          },
+          {
+            "name": "EPLB",
+            "type": "tool",
+            "description": "Expert-parallel load balancer"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          },
+          {
+            "name": "DeepSeek-R1",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "open-source",
+          "training",
+          "performance"
+        ]
+      },
+      {
+        "global_id": 164,
+        "post_id": "deepseek-4",
+        "company": "deepseek-ai",
+        "date": "Wed, 26 Feb 2025",
+        "title": "DeepGEMM Library Release",
+        "summary": "DeepSeek releases DeepGEMM, an FP8 GEMM library achieving 1350+ TFLOPS on Hopper GPUs for V3/R1 training.",
+        "post_type": "open_source_release",
+        "products": [
+          {
+            "name": "DeepGEMM",
+            "type": "library",
+            "description": "FP8 GEMM library"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "FP8 Support",
+            "description": "Dense and MoE GEMMs",
+            "availability": "Open Source"
+          },
+          {
+            "name": "JIT Compilation",
+            "description": "Just-In-Time compiled",
+            "availability": "Open Source"
+          }
+        ],
+        "topics": [
+          "infrastructure",
+          "hardware",
+          "performance",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 165,
+        "post_id": "deepseek-5",
+        "company": "deepseek-ai",
+        "date": "Thu, 21 Aug 2025",
+        "title": "DeepSeek-V3.1 Hybrid Inference Launch",
+        "summary": "Introduction of DeepSeek-V3.1 with hybrid Think/Non-Think modes and faster reasoning capabilities.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "DeepThink",
+            "type": "feature",
+            "description": "Reasoning toggle"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3.1",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "DeepSeek-R1-0528",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Hybrid Inference",
+            "description": "Switch between Think and Non-Think modes",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "reasoning",
+          "agents",
+          "performance"
+        ]
+      },
+      {
+        "global_id": 166,
+        "post_id": "deepseek-6",
+        "company": "deepseek-ai",
+        "date": "Fri, 30 May 2025",
+        "title": "DeepSeek-R1-0528 Model Release",
+        "summary": "Release of DeepSeek-R1-0528 with improved benchmarks, reduced hallucinations, and JSON output support.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "DeepSeek-R1-0528",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "JSON Output",
+            "description": "Structured data generation",
+            "availability": "All users"
+          },
+          {
+            "name": "Function Calling",
+            "description": "Agent capability",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "open-source",
+          "performance",
+          "agents"
+        ]
+      },
+      {
+        "global_id": 167,
+        "post_id": "deepseek-7",
+        "company": "deepseek-ai",
+        "date": "Mon, 03 Mar 2025",
+        "title": "Inference System Overview Release",
+        "summary": "DeepSeek shares technical details of its V3/R1 inference system, achieving 73.7k input tokens/sec per node.",
+        "post_type": "infrastructure_announcement",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          },
+          {
+            "name": "DeepSeek-R1",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "performance",
+          "inference",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 168,
+        "post_id": "deepseek-8",
+        "company": "deepseek-ai",
+        "date": "Mon, 03 Mar 2025",
+        "title": "3FS Parallel File System Release",
+        "summary": "Release of Fire-Flyer File System (3FS) delivering 6.6 TiB/s read throughput for high-performance data access.",
+        "post_type": "infrastructure_announcement",
+        "products": [
+          {
+            "name": "3FS",
+            "type": "infrastructure",
+            "description": "Parallel file system"
+          },
+          {
+            "name": "Smallpond",
+            "type": "framework",
+            "description": "Data processing framework"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "High Throughput",
+            "description": "6.6 TiB/s aggregate read",
+            "availability": "Open Source"
+          }
+        ],
+        "topics": [
+          "infrastructure",
+          "performance",
+          "open-source",
+          "training"
+        ]
+      },
+      {
+        "global_id": 169,
+        "post_id": "deepseek-9",
+        "company": "deepseek-ai",
+        "date": "Mon, 17 Feb 2025",
+        "title": "DeepSeek-R1 Deployment Recommendations",
+        "summary": "Official guidelines for deploying DeepSeek-R1, including prompt settings and model bypass mitigation.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "DeepSeek-R1",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "open-source",
+          "inference"
+        ]
+      },
+      {
+        "global_id": 170,
+        "post_id": "deepseek-10",
+        "company": "deepseek-ai",
+        "date": "Wed, 26 Mar 2025",
+        "title": "DeepSeek-V3-0324 Model Release",
+        "summary": "DeepSeek-V3-0324 released with improved reasoning and tool-use, available under MIT License.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "DeepThink",
+            "type": "feature",
+            "description": "Reasoning mode"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3-0324",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "DeepSeek-V3",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "MIT License",
+            "description": "Open source licensing",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "open-source",
+          "reasoning",
+          "agents"
+        ]
+      },
+      {
+        "global_id": 171,
+        "post_id": "deepseek-11",
+        "company": "deepseek-ai",
+        "date": "Thu, 27 Feb 2025",
+        "title": "Off-Peak API Discounts",
+        "summary": "DeepSeek announces massive off-peak discounts: 50% off V3 and 75% off R1 daily from 16:30-00:30 UTC.",
+        "post_type": "pricing_announcement",
+        "products": [
+          {
+            "name": "DeepSeek API",
+            "type": "API",
+            "description": "Developer platform"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          },
+          {
+            "name": "DeepSeek-R1",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Off-Peak Pricing",
+            "description": "Daily discounts during specific hours",
+            "availability": "API Users"
+          }
+        ],
+        "topics": [
+          "pricing",
+          "API",
+          "models"
+        ]
+      },
+      {
+        "global_id": 172,
+        "post_id": "deepseek-12",
+        "company": "deepseek-ai",
+        "date": "Mon, 20 Jan 2025",
+        "title": "DeepSeek-R1 Open Source Release",
+        "summary": "DeepSeek-R1 released under MIT license with performance comparable to OpenAI-o1.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "DeepThink",
+            "type": "feature",
+            "description": "Reasoning capability"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-R1",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "MIT License",
+            "description": "Commercial use allowed",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "open-source",
+          "reasoning",
+          "performance"
+        ]
+      },
+      {
+        "global_id": 173,
+        "post_id": "deepseek-13",
+        "company": "deepseek-ai",
+        "date": "Wed, 15 Jan 2025",
+        "title": "DeepSeek Mobile App Launch",
+        "summary": "Official DeepSeek App launches on App Store and Google Play, powered by DeepSeek-V3.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "DeepSeek App",
+            "type": "application",
+            "description": "Mobile chat app"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Free Access",
+            "description": "Free model usage",
+            "availability": "Mobile users"
+          }
+        ],
+        "topics": [
+          "mobile",
+          "models",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 174,
+        "post_id": "deepseek-14",
+        "company": "deepseek-ai",
+        "date": "Sat, 04 Jan 2025",
+        "title": "DeepSeek-V3 Hits 60 Tokens/Second",
+        "summary": "DeepSeek-V3 released with 60 tokens/second generation speed, 3x faster than previous versions.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "DeepSeek-V3",
+            "provider": "DeepSeek",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "DeepSeek-V2",
+            "provider": "DeepSeek",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "performance",
+          "open-source",
+          "API"
+        ]
+      }
+    ]
+  }

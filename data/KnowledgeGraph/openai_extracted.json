@@ -1,0 +1,1157 @@
+{
+    "company": "openai",
+    "display_name": "OpenAI",
+    "total_posts": 40,
+    "posts": [
+      {
+        "global_id": 41,
+        "post_id": "openai-1",
+        "company": "openai",
+        "date": "Mon, 17 Nov 2025",
+        "title": "Gartner Recognizes OpenAI as Emerging Leader",
+        "summary": "OpenAI is recognized as an Emerging Leader in the 2025 Gartner Innovation Guide for Generative AI.",
+        "post_type": "milestone_announcement",
+        "products": [
+          {
+            "name": "Enterprise Platform",
+            "type": "platform",
+            "description": "Enterprise-grade AI platform"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Gartner",
+            "category": "enterprise",
+            "type": "marketing",
+            "details": "Recognition in Innovation Guide"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "models",
+          "safety"
+        ]
+      },
+      {
+        "global_id": 42,
+        "post_id": "openai-2",
+        "company": "openai",
+        "date": "Thu, 20 Nov 2025",
+        "title": "Group Chats Rolling Out in ChatGPT",
+        "summary": "Group chats are now available globally for collaborating with friends, family, and ChatGPT in one conversation.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT",
+            "type": "platform",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Group Chats",
+            "description": "Collaborate with others and AI",
+            "availability": "All logged-in users"
+          }
+        ],
+        "topics": [
+          "product_update",
+          "multimodal",
+          "mobile"
+        ]
+      },
+      {
+        "global_id": 43,
+        "post_id": "openai-3",
+        "company": "openai",
+        "date": "Sat, 15 Nov 2025",
+        "title": "Improved Custom Instructions for Formatting",
+        "summary": "ChatGPT is now better at following custom instructions to avoid specific formatting like em dashes.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT",
+            "type": "platform",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Custom Instructions",
+            "description": "Better adherence to formatting rules",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "performance",
+          "education"
+        ]
+      },
+      {
+        "global_id": 44,
+        "post_id": "openai-4",
+        "company": "openai",
+        "date": "Wed, 12 Nov 2025",
+        "title": "GPT-5.1 Rolling Out to All Users",
+        "summary": "GPT-5.1 is rolling out with better instruction following, reasoning, and personalized chat styles.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "ChatGPT",
+            "type": "platform",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "GPT-5.1",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Chat Styles",
+            "description": "Customizable tone and style",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "performance",
+          "agents"
+        ]
+      },
+      {
+        "global_id": 45,
+        "post_id": "openai-5",
+        "company": "openai",
+        "date": "Tue, 11 Nov 2025",
+        "title": "Free ChatGPT Plus for Veterans",
+        "summary": "US servicemembers and veterans transitioning to civilian life can receive a free year of ChatGPT Plus.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "ChatGPT Plus",
+            "type": "subscription",
+            "description": "Premium AI subscription"
+          },
+          {
+            "name": "OpenAI Academy",
+            "type": "platform",
+            "description": "Educational resource"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "SheerID",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Verification platform"
+          },
+          {
+            "partner": "US Government",
+            "category": "government",
+            "type": "collaboration",
+            "details": "Support for veterans"
+          }
+        ],
+        "features": [
+          {
+            "name": "Veteran Offer",
+            "description": "Free year of Plus subscription",
+            "availability": "Veterans within 12 months of separation"
+          }
+        ],
+        "topics": [
+          "government",
+          "education",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 46,
+        "post_id": "openai-6",
+        "company": "openai",
+        "date": "Mon, 10 Nov 2025",
+        "title": "Veteran Transition Initiative Launch",
+        "summary": "OpenAI launches a program offering free ChatGPT Plus to veterans, driven by internal veteran employees.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "ChatGPT Plus",
+            "type": "subscription",
+            "description": "Premium AI subscription"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "government",
+          "education",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 47,
+        "post_id": "openai-7",
+        "company": "openai",
+        "date": "Thu, 20 Nov 2025",
+        "title": "Research on GPT-5 Accelerating Science",
+        "summary": "New research highlights how GPT-5 accelerates discovery in math, physics, biology, and other scientific fields.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "GPT-5",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "research",
+          "models",
+          "education"
+        ]
+      },
+      {
+        "global_id": 48,
+        "post_id": "openai-8",
+        "company": "openai",
+        "date": "Wed, 05 Nov 2025",
+        "title": "One Million Business Customers Milestone",
+        "summary": "OpenAI celebrates reaching over 1 million business customers, becoming the fastest-growing business platform.",
+        "post_type": "milestone_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "performance",
+          "agents"
+        ]
+      },
+      {
+        "global_id": 49,
+        "post_id": "openai-9",
+        "company": "openai",
+        "date": "Wed, 05 Nov 2025",
+        "title": "Agentic Commerce and Business Growth",
+        "summary": "Milestone of 1 million business customers and the rise of agentic workflows with major partners.",
+        "post_type": "milestone_announcement",
+        "products": [
+          {
+            "name": "Agentic Commerce Protocol",
+            "type": "platform",
+            "description": "Commerce integration standard"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Canva",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "App integration"
+          },
+          {
+            "partner": "Spotify",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "App integration"
+          },
+          {
+            "partner": "Shopify",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Commerce protocol"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "agents",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 50,
+        "post_id": "openai-10",
+        "company": "openai",
+        "date": "Tue, 04 Nov 2025",
+        "title": "Automated Code Reviews with Codex",
+        "summary": "Codex can now provide high-signal code reviews in GitHub and CLI with senior engineer quality.",
+        "post_type": "product_update",
+        "products": [
+          {
+            "name": "Codex",
+            "type": "model",
+            "description": "Programming model"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "GitHub",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Pull request reviews"
+          }
+        ],
+        "features": [
+          {
+            "name": "Code Review",
+            "description": "Automated PR reviews",
+            "availability": "Codex users"
+          }
+        ],
+        "topics": [
+          "coding",
+          "models",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 51,
+        "post_id": "openai-11",
+        "company": "openai",
+        "date": "Fri, 31 Oct 2025",
+        "title": "ChatGPT Agent Mode Preview",
+        "summary": "Agent mode allows ChatGPT to research, plan, and take action while users browse.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT agent",
+            "type": "agent",
+            "description": "Autonomous browser agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Agent Mode",
+            "description": "Autonomous browsing actions",
+            "availability": "Plus, Pro, Business"
+          }
+        ],
+        "topics": [
+          "agents",
+          "productivity",
+          "models"
+        ]
+      },
+      {
+        "global_id": 52,
+        "post_id": "openai-12",
+        "company": "openai",
+        "date": "Mon, 27 Oct 2025",
+        "title": "Frontend Design with Codex Cloud",
+        "summary": "Codex Cloud's multimodal abilities enable it to serve as a frontend design partner for UI building.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Codex",
+            "type": "model",
+            "description": "Programming model"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Multimodal Design",
+            "description": "UI design from sketches",
+            "availability": "Codex Cloud"
+          }
+        ],
+        "topics": [
+          "coding",
+          "multimodal",
+          "design"
+        ]
+      },
+      {
+        "global_id": 53,
+        "post_id": "openai-13",
+        "company": "openai",
+        "date": "Thu, 13 Nov 2025",
+        "title": "Interpretable AI Model Training",
+        "summary": "New method for training small AI models with internal mechanisms that are easier to interpret.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "research",
+          "safety",
+          "models"
+        ]
+      },
+      {
+        "global_id": 54,
+        "post_id": "openai-14",
+        "company": "openai",
+        "date": "Wed, 05 Nov 2025",
+        "title": "OpenAI for Science Initiative",
+        "summary": "Launch of OpenAI for Science to build AI tools that accelerate scientific discovery.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "research",
+          "science",
+          "collaboration"
+        ]
+      },
+      {
+        "global_id": 55,
+        "post_id": "openai-15",
+        "company": "openai",
+        "date": "Wed, 08 Oct 2025",
+        "title": "DevDay 2025 Recap",
+        "summary": "DevDay 2025 unveiled Sora 2 in API, Apps in ChatGPT, and Agent Builder tools.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "Sora 2",
+            "type": "model",
+            "description": "Video generation model"
+          },
+          {
+            "name": "Agent Builder",
+            "type": "tool",
+            "description": "Agent creation tool"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Sora 2",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "video",
+          "agents",
+          "API",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 56,
+        "post_id": "openai-16",
+        "company": "openai",
+        "date": "Thu, 16 Oct 2025",
+        "title": "Sora Video Reaction Tease",
+        "summary": "A one-word post 'Shivers' likely reacting to a demonstration of video generation capabilities.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "video",
+          "multimodal"
+        ]
+      },
+      {
+        "global_id": 57,
+        "post_id": "openai-17",
+        "company": "openai",
+        "date": "Wed, 05 Nov 2025",
+        "title": "IndQA Benchmark for Indian Culture",
+        "summary": "Introduction of IndQA, a benchmark for evaluating AI on Indian culture, languages, and reasoning.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "research",
+          "culture",
+          "models"
+        ]
+      },
+      {
+        "global_id": 58,
+        "post_id": "openai-18",
+        "company": "openai",
+        "date": "Mon, 27 Oct 2025",
+        "title": "Try All Chat Styles",
+        "summary": "A suggestion to try different features or styles, referencing a Reddit user's idea.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "community",
+          "product_update"
+        ]
+      },
+      {
+        "global_id": 59,
+        "post_id": "openai-19",
+        "company": "openai",
+        "date": "Mon, 29 Sep 2025",
+        "title": "Internal AI Use in Operations",
+        "summary": "Feature on how OpenAI's User Operations and Support teams use AI internally.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "productivity",
+          "operations"
+        ]
+      },
+      {
+        "global_id": 60,
+        "post_id": "openai-20",
+        "company": "openai",
+        "date": "Mon, 29 Sep 2025",
+        "title": "OpenAI on OpenAI Series Launch",
+        "summary": "Launch of 'OpenAI on OpenAI', a series showcasing how internal teams use their own AI technology.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "productivity",
+          "culture"
+        ]
+      },
+      {
+        "global_id": 61,
+        "post_id": "openai-21",
+        "company": "openai",
+        "date": "Thu, 23 Oct 2025",
+        "title": "Codex Extension for VS Code",
+        "summary": "New IDE extension allows using Codex directly in VS Code and Cursor for development.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Codex",
+            "type": "model",
+            "description": "Programming model"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Cursor",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "IDE integration"
+          }
+        ],
+        "features": [
+          {
+            "name": "IDE Extension",
+            "description": "In-editor coding assistance",
+            "availability": "VS Code, Cursor"
+          }
+        ],
+        "topics": [
+          "coding",
+          "developer_tools",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 62,
+        "post_id": "openai-22",
+        "company": "openai",
+        "date": "Wed, 22 Oct 2025",
+        "title": "Ask ChatGPT Feature in Atlas",
+        "summary": "The 'Ask ChatGPT' feature in the Atlas browser provides instant answers based on the current page.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT Atlas",
+            "type": "platform",
+            "description": "AI-native web browser"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Contextual Answers",
+            "description": "Page-aware assistance",
+            "availability": "Atlas Browser"
+          }
+        ],
+        "topics": [
+          "browsing",
+          "productivity",
+          "agents"
+        ]
+      },
+      {
+        "global_id": 63,
+        "post_id": "openai-23",
+        "company": "openai",
+        "date": "Tue, 21 Oct 2025",
+        "title": "ChatGPT Atlas Browser Launch",
+        "summary": "Launch of ChatGPT Atlas, a new browser that integrates ChatGPT for seamless web navigation and tasks.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "ChatGPT Atlas",
+            "type": "platform",
+            "description": "AI-native web browser"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Browser Integration",
+            "description": "Deeply integrated AI assistance",
+            "availability": "macOS (others coming soon)"
+          }
+        ],
+        "topics": [
+          "browsing",
+          "agents",
+          "product_launch"
+        ]
+      },
+      {
+        "global_id": 64,
+        "post_id": "openai-24",
+        "company": "openai",
+        "date": "Mon, 15 Sep 2025",
+        "title": "Economic Research on ChatGPT Usage",
+        "summary": "Release of a research paper on global ChatGPT usage trends and demographic shifts.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Harvard University",
+            "category": "education",
+            "type": "research",
+            "details": "Co-authored paper"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "research",
+          "economics",
+          "demographics"
+        ]
+      },
+      {
+        "global_id": 65,
+        "post_id": "openai-25",
+        "company": "openai",
+        "date": "Mon, 06 Oct 2025",
+        "title": "Apps in ChatGPT Launch",
+        "summary": "Users can now chat directly with apps like Booking.com and Spotify inside ChatGPT.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT",
+            "type": "platform",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Booking.com",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "App integration"
+          },
+          {
+            "partner": "Spotify",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "App integration"
+          },
+          {
+            "partner": "Figma",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "App integration"
+          }
+        ],
+        "features": [
+          {
+            "name": "Apps in ChatGPT",
+            "description": "Direct app interaction",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "agents",
+          "partnerships",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 66,
+        "post_id": "openai-26",
+        "company": "openai",
+        "date": "Tue, 30 Sep 2025",
+        "title": "Sora 2 Model Announcement",
+        "summary": "Sora 2 is announced with improved physical accuracy, controllability, and synchronized audio.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "Sora 2",
+            "type": "model",
+            "description": "Advanced video generation"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Sora 2",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "video",
+          "multimodal",
+          "models"
+        ]
+      },
+      {
+        "global_id": 67,
+        "post_id": "openai-27",
+        "company": "openai",
+        "date": "Mon, 29 Sep 2025",
+        "title": "Instant Checkout in ChatGPT",
+        "summary": "Introduction of Instant Checkout in ChatGPT with Etsy and Shopify, powered by Agentic Commerce Protocol.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "Instant Checkout",
+            "type": "feature",
+            "description": "In-chat purchasing"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Etsy",
+            "category": "tech_company",
+            "type": "integration",
+            "details": "Shopping integration"
+          },
+          {
+            "partner": "Stripe",
+            "category": "tech_company",
+            "type": "infrastructure",
+            "details": "Payment processing"
+          }
+        ],
+        "features": [
+          {
+            "name": "Instant Checkout",
+            "description": "Buy products in chat",
+            "availability": "US Pro/Plus/Free"
+          }
+        ],
+        "topics": [
+          "enterprise",
+          "agents",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 68,
+        "post_id": "openai-28",
+        "company": "openai",
+        "date": "Thu, 04 Sep 2025",
+        "title": "OpenAI Jobs Platform Launch",
+        "summary": "Launch of OpenAI-Certified and Jobs Platform to connect AI-skilled workers with employers.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "OpenAI Jobs Platform",
+            "type": "platform",
+            "description": "Job connection board"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "education",
+          "enterprise",
+          "society"
+        ]
+      },
+      {
+        "global_id": 69,
+        "post_id": "openai-29",
+        "company": "openai",
+        "date": "Sun, 19 Oct 2025",
+        "title": "Productivity Prompt Tip",
+        "summary": "A tip on using ChatGPT to break down goals into small daily tasks.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "education",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 70,
+        "post_id": "openai-30",
+        "company": "openai",
+        "date": "Tue, 09 Sep 2025",
+        "title": "Conversation Branching in ChatGPT",
+        "summary": "Users can now branch conversations in ChatGPT to explore different directions without losing context.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT",
+            "type": "platform",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Conversation Branching",
+            "description": "Split chat threads",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "product_update",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 71,
+        "post_id": "openai-31",
+        "company": "openai",
+        "date": "Tue, 19 Aug 2025",
+        "title": "ChatGPT Go Launches in India",
+        "summary": "ChatGPT Go, a low-cost subscription plan, launches in India with enhanced limits and UPI support.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "ChatGPT Go",
+            "type": "subscription",
+            "description": "Budget-friendly subscription"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "GPT-5",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "UPI Payment",
+            "description": "Local payment method",
+            "availability": "India"
+          }
+        ],
+        "topics": [
+          "mobile",
+          "international",
+          "product_launch"
+        ]
+      },
+      {
+        "global_id": 72,
+        "post_id": "openai-32",
+        "company": "openai",
+        "date": "Tue, 14 Oct 2025",
+        "title": "Critical Thinking Prompt Tips",
+        "summary": "A guide providing specific prompts to help users leverage ChatGPT for critical thinking and strategy.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "education",
+          "reasoning",
+          "productivity"
+        ]
+      },
+      {
+        "global_id": 73,
+        "post_id": "openai-33",
+        "company": "openai",
+        "date": "Sun, 12 Oct 2025",
+        "title": "Friendly Reminder Video",
+        "summary": "Short video post serving as a friendly reminder to the community.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "community",
+          "culture"
+        ]
+      },
+      {
+        "global_id": 74,
+        "post_id": "openai-34",
+        "company": "openai",
+        "date": "Thu, 14 Aug 2025",
+        "title": "GPT-5 in Medical Research",
+        "summary": "Immunologist Dr. Derya Unutmaz uses GPT-5 to predict experiment outcomes and accelerate medical research.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "GPT-5",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "research",
+          "health",
+          "models"
+        ]
+      },
+      {
+        "global_id": 75,
+        "post_id": "openai-35",
+        "company": "openai",
+        "date": "Mon, 28 Jul 2025",
+        "title": "OpenAI Culture and Hiring",
+        "summary": "Recap of an OpenAI Forum event discussing the company's culture of autonomy and hiring practices.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "OpenAI Forum",
+            "type": "platform",
+            "description": "Community event space"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "culture",
+          "careers",
+          "community"
+        ]
+      },
+      {
+        "global_id": 76,
+        "post_id": "openai-36",
+        "company": "openai",
+        "date": "Tue, 12 Aug 2025",
+        "title": "GPT-5 Coding Improvements",
+        "summary": "Greg Brockman discusses GPT-5's superior coding capabilities with Cursor co-founder.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "GPT-5",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [
+          {
+            "partner": "Cursor",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "Discussion on coding"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "coding",
+          "models",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 77,
+        "post_id": "openai-37",
+        "company": "openai",
+        "date": "Thu, 07 Aug 2025",
+        "title": "GPT-5 Official Launch",
+        "summary": "OpenAI introduces GPT-5, their best AI system yet, featuring improvements in coding, math, and writing.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "GPT-5",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "General Performance",
+            "description": "Coding, math, writing upgrades",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "models",
+          "performance",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 78,
+        "post_id": "openai-38",
+        "company": "openai",
+        "date": "Thu, 02 Oct 2025",
+        "title": "Recap of Recent Product Releases",
+        "summary": "A rundown of recent launches including ChatGPT Pulse, Commerce, Parental Controls, and Sora 2 app.",
+        "post_type": "product_update",
+        "products": [
+          {
+            "name": "ChatGPT Pulse",
+            "type": "feature",
+            "description": "Proactive research cards"
+          },
+          {
+            "name": "Sora app",
+            "type": "application",
+            "description": "Video generation app"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Sora 2",
+            "provider": "OpenAI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Parental Controls",
+            "description": "Teen safety features",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "mobile",
+          "safety",
+          "video"
+        ]
+      },
+      {
+        "global_id": 79,
+        "post_id": "openai-39",
+        "company": "openai",
+        "date": "Fri, 25 Jul 2025",
+        "title": "Presentation Creation with ChatGPT Agent",
+        "summary": "ChatGPT agent can now create fully editable presentations for users.",
+        "post_type": "feature_announcement",
+        "products": [
+          {
+            "name": "ChatGPT agent",
+            "type": "agent",
+            "description": "AI agent"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Presentation Builder",
+            "description": "Create editable slides",
+            "availability": "ChatGPT agent users"
+          }
+        ],
+        "topics": [
+          "agents",
+          "productivity",
+          "multimodal"
+        ]
+      },
+      {
+        "global_id": 80,
+        "post_id": "openai-40",
+        "company": "openai",
+        "date": "Thu, 17 Jul 2025",
+        "title": "ChatGPT Agent with Computer Control",
+        "summary": "Launch of ChatGPT agent, a unified system capable of browsing and taking action on the user's computer.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "ChatGPT agent",
+            "type": "agent",
+            "description": "Unified agentic system"
+          },
+          {
+            "name": "Operator",
+            "type": "agent",
+            "description": "Action-taking browser"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Computer Control",
+            "description": "Autonomous browser actions",
+            "availability": "Pro, Plus, Team"
+          }
+        ],
+        "topics": [
+          "agents",
+          "safety",
+          "productivity"
+        ]
+      }
+    ]
+  }

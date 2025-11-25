@@ -1,0 +1,1189 @@
+{
+    "company": "mistralai",
+    "display_name": "Mistral AI",
+    "total_posts": 40,
+    "posts": [
+      {
+        "global_id": 81,
+        "post_id": "mistralai-1",
+        "company": "mistralai",
+        "date": "Thu, 20 Nov 2025",
+        "title": "Mistral Partners with HTX for AI Security",
+        "summary": "Mistral AI collaborates with Singapore's HTX on AI for security and cybersecurity.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "HTX",
+            "category": "government",
+            "type": "collaboration",
+            "details": "AI for security and safety"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "government",
+          "security",
+          "APAC"
+        ]
+      },
+      {
+        "global_id": 82,
+        "post_id": "mistralai-2",
+        "company": "mistralai",
+        "date": "Wed, 19 Nov 2025",
+        "title": "Sovereign AI Partnership with SAP",
+        "summary": "Mistral AI partners with SAP to deliver sovereign AI products for Europe's digital transformation.",
+        "post_type": "partnership_announcement",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "platform",
+            "description": "AI assistant integration"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "SAP",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "Sovereign AI stack for Europe"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "enterprise",
+          "sovereign-ai",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 83,
+        "post_id": "mistralai-3",
+        "company": "mistralai",
+        "date": "Sun, 09 Nov 2025",
+        "title": "Building Intelligent Document Solutions Course",
+        "summary": "Mistral highlights a course on leveraging Mistral Document AI for turning static text into structured data.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "Mistral Document AI",
+            "type": "solution",
+            "description": "Intelligent document processing"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "documents",
+          "enterprise",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 84,
+        "post_id": "mistralai-4",
+        "company": "mistralai",
+        "date": "Wed, 10 Sep 2025",
+        "title": "Building Custom MCP Servers Webinar",
+        "summary": "Mistral AI announces a webinar on designing and deploying Model Context Protocol (MCP) servers for Le Chat.",
+        "post_type": "event_announcement",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "platform",
+            "description": "AI interface"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "MCP Integration",
+            "description": "Custom server integration",
+            "availability": "Le Chat"
+          }
+        ],
+        "topics": [
+          "agents",
+          "MCP",
+          "coding",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 85,
+        "post_id": "mistralai-5",
+        "company": "mistralai",
+        "date": "Tue, 09 Sep 2025",
+        "title": "Mistral AI Raises €1.7B in Series C",
+        "summary": "Mistral AI raises €1.7B in Series C funding led by ASML to accelerate AI technological progress.",
+        "post_type": "funding_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "ASML",
+            "category": "investor",
+            "type": "investment",
+            "details": "Lead investor in Series C"
+          },
+          {
+            "partner": "NVIDIA",
+            "category": "investor",
+            "type": "investment",
+            "details": "Series C investor"
+          },
+          {
+            "partner": "DST Global",
+            "category": "investor",
+            "type": "investment",
+            "details": "Series C investor"
+          },
+          {
+            "partner": "Andreessen Horowitz",
+            "category": "investor",
+            "type": "investment",
+            "details": "Series C investor"
+          },
+          {
+            "partner": "Bpifrance",
+            "category": "investor",
+            "type": "investment",
+            "details": "Series C investor"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "funding",
+          "partnerships",
+          "infrastructure",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 86,
+        "post_id": "mistralai-6",
+        "company": "mistralai",
+        "date": "Tue, 02 Sep 2025",
+        "title": "Getting Started with MCP Webinar",
+        "summary": "Webinar announcement focusing on using Le Chat with enterprise tools via MCP connectors.",
+        "post_type": "event_announcement",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "platform",
+            "description": "AI interface"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Enterprise Connectors",
+            "description": "20+ enterprise tools",
+            "availability": "Le Chat"
+          }
+        ],
+        "topics": [
+          "agents",
+          "MCP",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 87,
+        "post_id": "mistralai-7",
+        "company": "mistralai",
+        "date": "Fri, 05 Sep 2025",
+        "title": "Mistralship First Class Demo Day",
+        "summary": "Mistral AI celebrates the completion of the first Mistralship startup program with demos from participants.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "models"
+        ]
+      },
+      {
+        "global_id": 88,
+        "post_id": "mistralai-8",
+        "company": "mistralai",
+        "date": "Wed, 30 Jul 2025",
+        "title": "Codestral 25.08 and Enterprise Coding Stack",
+        "summary": "Release of the new Codestral 25.08 model and the complete Mistral Coding Stack for enterprises.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "Mistral Coding Stack",
+            "type": "platform",
+            "description": "Enterprise software development stack"
+          },
+          {
+            "name": "Mistral Code",
+            "type": "plugin",
+            "description": "IDE plugin"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Codestral 25.08",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "Codestral Embed",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "Devstral",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "coding",
+          "models",
+          "enterprise",
+          "agents"
+        ]
+      },
+      {
+        "global_id": 89,
+        "post_id": "mistralai-9",
+        "company": "mistralai",
+        "date": "Tue, 10 Jun 2025",
+        "title": "Magistral Reasoning Model Launch",
+        "summary": "Mistral AI announces Magistral, a reasoning model available in Small (open-source) and Medium (enterprise) variants.",
+        "post_type": "model_release",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "platform",
+            "description": "AI interface"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Magistral Small",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          },
+          {
+            "name": "Magistral Medium",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Flash Answers",
+            "description": "10x faster token throughput",
+            "availability": "Le Chat"
+          }
+        ],
+        "topics": [
+          "models",
+          "enterprise",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 90,
+        "post_id": "mistralai-10",
+        "company": "mistralai",
+        "date": "Thu, 12 Jun 2025",
+        "title": "Partnership with TotalEnergies",
+        "summary": "Mistral AI collaborates with TotalEnergies to advance renewable and low carbon energy using AI.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "TotalEnergies",
+            "category": "enterprise",
+            "type": "collaboration",
+            "details": "AI for renewable energy"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 91,
+        "post_id": "mistralai-11",
+        "company": "mistralai",
+        "date": "Mon, 19 May 2025",
+        "title": "Europe's Largest AI Campus Announcement",
+        "summary": "Mistral AI, MGX, NVIDIA, and Bpifrance announce the creation of Europe's largest AI Campus in Paris.",
+        "post_type": "enterprise_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "NVIDIA",
+            "category": "tech_giant",
+            "type": "collaboration",
+            "details": "AI Campus joint venture"
+          },
+          {
+            "partner": "Bpifrance",
+            "category": "investor",
+            "type": "collaboration",
+            "details": "AI Campus joint venture"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "sovereign-ai",
+          "Europe",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 92,
+        "post_id": "mistralai-12",
+        "company": "mistralai",
+        "date": "Sun, 09 Feb 2025",
+        "title": "First AI Cluster in Paris Region",
+        "summary": "Mistral AI announces its first AI cluster data center located in Essonne, France.",
+        "post_type": "enterprise_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "sovereign-ai",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 93,
+        "post_id": "mistralai-13",
+        "company": "mistralai",
+        "date": "Wed, 07 May 2025",
+        "title": "Le Chat Enterprise and Mistral Medium 3.1",
+        "summary": "Launch of Le Chat Enterprise for secure business AI and the cost-effective Mistral Medium 3 multimodal model.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Le Chat Enterprise",
+            "type": "platform",
+            "description": "Enterprise AI assistant"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Mistral Medium 3",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Company Knowledge Integration",
+            "description": "Connects with Gmail, Drive, Sharepoint",
+            "availability": "Le Chat Enterprise"
+          }
+        ],
+        "topics": [
+          "enterprise",
+          "models",
+          "agents",
+          "products"
+        ]
+      },
+      {
+        "global_id": 94,
+        "post_id": "mistralai-14",
+        "company": "mistralai",
+        "date": "Fri, 07 Mar 2025",
+        "title": "Building Agents for Product Teams",
+        "summary": "Mistral AI shares a blog on using agentic workflows to convert meeting transcripts into engineering tickets.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "agents",
+          "enterprise",
+          "coding"
+        ]
+      },
+      {
+        "global_id": 95,
+        "post_id": "mistralai-15",
+        "company": "mistralai",
+        "date": "Fri, 01 Aug 2025",
+        "title": "Fine-Tuning Pixtral-12B with LoRA",
+        "summary": "Mistral AI demonstrates how to apply LoRA fine-tuning to Pixtral-12B for specialized tasks like satellite imagery.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Pixtral-12B",
+            "provider": "Mistral AI",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "coding",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 96,
+        "post_id": "mistralai-16",
+        "company": "mistralai",
+        "date": "Thu, 06 Feb 2025",
+        "title": "Le Chat Mobile App Launch",
+        "summary": "Le Chat is now available on web, iOS, and Android with features like document analysis and image generation.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "application",
+            "description": "Mobile AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Mobile App",
+            "description": "iOS and Android availability",
+            "availability": "All users"
+          }
+        ],
+        "topics": [
+          "mobile",
+          "products",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 97,
+        "post_id": "mistralai-17",
+        "company": "mistralai",
+        "date": "Tue, 18 Feb 2025",
+        "title": "Mistral Saba Regional Model Launch",
+        "summary": "Mistral AI introduces Mistral Saba, a regional model optimized for Arabic and South Indian languages.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Mistral Saba",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "APAC",
+          "sovereign-ai"
+        ]
+      },
+      {
+        "global_id": 98,
+        "post_id": "mistralai-18",
+        "company": "mistralai",
+        "date": "Mon, 15 Sep 2025",
+        "title": "Partnership with Kingdom of Morocco",
+        "summary": "Mistral AI agrees on a multi-year partnership with Morocco's Digital Transition Ministry to develop the local AI ecosystem.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Government of Morocco",
+            "category": "government",
+            "type": "collaboration",
+            "details": "AI ecosystem development"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "government",
+          "partnerships",
+          "sovereign-ai"
+        ]
+      },
+      {
+        "global_id": 99,
+        "post_id": "mistralai-19",
+        "company": "mistralai",
+        "date": "Mon, 19 May 2025",
+        "title": "Dell Technologies Strategic Partnership",
+        "summary": "Mistral AI partners with Dell Technologies to bring models to the Dell AI Factory for enterprise deployment.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Dell Technologies",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "Dell AI Factory integration"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "enterprise",
+          "infrastructure"
+        ]
+      },
+      {
+        "global_id": 100,
+        "post_id": "mistralai-20",
+        "company": "mistralai",
+        "date": "Wed, 07 May 2025",
+        "title": "Le Chat Enterprise and Medium 3.1 Launch",
+        "summary": "Launch of Le Chat Enterprise and the new multimodal Mistral Medium 3 model.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Le Chat Enterprise",
+            "type": "platform",
+            "description": "Enterprise AI assistant"
+          }
+        ],
+        "ai_models": [
+          {
+            "name": "Mistral Medium 3",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "models",
+          "products"
+        ]
+      },
+      {
+        "global_id": 101,
+        "post_id": "mistralai-21",
+        "company": "mistralai",
+        "date": "Thu, 17 Apr 2025",
+        "title": "Integration of Blackwell GPUs with CoreWeave",
+        "summary": "Mistral AI partners with CoreWeave to integrate NVIDIA Blackwell GPUs for model training.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "CoreWeave",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "GPU infrastructure"
+          },
+          {
+            "partner": "NVIDIA",
+            "category": "tech_giant",
+            "type": "collaboration",
+            "details": "Blackwell GPUs"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "partnerships",
+          "models"
+        ]
+      },
+      {
+        "global_id": 102,
+        "post_id": "mistralai-22",
+        "company": "mistralai",
+        "date": "Wed, 16 Apr 2025",
+        "title": "Mistral AI Classifier Factory Launch",
+        "summary": "Launch of Mistral AI Classifier Factory for building custom efficient classification models.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Classifier Factory",
+            "type": "platform",
+            "description": "Custom classifier builder"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "enterprise",
+          "coding",
+          "models"
+        ]
+      },
+      {
+        "global_id": 103,
+        "post_id": "mistralai-23",
+        "company": "mistralai",
+        "date": "Tue, 26 Aug 2025",
+        "title": "Mistral Medium 3.1 LMArena Ranking",
+        "summary": "Mistral Medium 3.1 achieves top rankings on LMArena, punching above its weight class.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Mistral Medium 3.1",
+            "provider": "Mistral AI",
+            "is_used": true,
+            "is_released": false
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "performance"
+        ]
+      },
+      {
+        "global_id": 104,
+        "post_id": "mistralai-24",
+        "company": "mistralai",
+        "date": "Tue, 12 Aug 2025",
+        "title": "Mistral Medium 3.1 Release",
+        "summary": "Release of Mistral Medium 3.1 with improvements in reasoning, coding, and multimodal capabilities.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Mistral Medium 3.1",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Smarter Web Search",
+            "description": "More accurate results",
+            "availability": "Le Chat"
+          }
+        ],
+        "topics": [
+          "models",
+          "coding",
+          "products"
+        ]
+      },
+      {
+        "global_id": 105,
+        "post_id": "mistralai-25",
+        "company": "mistralai",
+        "date": "Thu, 30 Jan 2025",
+        "title": "Mistral Small 3 Model Release",
+        "summary": "Mistral AI releases Small 3, an efficient open-source model available on multiple platforms.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Mistral Small 3",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [
+          {
+            "partner": "Hugging Face",
+            "category": "tech_company",
+            "type": "distribution",
+            "details": "Model availability"
+          },
+          {
+            "partner": "Ollama",
+            "category": "tech_company",
+            "type": "distribution",
+            "details": "Model availability"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "models",
+          "open-source",
+          "partnerships"
+        ]
+      },
+      {
+        "global_id": 106,
+        "post_id": "mistralai-26",
+        "company": "mistralai",
+        "date": "Thu, 16 Jan 2025",
+        "title": "Partnership with Agence France-Presse",
+        "summary": "Mistral AI partners with AFP to integrate verified real-time news into Le Chat.",
+        "post_type": "partnership_announcement",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "platform",
+            "description": "AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "AFP",
+            "category": "enterprise",
+            "type": "integration",
+            "details": "News content integration"
+          }
+        ],
+        "features": [
+          {
+            "name": "Newswire Integration",
+            "description": "Real-time news stories",
+            "availability": "Le Chat"
+          }
+        ],
+        "topics": [
+          "partnerships",
+          "products",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 107,
+        "post_id": "mistralai-27",
+        "company": "mistralai",
+        "date": "Mon, 06 Jan 2025",
+        "title": "Mistralship Application Extension",
+        "summary": "Mistral AI extends the application deadline for its Mistralship startup program.",
+        "post_type": "general_update",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "funding"
+        ]
+      },
+      {
+        "global_id": 108,
+        "post_id": "mistralai-28",
+        "company": "mistralai",
+        "date": "Tue, 29 Jul 2025",
+        "title": "Strategic Partnership with NTT DATA",
+        "summary": "Mistral AI and NTT DATA partner to deliver tailored and secure AI solutions for enterprises.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "NTT DATA",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "Enterprise AI delivery"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "enterprise",
+          "sovereign-ai"
+        ]
+      },
+      {
+        "global_id": 109,
+        "post_id": "mistralai-29",
+        "company": "mistralai",
+        "date": "Tue, 17 Jun 2025",
+        "title": "Partnership with Government of Luxembourg",
+        "summary": "Mistral AI partners with Luxembourg to deploy AI in public administration and defense.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Government of Luxembourg",
+            "category": "government",
+            "type": "collaboration",
+            "details": "AI deployment"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "government",
+          "partnerships",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 110,
+        "post_id": "mistralai-30",
+        "company": "mistralai",
+        "date": "Wed, 11 Jun 2025",
+        "title": "Mistral Compute Launch with NVIDIA",
+        "summary": "Mistral AI introduces Mistral Compute, an infrastructure offering in partnership with NVIDIA.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Mistral Compute",
+            "type": "platform",
+            "description": "AI infrastructure"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "NVIDIA",
+            "category": "tech_giant",
+            "type": "collaboration",
+            "details": "Infrastructure partnership"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "infrastructure",
+          "partnerships",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 111,
+        "post_id": "mistralai-31",
+        "company": "mistralai",
+        "date": "Wed, 04 Jun 2025",
+        "title": "Mistral Code Assistant Launch",
+        "summary": "Launch of Mistral Code, a customizable AI-powered coding assistant for enterprises.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Mistral Code",
+            "type": "platform",
+            "description": "Coding assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "SNCF",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "Using Mistral Code"
+          },
+          {
+            "partner": "Capgemini",
+            "category": "enterprise",
+            "type": "customer",
+            "details": "Using Mistral Code"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "coding",
+          "enterprise",
+          "products"
+        ]
+      },
+      {
+        "global_id": 112,
+        "post_id": "mistralai-32",
+        "company": "mistralai",
+        "date": "Wed, 28 May 2025",
+        "title": "Codestral Embed Model Release",
+        "summary": "Release of Codestral Embed, an embedding model specialized for code retrieval tasks.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Codestral Embed",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "coding",
+          "open-source"
+        ]
+      },
+      {
+        "global_id": 113,
+        "post_id": "mistralai-33",
+        "company": "mistralai",
+        "date": "Tue, 27 May 2025",
+        "title": "Agents API Launch",
+        "summary": "Introduction of Agents API, allowing enterprises to build complex AI agents with code execution and memory.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Agents API",
+            "type": "platform",
+            "description": "Agent building API"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Agent Orchestration",
+            "description": "Coordinate multiple agents",
+            "availability": "Agents API"
+          }
+        ],
+        "topics": [
+          "agents",
+          "coding",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 114,
+        "post_id": "mistralai-34",
+        "company": "mistralai",
+        "date": "Mon, 07 Apr 2025",
+        "title": "CMA CGM Strategic Partnership",
+        "summary": "Mistral AI enters a 5-year partnership with CMA CGM to build AI solutions for shipping and logistics.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "CMA CGM",
+            "category": "enterprise",
+            "type": "collaboration",
+            "details": "Logistics AI solutions"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 115,
+        "post_id": "mistralai-35",
+        "company": "mistralai",
+        "date": "Mon, 17 Mar 2025",
+        "title": "Mistral Small 3.1 Model Release",
+        "summary": "Mistral AI introduces Small 3.1 with improved text performance and multimodal understanding.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Mistral Small 3.1",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "open-source",
+          "performance"
+        ]
+      },
+      {
+        "global_id": 116,
+        "post_id": "mistralai-36",
+        "company": "mistralai",
+        "date": "Thu, 06 Mar 2025",
+        "title": "Mistral OCR API Launch",
+        "summary": "Launch of Mistral OCR, a multilingual and multimodal document understanding API.",
+        "post_type": "product_launch",
+        "products": [
+          {
+            "name": "Mistral OCR",
+            "type": "platform",
+            "description": "Document understanding API"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [
+          {
+            "name": "Multilingual OCR",
+            "description": "Document comprehension",
+            "availability": "API"
+          }
+        ],
+        "topics": [
+          "OCR",
+          "documents",
+          "enterprise"
+        ]
+      },
+      {
+        "global_id": 117,
+        "post_id": "mistralai-37",
+        "company": "mistralai",
+        "date": "Fri, 28 Feb 2025",
+        "title": "Partnership with Sopra Steria",
+        "summary": "Mistral AI partners with Sopra Steria to deliver AI solutions to European businesses and administrations.",
+        "post_type": "partnership_announcement",
+        "products": [],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "Sopra Steria",
+            "category": "tech_company",
+            "type": "collaboration",
+            "details": "European AI delivery"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "enterprise",
+          "Europe"
+        ]
+      },
+      {
+        "global_id": 118,
+        "post_id": "mistralai-38",
+        "company": "mistralai",
+        "date": "Wed, 19 Feb 2025",
+        "title": "Le Chat Mobile Hits 1 Million Downloads",
+        "summary": "Le Chat mobile app reaches 1 million downloads less than two weeks after launch.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "Le Chat",
+            "type": "application",
+            "description": "Mobile AI assistant"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "mobile",
+          "products"
+        ]
+      },
+      {
+        "global_id": 119,
+        "post_id": "mistralai-39",
+        "company": "mistralai",
+        "date": "Mon, 17 Feb 2025",
+        "title": "Mistral Saba Model Announcement",
+        "summary": "Announcement of Mistral Saba, a regional model for Arabic and South Indian languages.",
+        "post_type": "model_release",
+        "products": [],
+        "ai_models": [
+          {
+            "name": "Mistral Saba",
+            "provider": "Mistral AI",
+            "is_used": false,
+            "is_released": true
+          }
+        ],
+        "partnerships": [],
+        "features": [],
+        "topics": [
+          "models",
+          "APAC",
+          "sovereign-ai"
+        ]
+      },
+      {
+        "global_id": 120,
+        "post_id": "mistralai-40",
+        "company": "mistralai",
+        "date": "Wed, 12 Feb 2025",
+        "title": "AI Action Summit Recap and Partnerships",
+        "summary": "Mistral AI recaps the AI Action Summit, highlighting new partnerships with EdTech France, France Travail, Veolia, and others.",
+        "post_type": "general_update",
+        "products": [
+          {
+            "name": "Le Chat Pro",
+            "type": "subscription",
+            "description": "Professional AI tier"
+          }
+        ],
+        "ai_models": [],
+        "partnerships": [
+          {
+            "partner": "France Travail",
+            "category": "government",
+            "type": "collaboration",
+            "details": "Job seeker assistance"
+          },
+          {
+            "partner": "Veolia",
+            "category": "enterprise",
+            "type": "collaboration",
+            "details": "Operational efficiency"
+          },
+          {
+            "partner": "Stellantis",
+            "category": "enterprise",
+            "type": "collaboration",
+            "details": "Vehicle design"
+          },
+          {
+            "partner": "Free",
+            "category": "telecom",
+            "type": "distribution",
+            "details": "Le Chat Pro for subscribers"
+          },
+          {
+            "partner": "Orange",
+            "category": "telecom",
+            "type": "collaboration",
+            "details": "B2B AI services"
+          },
+          {
+            "partner": "Helsing",
+            "category": "defense",
+            "type": "collaboration",
+            "details": "Defense leadership"
+          }
+        ],
+        "features": [],
+        "topics": [
+          "partnerships",
+          "government",
+          "enterprise",
+          "mobile"
+        ]
+      }
+    ]
+  }

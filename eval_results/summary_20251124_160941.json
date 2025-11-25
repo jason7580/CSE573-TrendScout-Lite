@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "total_questions": 50,
+    "scored_questions": 50,
+    "rag_only_wins": 7,
+    "rag_kg_wins": 22,
+    "ties": 21,
+    "errors": 0,
+    "rag_win_pct": 14.0,
+    "kg_win_pct": 44.0,
+    "avg_rag_score": 10.84,
+    "avg_kg_score": 12.48,
+    "score_difference": 1.64,
+    "winner": "RAG+KG"
+  },
+  "scoring_breakdown": {
+    "rag_only": {
+      "avg_total": 10.84,
+      "avg_accuracy": 3.04,
+      "avg_completeness": 2.88,
+      "avg_relevance": 4.92
+    },
+    "rag_kg": {
+      "avg_total": 12.48,
+      "avg_accuracy": 3.82,
+      "avg_completeness": 3.68,
+      "avg_relevance": 4.98
+    },
+    "difference": {
+      "total": 1.64,
+      "accuracy": 0.78,
+      "completeness": 0.8,
+      "relevance": 0.06
+    }
+  },
+  "category_results": {
+    "factual": {
+      "rag_wins": 0,
+      "kg_wins": 7,
+      "ties": 3,
+      "rag_avg": 10.8,
+      "kg_avg": 13.6,
+      "rag_accuracy_avg": 3.3,
+      "rag_completeness_avg": 2.5,
+      "rag_relevance_avg": 5.0,
+      "kg_accuracy_avg": 4.4,
+      "kg_completeness_avg": 4.2,
+      "kg_relevance_avg": 5.0
+    },
+    "relationship": {
+      "rag_wins": 2,
+      "kg_wins": 6,
+      "ties": 2,
+      "rag_avg": 9.4,
+      "kg_avg": 12.7,
+      "rag_accuracy_avg": 2.2,
+      "rag_completeness_avg": 2.2,
+      "rag_relevance_avg": 5.0,
+      "kg_accuracy_avg": 3.9,
+      "kg_completeness_avg": 3.8,
+      "kg_relevance_avg": 5.0
+    },
+    "comparison": {
+      "rag_wins": 1,
+      "kg_wins": 4,
+      "ties": 5,
+      "rag_avg": 9.9,
+      "kg_avg": 11.7,
+      "rag_accuracy_avg": 2.3,
+      "rag_completeness_avg": 2.9,
+      "rag_relevance_avg": 4.7,
+      "kg_accuracy_avg": 3.3,
+      "kg_completeness_avg": 3.4,
+      "kg_relevance_avg": 5.0
+    },
+    "temporal": {
+      "rag_wins": 2,
+      "kg_wins": 4,
+      "ties": 4,
+      "rag_avg": 10.8,
+      "kg_avg": 11.1,
+      "rag_accuracy_avg": 3.0,
+      "rag_completeness_avg": 2.9,
+      "rag_relevance_avg": 4.9,
+      "kg_accuracy_avg": 3.1,
+      "kg_completeness_avg": 3.1,
+      "kg_relevance_avg": 4.9
+    },
+    "detail": {
+      "rag_wins": 2,
+      "kg_wins": 1,
+      "ties": 7,
+      "rag_avg": 13.3,
+      "kg_avg": 13.3,
+      "rag_accuracy_avg": 4.4,
+      "rag_completeness_avg": 3.9,
+      "rag_relevance_avg": 5.0,
+      "kg_accuracy_avg": 4.4,
+      "kg_completeness_avg": 3.9,
+      "kg_relevance_avg": 5.0
+    }
+  }
+}

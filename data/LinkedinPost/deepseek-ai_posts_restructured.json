@@ -1,0 +1,142 @@
+[
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Mon, 29 Sep 2025 10:13:58 GMT (UTC)",
+        "content": "🚀Introducing DeepSeek-V3.2-Exp — our latest experimental model!✨Built on V3.1-Terminus, it debuts DeepSeek Sparse Attention(DSA) for faster, more efficient training & inference on long context.👉Now live on App, Web, and API.💰API prices cut by 50%+!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7378371456860262400",
+        "id": 1
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Tue, 23 Sep 2025 02:47:42 GMT (UTC)",
+        "content": "🚀 DeepSeek-V3.1 → DeepSeek-V3.1-TerminusThe latest update builds on V3.1’s strengths while addressing key user feedback.✨ What’s improved?🌐 Language consistency: fewer CN/EN mix-ups & no more random chars.🤖 Agent upgrades: stronger Code Agent & Search Agent performance.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7376084820969529344",
+        "id": 2
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Thu, 27 Feb 2025 02:16:41 GMT (UTC)",
+        "content": "Day 4 of主題標籤#OpenSourceWeek: Optimized Parallelism Strategies✅ DualPipe - a bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.🔗https://lnkd.in/gurXyTVe✅ EPLB - an expert-parallel load balancer for V3/R1.🔗https://lnkd.in/giPt92JG📊 Analyze computation-communication overlap in V3/R1.🔗https://lnkd.in/gubSQfMP",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7300700341967208448",
+        "id": 3
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Wed, 26 Feb 2025 03:05:42 GMT (UTC)",
+        "content": "🚀 Day 3 of主題標籤#OpenSourceWeek: DeepGEMMIntroducing DeepGEMM - an FP8 GEMM library that supports both dense and MoE GEMMs, powering V3/R1 training and inference.✅ Up to 1350+ FP8 TFLOPS on Hopper GPUs✅ No heavy dependency, as clean as a tutorial✅ Fully Just-In-Time compiled✅ Core logic at ~300 lines - yet outperforms expert-tuned kernels across most matrix sizes✅ Supports dense layout and two MoE layouts🔗 GitHub:https://lnkd.in/d2S4Sxww",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7300350287230160896",
+        "id": 4
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Thu, 21 Aug 2025 06:37:02 GMT (UTC)",
+        "content": "Introducing DeepSeek-V3.1: our first step toward the agent era!🧠Hybrid inference: Think & Non-Think — one model, two modes⚡️Faster thinking: DeepSeek-V3.1-Think reaches answers in less time vs. DeepSeek-R1-0528🔨Stronger agent skills: Post-training boosts tool use and multi-step agent tasksTry it now — toggle Think/Non-Think via the \"DeepThink\" button:https://chat.deepseek.com",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7364183734012579842",
+        "id": 5
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Fri, 30 May 2025 03:01:10 GMT (UTC)",
+        "content": "🚀DeepSeek-R1-0528 is here!🔹 Improved benchmark performance🔹 Enhanced front-end capabilities🔹 Reduced hallucinations🔹 Supports JSON output & function calling✅ Try it now:https://chat.deepseek.com🔌 No change to API usage — docs here:https://lnkd.in/ge9wJdVV🔗 Open-source weights:https://lnkd.in/gM9uKSeQ",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7334051219662872576",
+        "id": 6
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Mon, 03 Mar 2025 02:00:52 GMT (UTC)",
+        "content": "🚀 Day 6 of主題標籤#OpenSourceWeek: One More Thing – DeepSeek-V3/R1 Inference System OverviewOptimized throughput and latency via:🧲 Cross-node EP-powered batch scaling🔀 Computation-communication overlap⚖️ Load balancingStatistics of DeepSeek's Online Service:⚡ 73.7k/14.8k input/output tokens per second per H800 node📊 Cost profit margin 545%💡 We hope this week's insights offer value to the community and contribute to our shared AGI goals.📚 Deep Dive:https://bit.ly/4ihZUiO",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7302145911365808129",
+        "id": 7
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Mon, 03 Mar 2025 01:57:01 GMT (UTC)",
+        "content": "🚀 Day 5 of主題標籤#OpenSourceWeek: 3FS, Thruster for All DeepSeek Data AccessFire-Flyer File System (3FS) - a parallel file system that utilizes the full bandwidth of modern SSDs and RDMA networks.⚡ 6.6 TiB/s aggregate read throughput in a 180-node cluster⚡ 3.66 TiB/min throughput on GraySort benchmark in a 25-node cluster⚡ 40+ GiB/s peak throughput per client node for KVCache lookup📍 Disaggregated architecture with strong consistency semantics✅ Training data preprocessing, dataset loading, checkpoint saving/reloading, embedding vector search & KVCache lookups for inference in V3/R1🔗 3FS →https://lnkd.in/e-VgDCQ8🔗 Smallpond - data processing framework on 3FS →https://lnkd.in/ggsC8Ye5",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7302144941583933441",
+        "id": 8
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Mon, 17 Feb 2025 07:15:11 GMT (UTC)",
+        "content": "🥰Excited to see everyone’s enthusiasm for deploying DeepSeek-R1!Here are our recommended settings for the best experience:• No system prompt• Temperature: 0.6• Official prompts for search & file upload:http://bit.ly/4hyH8np• Guidelines to mitigate model bypass thinking:http://bit.ly/4gJrhkFThe official DeepSeek deployment runs the same model as the open-source version—enjoy the full DeepSeek-R1 experience! 🚀",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7297151580519178241",
+        "id": 9
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Wed, 26 Mar 2025 03:21:57 GMT (UTC)",
+        "content": "🚀 DeepSeek-V3-0324 is out now!- Major boost in reasoning performance- Stronger front-end development skills- Smarter tool-use capabilities✅ For non-complex reasoning tasks, we recommend using V3 — just turn off “DeepThink”🧲 API usage remains unchanged📚 Models are now released under the MIT License, just like DeepSeek-R1!🔗 Open-source weights:https://lnkd.in/gTT5_fhW",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7310501235608981504",
+        "id": 10
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Thu, 27 Feb 2025 02:12:23 GMT (UTC)",
+        "content": "‼️ Off-Peak Discounts Alert!Starting today, enjoy off-peak discounts on the DeepSeek API Platform from 16:30–00:30 UTC daily:🔹 DeepSeek-V3 at 50% off🔹 DeepSeek-R1 at a massive 75% offMaximize your resources smarter — save more during these high-value hours!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7300699255973781505",
+        "id": 11
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Mon, 20 Jan 2025 13:13:45 GMT (UTC)",
+        "content": "🚀 DeepSeek-R1 is here!⚡ Performance on par with OpenAI-o1📖 Fully open-source model & technical report🏆 MIT licensed: Distill & commercialize freely!🌐 Website & API are live now! Try DeepThink athttp://chat.deepseek.comtoday!🐋 1/n主題標籤#DeepSeek主題標籤#AI",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7287094958157684736",
+        "id": 12
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Wed, 15 Jan 2025 12:37:27 GMT (UTC)",
+        "content": "🎉 Introducing DeepSeek App!💡 Powered by world-class DeepSeek-V3🆓 FREE to use with seamless interaction📱 Now officially available on App Store & Google Play & Major Android markets🔗 Download now:https://lnkd.in/dDmgte_R🌟 1/3主題標籤#DeepSeek主題標籤#AI",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7285273881664262145",
+        "id": 13
+    },
+    {
+        "company": "deepseek-ai",
+        "source": "LinkedIn",
+        "date": "Sat, 04 Jan 2025 20:30:22 GMT (UTC)",
+        "content": "🚀 Introducing DeepSeek-V3!Our most advanced update yet:⚡ 60 tokens/second — 3x faster than V2!💪 Upgraded capabilities for even better performance🛠 Seamless API compatibility🌍 Fully open-source models and research🐋 1/n主題標籤#DeepSeek主題標籤#AI",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7281406628526981120",
+        "id": 14
+    }
+]

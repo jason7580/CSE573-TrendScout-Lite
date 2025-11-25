@@ -1,0 +1,402 @@
+[
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 20 Nov 2025 01:00:01 GMT (UTC)",
+        "content": "We’re proud to share that we are strengthening our collaboration withHTX (Home Team Science & Technology Agency), driving innovation in AI for Security and Safety.Together, we will explore new research opportunities:🦾 Embodied AI: new understanding abilities for robots, autonomous navigation in unmapped environments, objects retrieval🧯 Fire safety: automated building mapping, safety reviews🛡️ Cybersecurity: vulnerability assessment, penetration testing, compliance reviewsThis project proves that custom models are key to solving complex real-world challenges. It also marks a new step in our expansion across Singapore and APAC.Stay tuned for updates!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7397076219684552704",
+        "id": 1
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 19 Nov 2025 10:25:26 GMT (UTC)",
+        "content": "We’re happy to share that we are taking our partnership withSAPto the next level as we will deliver sovereign AI products together, accelerating Europe’s digital transformation.Mistral AI’s cutting-edge solutions combined with SAP’s platform will ensure that European public services and businesses can innovate without sacrificing control over their data or infrastructure. Starting today, we will:🇪🇺 Build and deliver a fully sovereign AI stack for Europe⚡️ Integrate our models, our AI studio, and Le Chat into SAP’s AI Foundation🏭 Co-develop and co-sell vertical AI products for industries and public servicesThe future of AI in Europe is being built today.Stay tuned for what’s next!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7396856123904909312",
+        "id": 2
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Sun, 09 Nov 2025 11:27:24 GMT (UTC)",
+        "content": "Building Intelligent Document Solutions with Mistral AI ( With Code )Documents are the hidden bottleneck in every enterprise.Contracts buried in PDFs, invoices lost in email chains, and reports gathering dust in shared drives. Mistral Document AI doesn’t just read files; it understands them, turning static text into structured data that powers workflows, triggers actions, and eliminates manual grunt work.During this course, you’ll learn how to leverage our Document AI solution with code !",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7393247839813828608",
+        "id": 3
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 10 Sep 2025 16:42:17 GMT (UTC)",
+        "content": "Building Custom MCP Servers for Le ChatJoin the Mistral team for an exclusive deep dive into Le Chat’s MCP capabilities! In this session, you’ll discover how to:- Design your MCP server.- Explore deployment options for your MCP server.- Integrate your custom MCP directly into Le Chat.This is your chance to unlock the potential of MCP and learn how it empowers the creation of private, personalized AI experiences for businesses and consumers alike.We can’t wait to see you at the webinar!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7371583810632601600",
+        "id": 4
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 09 Sep 2025 05:03:46 GMT (UTC)",
+        "content": "Mistral AI raises 1.7B€ to accelerate technological progress with AI!💡 A Series C funding round, led by艾司摩爾. We are proud to see our existing investors continuing to trust us with new fundingDST Global,Andreessen Horowitz,Bpifrance,General Catalyst,Index Ventures,Lightspeed, andNVIDIA.🤝 An industrial partnership with ASML to support the global semiconductor equipment manufacturer to keep pushing the frontier of AI to solve the most critical and sophisticated technological challenges faced by highly-complex industries.🌍 A commitment to our independence, to promote a decentralization and openness to really put AI in people’s hands.Thank you to our partners, investors, and teams for driving this forward. Stay tuned for so much more to come!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7371045632284971008",
+        "id": 5
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 02 Sep 2025 14:03:11 GMT (UTC)",
+        "content": "Getting Started with MCP in Le ChatJoin the Mistral team for an exclusive deep dive into Le Chat’s MCP capabilities. In this session, you’ll learn how to:- Use Le Chat with 20+ enterprise tools through MCPs- Connect custom MCP connectors to extend functionality- Preview the process of building your own MCP serversThis is your opportunity to explore how MCP enables the creation of private, personalized AI experiences for both businesses and consumers. Look forward to seeing you at the webinar!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7368644668001062912",
+        "id": 6
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Fri, 05 Sep 2025 13:00:04 GMT (UTC)",
+        "content": "We’re grateful for the six months we spent with our first Mistralship class! Check out demos fromPocketlaw,Jimini AI,mimic,Findly (YC S22)andWindmillfor examples of what they built.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7369715945524736001",
+        "id": 7
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 30 Jul 2025 15:22:05 GMT (UTC)",
+        "content": "Meet the new Codestral 25.08 and the complete Mistral Coding Stack for Enterprises!Our full-stack approach is designed to support enterprise-grade software development across every stage—from code suggestion to autonomous pull requests. Here's what we offer:1️⃣ Codestral 25.08: our latest update excels at prioritizing the most helpful suggestions, reducing distractions to let you focus on what matters. It delivers a +30% increase in accepted completions, +10% more retained code after suggestion, and 50% fewer runaway generations.2️⃣ Codestral Embed: experience high-recall, low-latency search across massive codebases with our advanced embedding model.3️⃣ Devstral: autonomous multi-step development with agentic workflows, powered by the OpenHands agent scaffold.4️⃣ Mistral Code: our native plugin for JetBrains and VS Code provides inline completions, complex task automations, and integrated semantic search.The full Mistral coding stack is available today for enterprise deployment.For more information and to get started today:https://lnkd.in/esecSsrV",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7356343337861144577",
+        "id": 8
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 10 Jun 2025 14:17:42 GMT (UTC)",
+        "content": "We are thrilled to announce Magistral, our first reasoning model designed to excel in domain-specific, transparent, and multilingual reasoning. 🌍🤖🔄 Two variants: Magistral Small (24B parameter open-source version) and Magistral Medium (enterprise version).🔍 Enhanced reasoning: Fine-tuned for multi-step logic, improving interpretability and providing a traceable thought process.🌐 Multilingual dexterity: Excels in reasoning across numerous languages including English, French, Spanish, German, Italian, Russian, and Simplified Chinese.⚡ Runtime speed at scale: Up to 10x faster token throughput with Flash Answers on Le Chat.🛠️ Versatility in Application: Ideal for business strategy, regulated industries, systems engineering, and content creation.Download Magistral Small from:https://lnkd.in/gJeSMAei. Try out Magistral Medium inhttps://chat.mistral.ai/or via API onhttp://console.mistral.ai/. For enterprise and custom solutions, contact us at:https://mistral.ai/contact.For more details, check out our blog post:https://lnkd.in/gtd2UHFv",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7338207740953075713",
+        "id": 9
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 12 Jun 2025 17:00:52 GMT (UTC)",
+        "content": "We're proud to work withTotalEnergiesto advance renewable, low carbon energy with AI.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7338973578941341696",
+        "id": 10
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 19 May 2025 17:05:28 GMT (UTC)",
+        "content": "Proud to announce the creation of Europe’s largest AI Campus, located in the Paris region, a groundbreaking joint-venture withMGX,NVIDIA, andBpifrance.🇪🇺 This initiative marks a pivotal step toward building sovereign, sustainable, and globally competitive AI infrastructure in Europe.⚙️ The campus will support the entire AI lifecycle - from model training and inference to real-world deployment in critical sectors like healthcare, energy, mobility, finance, and manufacturing.⚡ It will be powered by an ecosystem of public and private partners, includingGroupe Bouygues,法國巴黎綜合理工學院,RTE Réseau de Transport d'Electricité, andSipartech.🏗️ Construction kicks off this year, with the campus set to be fully operational by the end of 2027.We are proud to contribute to this transformative journey and to help shape the future of AI in France and Europe.—Nous sommes fiers d'annoncer la création du plus grand Campus IA d'Europe, situé en région parisienne, grâce à un partenariat inédit avecMGX,NVIDIA, etBpifrance.🇪🇺 Cette initiative marque une étape décisive vers la construction d'une infrastructure souveraine, durable et compétitive pour l’IA en Europe.⚙️ Le Campus IA soutiendra l'ensemble du cycle de vie de l'IA - de l’entraînement et l'inférence des modèles à leur déploiement dans des secteurs critiques tels que la santé, l'énergie, la mobilité, la finance et la fabrication.⚡ Il sera alimenté par un écosystème de partenaires publics et privés, incluantGroupe Bouygues,法國巴黎綜合理工學院,RTEetSipartech.🏗️ La construction démarre cette année, pour un démarrage d'ici la fin de 2027.Nous sommes fiers de contribuer à ce projet ambitieux et de contribuer à façonner l'avenir de l'IA en France et en Europe.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7330277428109443072",
+        "id": 11
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Sun, 09 Feb 2025 19:22:47 GMT (UTC)",
+        "content": "Tomorrow kicks off the AI Action Summit, and we’ve got some big news to share: we’re thrilled to announce our very first AI cluster!💡 It’s a state-of-the-art facility that will foster our growth and R&D efforts.🇫🇷 It will be located near our home base in the Paris Region, in Essonne, France.⚡ This scalable data center will be equipped with the latest chips to run our models, and fully powered by decarbonized energy.⏱️ It will be up and running in the next months.This marks another big step in strengthening our independence, as we continue to make AI more accessible with high-performance, customizable, and open-source AI solutions for all!More information here:https://lnkd.in/epkzxAdV---A la veille de l'AI Action Summit, nous sommes ravis d'annoncer notre tout premier cluster AI !💡 Ce centre de données de pointe favorisera notre croissance et notre R&D.🇫🇷 Il sera situé près de Paris, dans l'Essonne.⚡ Il sera équipé des dernières puces pour entraîner nos modèles et sera alimenté par une énergie décarbonée.⏱️ Il sera opérationnel dans les mois à venir.Il s’agit d’une nouvelle étape décisive pour notre développement et notre indépendance et qui nous permettra de continuer de rendre l'IA toujours plus accessible, plus personnalisable et open-source pour tous !",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7294435584431775744",
+        "id": 12
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 07 May 2025 14:16:08 GMT (UTC)",
+        "content": "We are proud to announce two significant milestones in our model and product roadmaps - Le Chat Enterprise and Mistral Medium 3.1. Introducing Le Chat Enterprise, the most customizable and secure agent-powered AI assistant for businesses, making AI a real leverage for competitiveness.🧠 Integration with your company knowledge (starting with Gmail, Google Drive, Sharepoint…)📚 Ability to add frequently used documents for better-informed outputs🏢 Enterprise-grade features: agents, coding assistant, web search, global news coverage…🔐 Secure deployment: on-prem, in your cloud, or as a service.2. Introducing Mistral Medium 3: our new multimodal model offering SOTA performance at 8X lower cost.🤖 A new class of models that balances performance, cost, and deployability.⚡ High performance in coding and function-calling.⚙️ Full enterprise capabilities, including hybrid or on-premises/in-VPC deployment, custom post-training, and seamless integration into enterprise tools and systems.Le Chat Enterprise and Medium 3 will unlock new levels of productivity, innovation and competitiveness. Can’t wait to see what you will do with them!Read more:https://mistral.ai/news",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7325886156816986112",
+        "id": 13
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Fri, 07 Mar 2025 17:44:40 GMT (UTC)",
+        "content": "🚀 New use case unlocked! How to build agents for product teams: Call Transcript ➡️ PRD ➡️ Engineering Tickets. 🚀We've been using an agentic workflow to convert meeting transcripts into actionable development tasks using our models. Say goodbye to manual processes and hello to streamlined efficiency! 📈 🤝Read the blog:https://lnkd.in/e52ZjQXB",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7303832979565367297",
+        "id": 14
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Fri, 01 Aug 2025 16:24:53 GMT (UTC)",
+        "content": "We are thrilled to share our latest blog post from the Solutions team, showcasing how we apply Mistral technology to tackle complex business challenges.Fine-tuning foundation models is revolutionizing the way we approach real-world AI applications. By adapting pre-trained models to specific domains, we can achieve dramatically better performance on specialized tasks.In this blog post, we demonstrate how you can apply LoRA fine-tuning to a Pixtral-12B model directly within the Mistral ecosystem. Using satellite imagery, we show how this technique can lead to significant improvements on an image recognition task, highlighting the power of domain-specific adaptation.https://lnkd.in/gFURuAXXInterested in more custom work with the Mistral AI team? Contact us for solution support and discover how we can help you achieve your AI goals.https://mistral.ai/contact",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7357083913946611715",
+        "id": 15
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 06 Feb 2025 15:04:29 GMT (UTC)",
+        "content": "Introducing the all new Le Chat: your ultimate AI sidekick for life and work! Now live on web and mobile!What makes Le Chat unique?⚡ Lightning-fast responses (up to ~1000 words/sec)📈 State-of-the-art document and image analysis🖥️ Local code execution and exploratory data analysis🎨 The industry's leading image generation model🌟 Exclusive Pro features for power users🏢 Enterprise deployments (SaaS / on-prem / VPC) in preview🔜 Enterprise data connectors and agents coming soonBlog post:https://lnkd.in/ew-tQS7uDownload it here:App store:https://lnkd.in/egNdamKtGoogle Play:https://lnkd.in/edFNbXG5More information and lots of cool demos in the comment below.We can’t wait to hear your feedback!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7293283417008275456",
+        "id": 16
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 18 Feb 2025 19:22:32 GMT (UTC)",
+        "content": "Introducing Mistral Saba, our first regional language model, designed to excel in Arabic and South Indian-origin languages such as Tamil.As AI adoption grows worldwide, it is crucial to have models that aren’t just fluent, but truly native - understanding local linguistic nuances, cultural context, and regional knowledge.Mistral Saba is a 24B parameter model that has been trained on meticulously curated datasets from across the Middle East and South Asia. We are proud to share that it provides more accurate and relevant responses than models over 5 times its size, while being significantly faster and lower cost.Since Mistral AI’s creation, we have always advocated for a ubiquitous AI. Mistral Saba echoes this commitment.We can’t wait to see the impact it will have on communities and businesses across these regions!More information here:https://lnkd.in/eSvHvD_r",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7297697013708607488",
+        "id": 17
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 15 Sep 2025 11:59:39 GMT (UTC)",
+        "content": "We are happy to announce a new partnership with the Kingdom of Morocco!As part of our Mistral AI for Citizens initiative, we are proud to share that we’ve agreed on a multi-year partnership with Morocco'sMinistère de la Transition Numérique et de la Réforme de l'Administration. Together, we will:🧠 Develop Morocco’s AI ecosystem through training, applied research, and knowledge sharing.🏭 Foster the growth of industrial projects with AI solutions tailored to Moroccan businesses.⭐️ Strengthen Morocco’s leadership as a regional and African reference in AI.At Mistral AI, we are proud to contribute to catalyzing Morocco’s national innovation using open, flexible AI technology, and to ensuring its strategic autonomy.Stay tuned for what’s next!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7373324621774884864",
+        "id": 18
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 19 May 2025 20:00:03 GMT (UTC)",
+        "content": "We are proud to announce our groundbreaking collaboration withDell Technologies!Together, we are bringing the power of Mistral AI’s advanced models and orchestration tools to Dell’s enterprise-grade infrastructure through the Dell AI Factory.Our joint solutions are designed to simplify AI adoption, making it easier than ever for businesses to deploy secure, customizable, and scalable AI-driven knowledge management solutions. Key benefits include:⚙️Flexibility: Tailor AI solutions to your specific workflow requirements.🔐 Security: Trusted full-stack solutions deployed on-premises.📈 Scalability: Adaptable architecture to support future growth.Stay tuned for more updates!Read more:https://lnkd.in/gE99Zy2m",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7330321361648660480",
+        "id": 19
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 07 May 2025 16:39:12 GMT (UTC)",
+        "content": "We are proud to announce two significant milestones in our model and product roadmaps - Le Chat Enterprise and Mistral Medium 3.1. Introducing Le Chat Enterprise, the most customizable and secure agent-powered AI assistant for businesses, making AI a real leverage for competitiveness.🧠 Integration with your company knowledge (starting with Gmail, Google Drive, Sharepoint…)📚 Ability to add frequently used documents for better-informed outputs🏢 Enterprise-grade features: agents, coding assistant, web search, global news coverage…🔐 Secure deployment: on-prem, in your cloud, or as a service.2. Introducing Mistral Medium 3: our new multimodal model offering SOTA performance at 8X lower cost.🤖 A new class of models that balances performance, cost, and deployability.⚡ High performance in coding and function-calling.⚙️ Full enterprise capabilities, including hybrid or on-premises/in-VPC deployment, custom post-training, and seamless integration into enterprise tools and systems.Le Chat Enterprise and Medium 3 will unlock new levels of productivity, innovation and competitiveness. Can’t wait to see what you will do with them!Read more:https://mistral.ai/news",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7325922162475741184",
+        "id": 20
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 17 Apr 2025 07:24:12 GMT (UTC)",
+        "content": "🚀 Thrilled to announce that we are now equipped with the most advanced chips on the market! Thanks to our partnership withCoreWeave, we're integrating the first Blackwell GPUs to accelerate the development of our next-generation AI models. This upgrade will significantly enhance our training processes and boost the capabilities and efficiency of our models.Thanks toCoreWeaveandNVIDIAfor empowering us to push the boundaries of AI and put its power into everyone's hands!https://lnkd.in/en6Kh8XW",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7318534732575600641",
+        "id": 21
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 16 Apr 2025 19:38:09 GMT (UTC)",
+        "content": "Introducing Mistral AI Classifier Factory! 🚀We've created a user-friendly and simple way to build your own classifiers. Utilize our small yet highly efficient models and training methods to develop custom classifiers for moderation, intent detection, sentiment analysis, data clustering, fraud detection, spam filtering, recommendation systems, and more. Check out our docs and cookbooks for details:- Docs:https://lnkd.in/gn8-T_6n- Intent classification cookbook:https://lnkd.in/g4N-HbvH- Moderation classifier cookbook:https://lnkd.in/gg9rUs3x- Product classification cookbook:https://lnkd.in/giB_XD_h",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7318357052580339714",
+        "id": 22
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 26 Aug 2025 07:58:49 GMT (UTC)",
+        "content": "We are happy to share that Mistral Medium 3.1 just landed onLMArena—punching way above its weight!🏆 1st in English (no Style Control)🏆 2nd overall (no Style Control)🏆 Top 3 in Coding & Long Queries🏆 8th overallSmall model. Big impact.Try it now on Le Chat and the API!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7366016255360716802",
+        "id": 23
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 12 Aug 2025 17:12:30 GMT (UTC)",
+        "content": "Introducing Mistral Medium 3.1.🌟 Overall Performance Boost: Improvements in reasoning, coding, and multimodal capabilities.🗣️ Improved Tone: Enjoy a seamless and consistent tone, whether using system prompts and tools or not.🔍 Smarter Web Searches: Get more accurate and comprehensive web search results.Try Mistral Medium 3.1 today in Le Chat (now the default model) or through our API (`mistral-medium-2508`)!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7361082164521684992",
+        "id": 24
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 30 Jan 2025 14:18:27 GMT (UTC)",
+        "content": "Introducing Small 3, our most efficient and versatile model yet! Designed to handle 80% of generative AI tasks at unprecedented speeds, Small 3 can be deployed anywhere, making it a game-changer for accelerating GenAI adoption across industries worldwide.At Mistral AI, our mission is to put generative AI in everyone's hands, with the highest level of security, privacy and control. Small 3 embodies this commitment.It is also released under the Apache 2.0 license, as we're renewing our dedication to open source.We are also excited to collaborate withHugging Face,Ollama,Kaggle,Together AIandFireworks AIto make Small 3 available on their platforms, starting today.We can't wait to see how the developers community adopts and customizes Small 3!https://lnkd.in/eEgcbTMB",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7290735119026257921",
+        "id": 25
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 16 Jan 2025 09:27:00 GMT (UTC)",
+        "content": "We believe that democratizing access to advance AI interfaces requires trust and confidence. That's why we've joined forces with leading global news agency法新社.Our AI assistant Le Chat will now integrate AFP’s newswire stories, enhancing responses with verified, real-time information. With access to over 2,300 daily wires in six languages, you can count on Le Chat for up-to-date and accurate insights.Read more about it here:https://lnkd.in/eseCUiYf",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7285588340341440512",
+        "id": 26
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 06 Jan 2025 17:43:32 GMT (UTC)",
+        "content": "Happy New Year to all of you! And thank you for the incredible interest in our Mistralship startup program!Due to the overwhelming number of requests, we're extending the application period until January 31st. We're searching for 10 exceptional startups (pre-seed to Series A) to join us on a 6-month collaborative journey.Don’t miss this opportunity—apply here:https://lnkd.in/eSVSYQze",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7282089419115749376",
+        "id": 27
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 29 Jul 2025 12:45:26 GMT (UTC)",
+        "content": "We are proud to announce our strategic partnership withNTT DATAto shape the future of enterprise AI.By combining NTT DATA’s global expertise in IT services with Mistral AI’s cutting edge models, we will deliver tailored, secure, and sustainable AI for strategic industries such as finance, insurance, defense, as well as the public sector.We will address the entire value chain—from infrastructure and private cloud environments to AI-powered business processes, to deliver scalable solutions.Together, we are committed to empowering organizations worldwide with control and independence. Stay tuned for more updates!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7355941525366710273",
+        "id": 28
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 17 Jun 2025 09:12:15 GMT (UTC)",
+        "content": "We’re proud to announce a strategic partnership with the Government of Luxembourg!We will support Luxembourg’s ambitious AI strategy by:🏛️ deploying our solutions into public administration and defense,💡 fostering collaboration with research institutions,🧠 creating highly skilled jobs with the opening of new offices in Luxembourg.This collaboration will serve as a model for how AI can drive innovation at country level, support strategic autonomy, and ensure complete data control.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7340667584368766977",
+        "id": 29
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 11 Jun 2025 17:47:39 GMT (UTC)",
+        "content": "We are happy to introduce Mistral Compute, our new offering designed to meet every needs of organizations seeking to harness the power of AI - from GPUs to end-user apps.In partnership withNVIDIA, we’re building the infrastructure layer to support our state-of-the-art models and products. With data centers operated in France and plans to expand across Europe, we’re providing our customers with an end-to-end platform for high-performance, scalable, and secure AI solutions.Two years ago, we set out with an ambitious vision: to create language models capable of competing with global leaders. Today, we’re taking this vision to the next level by tackling a new part of the AI value chain and empowering Europe with the capacity to strengthen its AI leadership.Huge thanks toJensen Huang, Maurice Lévy andVivaTech.More information below 👇Stay tuned for more updates!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7338622963795017730",
+        "id": 30
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 04 Jun 2025 14:04:24 GMT (UTC)",
+        "content": "Excited to introduce Mistral Code! 🤖 The most customizable AI-powered coding assistant for enterprises!Key Features:🛠️ Frontier coding models, fully customizable & tunable to your codebase🌟 State-of-the-art coding assistance & agentic coding, in your control🔧 One platform, one vendor, complete visibility across your full software stack💡 Deep code understanding, generation, and completion🔹 Join industry leaders likeABANCA,Groupe SNCF, and凱捷using Mistral Code. Request access from your Mistral account team, and start coding with Mistral Code today!🙏 Huge thanks to the Continue community, which has been foundational in building Mistral Code!Check out our blog posthttps://lnkd.in/g7N456jaand our websitehttps://lnkd.in/gkYw6wmxto learn more.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7336030065979215875",
+        "id": 31
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 28 May 2025 14:29:50 GMT (UTC)",
+        "content": "We are excited to release Codestral Embed, our first embedding model specialized for code. It performs especially well for retrieval use cases on real-world code data.Check out our blog post:https://lnkd.in/g9tp5aPn",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7333499752795324418",
+        "id": 32
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Tue, 27 May 2025 14:03:56 GMT (UTC)",
+        "content": "We're proud to introduce Agents API, a game-changer in building agents and putting AI into everyone’s hands!Why does our Agents API stand out:💻 Code execution: agents can run Python code in a secure environment.🎨 Image generation: create visual aids, custom graphics, and artistic images.📚 Document library: access documents from Mistral Cloud, enhancing RAG functionality with user uploaded documents.🌐 Web Search: agents deliver up-to-date, informed responses using web search.🛠️ MCP tools: flexible and extensible interface for agents to access real-world context, no additional dependencies are required!🧠 Memory and context: maintain conversation history and manage conversations flexibly.🤝 Agent orchestration: coordinate multiple agents to solve complex problems seamlessly.With Agents API, we empower enterprises to use AI in more practical and impactful ways. Dive in and start building today!More information here:https://lnkd.in/eDj9JDNm",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7333130846238896128",
+        "id": 33
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 07 Apr 2025 13:24:32 GMT (UTC)",
+        "content": "We are very happy to announce a unique and strategic 5-year partnership with達飛通運有限公司!Together, we will build tailored AI solutions to foster innovation in shipping, logistics and media, contributing to a sustainable competitive advantage for the group.We will achieve this by leveraging our extensive range of models and solutions, as well as deploying a task force of Mistral scientists and engineers on-site to ensure seamless customization and deployment of our technology.We look forward to sharing future developments with you!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7315001535963279362",
+        "id": 34
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 17 Mar 2025 16:14:42 GMT (UTC)",
+        "content": "Introducing Small 3.1, the best model in its weight class!At Mistral AI, we empower companies to solve real problems with state-of-the-art AI solutions. Small 3.1 embodies this commitment, offering improved text performance, multimodal understanding, and an expanded context window of up to 128k tokens. It outperforms comparable models, delivering inference speeds of 150 tokens per second.It is released under an Apache 2.0 license so happy building, everyone!https://lnkd.in/dDBQj2Jv",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7307434214457577473",
+        "id": 35
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Thu, 06 Mar 2025 17:05:32 GMT (UTC)",
+        "content": "Introducing Mistral OCR, the world’s best document understanding API!As organizations are making their documentation AI ready, Mistral OCR sets a new standard in document comprehension, making this critical mission fast and easy for everyone.Why Mistral OCR stands out:🔍 State-of-the-art understanding of complex documents🌍 Natively multilingual and multimodal⚡ Fastest in its category📄 Doc-as-prompt, structured output🔒 Available for on-prem deploymentTry it on Le Chat for free and head over to La Plateforme for the API.More information here:https://lnkd.in/eCrAFDxf",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7303460741242662913",
+        "id": 36
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Fri, 28 Feb 2025 12:03:05 GMT (UTC)",
+        "content": "Starting today, we are partnering withSopra Steriato deliver cutting-edge AI solutions to European businesses and administrations.By leveraging Sopra Steria’s expertise in digital transformation, we will support European organizations on their AI journey, with a strong focus on efficiency, customization, and security.Together, we are committed to driving growth and innovation across the continent. Stay tuned for future developments!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7301210301260005378",
+        "id": 37
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 19 Feb 2025 14:40:50 GMT (UTC)",
+        "content": "Less than two weeks ago, we introduced our AI assistant, Le Chat, on mobile. Today, we've hit 1 million downloads! Thank you for your incredible support. We're just getting started and can't wait to share what's next. Stay tuned!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7297988508349067264",
+        "id": 38
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Mon, 17 Feb 2025 13:00:57 GMT (UTC)",
+        "content": "Introducing Mistral Saba, our first regional language model, designed to excel in Arabic and South Indian-origin languages such as Tamil.As AI adoption grows worldwide, it is crucial to have models that aren’t just fluent, but truly native - understanding local linguistic nuances, cultural context, and regional knowledge.Mistral Saba is a 24B parameter model that has been trained on meticulously curated datasets from across the Middle East and South Asia. We are proud to share that it provides more accurate and relevant responses than models over 5 times its size, while being significantly faster and lower cost.Since Mistral AI’s creation, we have always advocated for a ubiquitous AI. Mistral Saba echoes this commitment.We can’t wait to see the impact it will have on communities and businesses across these regions!More information here:https://lnkd.in/eSvHvD_r",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7297238595042459648",
+        "id": 39
+    },
+    {
+        "company": "mistralai",
+        "source": "LinkedIn",
+        "date": "Wed, 12 Feb 2025 11:06:37 GMT (UTC)",
+        "content": "The主題標籤#AIActionSummitis wrapping up. It was an incredible spotlight for AI and a crucial opportunity to put it in everyone’s hands.We seized the opportunity to reinforce our growth strategy, increase our technological independence, develop our partnerships and make sure you all become cat people too!😺 This is why we launched Le Chat, our brand-new AI assistant on iOS and Android, giving everyone access to our most advanced AI models (it’s already #1 on App Store France!).🏗️ ⁠We also announced the launch of our own AI Cluster in the Paris region – a big step to fast-track our growth and R&D efforts.We owe our success to the incredible partners who contribute to bring AI into the hands of citizens, businesses, and consumers everywhere. We are excited to share the following collaborations:⁠WithEdTech Franceand 11 French universities, we are forging an alliance to accelerate the deployment of GenAI to researchers, teachers and students while ensuring data protection and multiculturalism.⁠With主題標籤#FranceTravail, we’re helping advisors help job seekers finding the right job faster.⁠WithVeolia, we’re empowering operators to be more informed and efficient, and allowing non-expert to interact easily with factories.⁠WithStellantis, we’re simplifying vehicle design and reinventing the driving experience.⁠WithFree, we’re giving 15.5 million French mobile subscribers free access to “Le Chat Pro” for a year.⁠With思科, we’re automating customer experiences, driving satisfaction and loyalty.⁠WithHelsing, we’re strengthening Europe’s Tech and defense leadership.WithOrange, we’re joining forces to invent the networks of tomorrow and provides Orange’s professional clients with “Le Chat Pro” and our code model Codestral.This is what building the future of AI looks like: a more popular AI. And that’s just the beginning, stay tuned!CcConservatoire National des Arts et MétiersMines Paris - PSLSorbonne UniversitésUniversité de BordeauxUniversité de Haute-Alsace - UHAUniversité de MontpellierNîmes UniversitéUniversité de Picardie Jules Verne (UPJV)Université de RennesUniversité Paris-Est Créteil (UPEC)Université Toulouse - Jean Jaurès",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7295397885402107905",
+        "id": 40
+    }
+]

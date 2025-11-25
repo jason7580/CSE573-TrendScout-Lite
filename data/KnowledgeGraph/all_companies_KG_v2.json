@@ -1,0 +1,5227 @@
+{
+  "metadata": {
+    "extraction_date": "2025-11-24",
+    "total_posts": 174,
+    "companies": [
+      "perplexity-ai",
+      "openai",
+      "mistralai",
+      "anthropicresearch",
+      "deepseek-ai"
+    ],
+    "version": "2.0",
+    "features": [
+      "post_titles",
+      "ai_model_providers",
+      "partner_categories"
+    ]
+  },
+  "extracted_data": [
+    {
+      "global_id": 1,
+      "post_id": "perplexity-1",
+      "company": "perplexity-ai",
+      "date": "Wed, 19 Nov 2025",
+      "title": "Enterprise Pro for Government Launch",
+      "summary": "Perplexity announces a partnership with the GSA to bring Enterprise Pro AI to the US Government.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Enterprise Pro for Government",
+          "type": "platform",
+          "description": "Enterprise-grade AI for federal users"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "GSA",
+          "category": "government",
+          "type": "contract",
+          "details": "Government-wide contract"
+        },
+        {
+          "partner": "US Government",
+          "category": "government",
+          "type": "contract",
+          "details": "Direct partnership for AI adoption"
+        }
+      ],
+      "features": [
+        {
+          "name": "Secure-by-default",
+          "description": "Guarantees for federal users",
+          "availability": "Government agencies"
+        }
+      ],
+      "topics": [
+        "government",
+        "enterprise",
+        "security",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 2,
+      "post_id": "perplexity-2",
+      "company": "perplexity-ai",
+      "date": "Fri, 14 Nov 2025",
+      "title": "Comet Assistant Transparency Updates",
+      "summary": "Comet Assistant receives updates for transparency, permission protocols, and user control over automated actions.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Comet Assistant",
+          "type": "agent",
+          "description": "AI browsing assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Permission Requests",
+          "description": "Asks before sensitive actions",
+          "availability": "All users"
+        },
+        {
+          "name": "Action Visibility",
+          "description": "Shows exactly what the agent is doing",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "privacy",
+        "security",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 3,
+      "post_id": "perplexity-3",
+      "company": "perplexity-ai",
+      "date": "Sat, 22 Nov 2025",
+      "title": "New Default Generation Models",
+      "summary": "Nano Banana Pro and Sora 2 Pro are now the default generation models for Perplexity and Comet.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "Perplexity Max",
+          "type": "subscription",
+          "description": "Premium subscription tier"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Nano Banana Pro",
+          "provider": "Unknown",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "Sora 2 Pro",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "multimodal",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 4,
+      "post_id": "perplexity-4",
+      "company": "perplexity-ai",
+      "date": "Thu, 13 Nov 2025",
+      "title": "GPT-5.1 Availability",
+      "summary": "GPT-5.1 is now available for Perplexity Pro and Max subscribers.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5.1",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "search"
+      ]
+    },
+    {
+      "global_id": 5,
+      "post_id": "perplexity-5",
+      "company": "perplexity-ai",
+      "date": "Wed, 05 Nov 2025",
+      "title": "Perplexity Becomes Default AI for Snapchat",
+      "summary": "Perplexity will become the default AI provider for all Snapchat users starting early next year.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Snapchat",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Default AI in Snapchat app"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "mobile",
+        "integration",
+        "social"
+      ]
+    },
+    {
+      "global_id": 6,
+      "post_id": "perplexity-6",
+      "company": "perplexity-ai",
+      "date": "Wed, 29 Oct 2025",
+      "title": "Email Assistant Trial Launch",
+      "summary": "Perplexity Pro subscribers can now access a 14-day trial of the privacy-focused Email Assistant.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Email Assistant",
+          "type": "feature",
+          "description": "AI assistant for drafting and labeling emails"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Privacy-first drafting",
+          "description": "Email content not logged",
+          "availability": "Pro Subscribers"
+        },
+        {
+          "name": "Auto-deletion",
+          "description": "Chains deleted after two weeks",
+          "availability": "Pro Subscribers"
+        }
+      ],
+      "topics": [
+        "agents",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "global_id": 7,
+      "post_id": "perplexity-7",
+      "company": "perplexity-ai",
+      "date": "Thu, 30 Oct 2025",
+      "title": "Perplexity Patents Launch",
+      "summary": "Launch of Perplexity Patents, an AI patent research agent utilizing a citation-first approach.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Perplexity Patents",
+          "type": "platform",
+          "description": "AI patent research agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Natural Language Search",
+          "description": "Search without keywords",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "search",
+        "legal",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 8,
+      "post_id": "perplexity-8",
+      "company": "perplexity-ai",
+      "date": "Thu, 06 Nov 2025",
+      "title": "Comet Assistant Performance Upgrade",
+      "summary": "Major upgrades to Comet Assistant improve performance by 23% and enable multi-site workflows.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Comet Assistant",
+          "type": "agent",
+          "description": "Browser automation agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Parallel Browsing",
+          "description": "Works across multiple tabs",
+          "availability": "All users"
+        },
+        {
+          "name": "Permission Memory",
+          "description": "Remembers user approval",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "performance",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 9,
+      "post_id": "perplexity-9",
+      "company": "perplexity-ai",
+      "date": "Tue, 05 Aug 2025",
+      "title": "Response to Cloudflare Blog",
+      "summary": "Perplexity addresses inaccuracies in Cloudflare's recent blog post regarding modern AI assistants.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "security",
+        "technology",
+        "industry"
+      ]
+    },
+    {
+      "global_id": 10,
+      "post_id": "perplexity-10",
+      "company": "perplexity-ai",
+      "date": "Thu, 18 Sep 2025",
+      "title": "Perplexity Enterprise Max Launch",
+      "summary": "Announcement of Enterprise Max tier offering unlimited Labs queries and premium security features.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Enterprise Max",
+          "type": "subscription",
+          "description": "Top-tier enterprise plan"
+        },
+        {
+          "name": "Comet Max Assistant",
+          "type": "agent",
+          "description": "Advanced assistant for enterprise"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Unlimited Labs",
+          "description": "Unlimited queries",
+          "availability": "Enterprise Max"
+        },
+        {
+          "name": "10x File Uploads",
+          "description": "Increased capacity",
+          "availability": "Enterprise Max"
+        }
+      ],
+      "topics": [
+        "enterprise",
+        "security",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 11,
+      "post_id": "perplexity-11",
+      "company": "perplexity-ai",
+      "date": "Tue, 16 Sep 2025",
+      "title": "New Data Connectors Integration",
+      "summary": "Pro users can now connect GitHub, Notion, and email, while Enterprise Pro gets Linear and Outlook support.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Perplexity Pro",
+          "type": "subscription",
+          "description": "Paid user tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "GitHub",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Data connector"
+        },
+        {
+          "partner": "Notion",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Data connector"
+        },
+        {
+          "partner": "Linear",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Enterprise data connector"
+        }
+      ],
+      "features": [
+        {
+          "name": "Personal Knowledge Search",
+          "description": "Search across connected apps",
+          "availability": "Pro/Enterprise"
+        }
+      ],
+      "topics": [
+        "integration",
+        "productivity",
+        "search"
+      ]
+    },
+    {
+      "global_id": 12,
+      "post_id": "perplexity-12",
+      "company": "perplexity-ai",
+      "date": "Wed, 03 Sep 2025",
+      "title": "Comet for Students Worldwide",
+      "summary": "Comet is now available to students worldwide with features like Study Mode and schedule management.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        },
+        {
+          "name": "Study Mode",
+          "type": "feature",
+          "description": "Exam prep and scheduling tools"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Study Mode",
+          "description": "Exam prep and scheduling",
+          "availability": "Students"
+        }
+      ],
+      "topics": [
+        "education",
+        "students",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 13,
+      "post_id": "perplexity-13",
+      "company": "perplexity-ai",
+      "date": "Wed, 27 Aug 2025",
+      "title": "Voice Mode on Android with SMPL",
+      "summary": "Perplexity Voice Mode now uses SMPL to provide clear conversations on Android devices.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Voice Mode",
+          "type": "feature",
+          "description": "Conversational AI interface"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "SMPL Integration",
+          "description": "Improved voice clarity",
+          "availability": "Android"
+        }
+      ],
+      "topics": [
+        "voice",
+        "mobile",
+        "android"
+      ]
+    },
+    {
+      "global_id": 14,
+      "post_id": "perplexity-14",
+      "company": "perplexity-ai",
+      "date": "Tue, 10 Jun 2025",
+      "title": "o3 Model Availability",
+      "summary": "OpenAI's o3 model is now available for Perplexity Pro users.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "o3",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "search",
+        "reasoning"
+      ]
+    },
+    {
+      "global_id": 15,
+      "post_id": "perplexity-15",
+      "company": "perplexity-ai",
+      "date": "Thu, 14 Aug 2025",
+      "title": "Comet for Enterprise Launch",
+      "summary": "Comet is now available for Enterprise Pro users with enhanced security and compliance standards.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Comet for Enterprise",
+          "type": "agent",
+          "description": "AI browser agent for business"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Enterprise Security",
+          "description": "Maintains compliance standards",
+          "availability": "Enterprise Pro"
+        }
+      ],
+      "topics": [
+        "enterprise",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "global_id": 16,
+      "post_id": "perplexity-16",
+      "company": "perplexity-ai",
+      "date": "Wed, 13 Aug 2025",
+      "title": "Comet Desktop App Launch",
+      "summary": "Comet is now available for all US-based Perplexity Pro users on Mac and Windows.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "application",
+          "description": "Desktop AI browser"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "desktop",
+        "browsing"
+      ]
+    },
+    {
+      "global_id": 17,
+      "post_id": "perplexity-17",
+      "company": "perplexity-ai",
+      "date": "Mon, 11 Aug 2025",
+      "title": "Video Generation Launch",
+      "summary": "Video generation is now available on web and mobile with quotas for Pro and Max subscribers.",
+      "post_type": "feature_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Video Generation",
+          "description": "Create videos from prompts",
+          "availability": "Web, iOS, Android"
+        }
+      ],
+      "topics": [
+        "multimodal",
+        "video",
+        "mobile"
+      ]
+    },
+    {
+      "global_id": 18,
+      "post_id": "perplexity-18",
+      "company": "perplexity-ai",
+      "date": "Thu, 07 Aug 2025",
+      "title": "GPT-5 Availability",
+      "summary": "GPT-5 is now available on Perplexity and Comet for Max and Pro subscribers.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "search"
+      ]
+    },
+    {
+      "global_id": 19,
+      "post_id": "perplexity-19",
+      "company": "perplexity-ai",
+      "date": "Mon, 28 Jul 2025",
+      "title": "Comet Booking Capabilities",
+      "summary": "Comet can now search, book, and confirm appointments on behalf of the user.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Appointment Booking",
+          "description": "Automated booking and confirmation",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "automation",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 20,
+      "post_id": "perplexity-20",
+      "company": "perplexity-ai",
+      "date": "Thu, 24 Jul 2025",
+      "title": "Comet as a DJ",
+      "summary": "Playful update showcasing Comet's ability to act as a DJ.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "media",
+        "entertainment"
+      ]
+    },
+    {
+      "global_id": 21,
+      "post_id": "perplexity-21",
+      "company": "perplexity-ai",
+      "date": "Wed, 23 Jul 2025",
+      "title": "Comet Saved Content Access",
+      "summary": "Users can instantly access saved content from anywhere using Comet.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Universal Access",
+          "description": "Access saved content anywhere",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "productivity",
+        "search"
+      ]
+    },
+    {
+      "global_id": 22,
+      "post_id": "perplexity-22",
+      "company": "perplexity-ai",
+      "date": "Tue, 14 Oct 2025",
+      "title": "Firefox Search Partnership",
+      "summary": "Mozilla Firefox users can now set Perplexity as their default search engine.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Mozilla",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Default search engine option in Firefox"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "search",
+        "partnerships",
+        "browsers"
+      ]
+    },
+    {
+      "global_id": 23,
+      "post_id": "perplexity-23",
+      "company": "perplexity-ai",
+      "date": "Mon, 21 Jul 2025",
+      "title": "Curiosity Campaign Update",
+      "summary": "A brand engagement post asking users where their curiosity will lead them.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "marketing",
+        "engagement"
+      ]
+    },
+    {
+      "global_id": 24,
+      "post_id": "perplexity-24",
+      "company": "perplexity-ai",
+      "date": "Thu, 10 Jul 2025",
+      "title": "Comet Usage Engagement",
+      "summary": "Community engagement post asking users about their daily accomplishments with Comet.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "community",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 25,
+      "post_id": "perplexity-25",
+      "company": "perplexity-ai",
+      "date": "Thu, 10 Jul 2025",
+      "title": "Comet Shopping Agents",
+      "summary": "Highlighting agents that shop on behalf of the user within Comet.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Shopping Agent",
+          "description": "Automated shopping capabilities",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "shopping",
+        "automation"
+      ]
+    },
+    {
+      "global_id": 26,
+      "post_id": "perplexity-26",
+      "company": "perplexity-ai",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Comet Task Automation",
+      "summary": "Comet can now book meetings and send emails, transforming sessions into seamless interactions.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Task Automation",
+          "description": "Book meetings and send emails",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "productivity",
+        "automation"
+      ]
+    },
+    {
+      "global_id": 27,
+      "post_id": "perplexity-27",
+      "company": "perplexity-ai",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Voice Browsing with Comet",
+      "summary": "Users can now browse the web using their voice with Comet.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Voice Browsing",
+          "description": "Voice-controlled navigation",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "voice",
+        "accessibility",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 28,
+      "post_id": "perplexity-28",
+      "company": "perplexity-ai",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Comet Beta Launch",
+      "summary": "Comet is now available to Max subscribers and rolling out via invite-only waitlist.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "browsing",
+        "search"
+      ]
+    },
+    {
+      "global_id": 29,
+      "post_id": "perplexity-29",
+      "company": "perplexity-ai",
+      "date": "Fri, 30 May 2025",
+      "title": "Pinned Sidebar Categories",
+      "summary": "Finance, Travel, Shopping, and Academic pages are now pinned to the sidebar for easier access.",
+      "post_type": "feature_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Pinned Sidebar",
+          "description": "Quick access to verticals",
+          "availability": "Web users"
+        }
+      ],
+      "topics": [
+        "finance",
+        "education",
+        "shopping",
+        "search"
+      ]
+    },
+    {
+      "global_id": 30,
+      "post_id": "perplexity-30",
+      "company": "perplexity-ai",
+      "date": "Thu, 29 May 2025",
+      "title": "Perplexity Labs Launch",
+      "summary": "Launch of Perplexity Labs for handling complex tasks like coding and design for Pro users.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Perplexity Labs",
+          "type": "platform",
+          "description": "Advanced workspace for complex tasks"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Complex Task Handling",
+          "description": "Coding, headless browsing, design",
+          "availability": "Pro users"
+        }
+      ],
+      "topics": [
+        "productivity",
+        "coding",
+        "development"
+      ]
+    },
+    {
+      "global_id": 31,
+      "post_id": "perplexity-31",
+      "company": "perplexity-ai",
+      "date": "Wed, 28 May 2025",
+      "title": "Lewis Hamilton Partnership",
+      "summary": "Perplexity announces a brand partnership with Formula 1 driver Lewis Hamilton.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Lewis Hamilton",
+          "category": "media",
+          "type": "marketing",
+          "details": "Brand ambassador"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "marketing",
+        "sports"
+      ]
+    },
+    {
+      "global_id": 32,
+      "post_id": "perplexity-32",
+      "company": "perplexity-ai",
+      "date": "Sat, 01 Mar 2025",
+      "title": "GPT-4.5 Live",
+      "summary": "GPT-4.5 is now live on Perplexity for all Pro users with a daily query limit.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-4.5",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "search"
+      ]
+    },
+    {
+      "global_id": 33,
+      "post_id": "perplexity-33",
+      "company": "perplexity-ai",
+      "date": "Thu, 22 May 2025",
+      "title": "Claude Sonnet 4 Availability",
+      "summary": "Claude Sonnet 4 and Sonnet 4 Thinking from Anthropic are now available for Pro users.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Claude Sonnet 4",
+          "provider": "Anthropic",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "Sonnet 4 Thinking",
+          "provider": "Anthropic",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "reasoning",
+        "search"
+      ]
+    },
+    {
+      "global_id": 34,
+      "post_id": "perplexity-34",
+      "company": "perplexity-ai",
+      "date": "Wed, 01 Oct 2025",
+      "title": "Research on Distributed RL",
+      "summary": "Perplexity engineering blog details how RDMA unlocks ultra-fast parameter updates for trillion-parameter models.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "performance",
+        "infrastructure",
+        "models"
+      ]
+    },
+    {
+      "global_id": 35,
+      "post_id": "perplexity-35",
+      "company": "perplexity-ai",
+      "date": "Wed, 23 Apr 2025",
+      "title": "iOS Voice Assistant Launch",
+      "summary": "Introducing Perplexity iOS Voice Assistant capable of multi-app actions like booking and emailing.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Voice Assistant",
+          "type": "feature",
+          "description": "iOS voice control agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Multi-app Actions",
+          "description": "interact across apps",
+          "availability": "iOS"
+        }
+      ],
+      "topics": [
+        "voice",
+        "mobile",
+        "ios",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 36,
+      "post_id": "perplexity-36",
+      "company": "perplexity-ai",
+      "date": "Wed, 23 Apr 2025",
+      "title": "Perplexity in Practice Event",
+      "summary": "Announcement for a virtual event teaching business development workflows using Perplexity.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "enterprise",
+        "community"
+      ]
+    },
+    {
+      "global_id": 37,
+      "post_id": "perplexity-37",
+      "company": "perplexity-ai",
+      "date": "Thu, 17 Apr 2025",
+      "title": "SOC 2 Type II Compliance",
+      "summary": "Perplexity announces SOC 2 Type II compliance and new enterprise security features like SSO.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Enterprise Pro",
+          "type": "subscription",
+          "description": "Enterprise tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "SOC 2 Type II",
+          "description": "Security compliance certification",
+          "availability": "All users"
+        },
+        {
+          "name": "SSO",
+          "description": "Single Sign-On",
+          "availability": "Enterprise Pro"
+        }
+      ],
+      "topics": [
+        "security",
+        "compliance",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 38,
+      "post_id": "perplexity-38",
+      "company": "perplexity-ai",
+      "date": "Thu, 10 Apr 2025",
+      "title": "Box and Dropbox Integration",
+      "summary": "Enterprise Pro users can now access Box and Dropbox files via Deep Research.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Enterprise Pro",
+          "type": "subscription",
+          "description": "Enterprise tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Box",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "File search integration"
+        },
+        {
+          "partner": "Dropbox",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "File search integration"
+        }
+      ],
+      "features": [
+        {
+          "name": "Deep Research for Files",
+          "description": "Search internal files",
+          "availability": "Enterprise Pro"
+        }
+      ],
+      "topics": [
+        "integration",
+        "enterprise",
+        "search"
+      ]
+    },
+    {
+      "global_id": 39,
+      "post_id": "perplexity-39",
+      "company": "perplexity-ai",
+      "date": "Mon, 17 Mar 2025",
+      "title": "Brand Accuracy Statement",
+      "summary": "A short brand statement emphasizing accuracy: 'When you need to get it right, ask Perplexity.'",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "marketing",
+        "brand"
+      ]
+    },
+    {
+      "global_id": 40,
+      "post_id": "perplexity-40",
+      "company": "perplexity-ai",
+      "date": "Fri, 14 Mar 2025",
+      "title": "Teaser Date Post",
+      "summary": "A mysterious post containing only a date: 3-17-25, likely teasing an upcoming announcement.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "marketing",
+        "community"
+      ]
+    },
+    {
+      "global_id": 41,
+      "post_id": "openai-1",
+      "company": "openai",
+      "date": "Mon, 17 Nov 2025",
+      "title": "Gartner Recognizes OpenAI as Emerging Leader",
+      "summary": "OpenAI is recognized as an Emerging Leader in the 2025 Gartner Innovation Guide for Generative AI.",
+      "post_type": "milestone_announcement",
+      "products": [
+        {
+          "name": "Enterprise Platform",
+          "type": "platform",
+          "description": "Enterprise-grade AI platform"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Gartner",
+          "category": "enterprise",
+          "type": "marketing",
+          "details": "Recognition in Innovation Guide"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "models",
+        "safety"
+      ]
+    },
+    {
+      "global_id": 42,
+      "post_id": "openai-2",
+      "company": "openai",
+      "date": "Thu, 20 Nov 2025",
+      "title": "Group Chats Rolling Out in ChatGPT",
+      "summary": "Group chats are now available globally for collaborating with friends, family, and ChatGPT in one conversation.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT",
+          "type": "platform",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Group Chats",
+          "description": "Collaborate with others and AI",
+          "availability": "All logged-in users"
+        }
+      ],
+      "topics": [
+        "product_update",
+        "multimodal",
+        "mobile"
+      ]
+    },
+    {
+      "global_id": 43,
+      "post_id": "openai-3",
+      "company": "openai",
+      "date": "Sat, 15 Nov 2025",
+      "title": "Improved Custom Instructions for Formatting",
+      "summary": "ChatGPT is now better at following custom instructions to avoid specific formatting like em dashes.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT",
+          "type": "platform",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Custom Instructions",
+          "description": "Better adherence to formatting rules",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "performance",
+        "education"
+      ]
+    },
+    {
+      "global_id": 44,
+      "post_id": "openai-4",
+      "company": "openai",
+      "date": "Wed, 12 Nov 2025",
+      "title": "GPT-5.1 Rolling Out to All Users",
+      "summary": "GPT-5.1 is rolling out with better instruction following, reasoning, and personalized chat styles.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "ChatGPT",
+          "type": "platform",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "GPT-5.1",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Chat Styles",
+          "description": "Customizable tone and style",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "performance",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 45,
+      "post_id": "openai-5",
+      "company": "openai",
+      "date": "Tue, 11 Nov 2025",
+      "title": "Free ChatGPT Plus for Veterans",
+      "summary": "US servicemembers and veterans transitioning to civilian life can receive a free year of ChatGPT Plus.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "ChatGPT Plus",
+          "type": "subscription",
+          "description": "Premium AI subscription"
+        },
+        {
+          "name": "OpenAI Academy",
+          "type": "platform",
+          "description": "Educational resource"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "SheerID",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Verification platform"
+        },
+        {
+          "partner": "US Government",
+          "category": "government",
+          "type": "collaboration",
+          "details": "Support for veterans"
+        }
+      ],
+      "features": [
+        {
+          "name": "Veteran Offer",
+          "description": "Free year of Plus subscription",
+          "availability": "Veterans within 12 months of separation"
+        }
+      ],
+      "topics": [
+        "government",
+        "education",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 46,
+      "post_id": "openai-6",
+      "company": "openai",
+      "date": "Mon, 10 Nov 2025",
+      "title": "Veteran Transition Initiative Launch",
+      "summary": "OpenAI launches a program offering free ChatGPT Plus to veterans, driven by internal veteran employees.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "ChatGPT Plus",
+          "type": "subscription",
+          "description": "Premium AI subscription"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "government",
+        "education",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 47,
+      "post_id": "openai-7",
+      "company": "openai",
+      "date": "Thu, 20 Nov 2025",
+      "title": "Research on GPT-5 Accelerating Science",
+      "summary": "New research highlights how GPT-5 accelerates discovery in math, physics, biology, and other scientific fields.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "models",
+        "education"
+      ]
+    },
+    {
+      "global_id": 48,
+      "post_id": "openai-8",
+      "company": "openai",
+      "date": "Wed, 05 Nov 2025",
+      "title": "One Million Business Customers Milestone",
+      "summary": "OpenAI celebrates reaching over 1 million business customers, becoming the fastest-growing business platform.",
+      "post_type": "milestone_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "performance",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 49,
+      "post_id": "openai-9",
+      "company": "openai",
+      "date": "Wed, 05 Nov 2025",
+      "title": "Agentic Commerce and Business Growth",
+      "summary": "Milestone of 1 million business customers and the rise of agentic workflows with major partners.",
+      "post_type": "milestone_announcement",
+      "products": [
+        {
+          "name": "Agentic Commerce Protocol",
+          "type": "platform",
+          "description": "Commerce integration standard"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Canva",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "App integration"
+        },
+        {
+          "partner": "Spotify",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "App integration"
+        },
+        {
+          "partner": "Shopify",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Commerce protocol"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "agents",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 50,
+      "post_id": "openai-10",
+      "company": "openai",
+      "date": "Tue, 04 Nov 2025",
+      "title": "Automated Code Reviews with Codex",
+      "summary": "Codex can now provide high-signal code reviews in GitHub and CLI with senior engineer quality.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Codex",
+          "type": "model",
+          "description": "Programming model"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "GitHub",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Pull request reviews"
+        }
+      ],
+      "features": [
+        {
+          "name": "Code Review",
+          "description": "Automated PR reviews",
+          "availability": "Codex users"
+        }
+      ],
+      "topics": [
+        "coding",
+        "models",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 51,
+      "post_id": "openai-11",
+      "company": "openai",
+      "date": "Fri, 31 Oct 2025",
+      "title": "ChatGPT Agent Mode Preview",
+      "summary": "Agent mode allows ChatGPT to research, plan, and take action while users browse.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT agent",
+          "type": "agent",
+          "description": "Autonomous browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Agent Mode",
+          "description": "Autonomous browsing actions",
+          "availability": "Plus, Pro, Business"
+        }
+      ],
+      "topics": [
+        "agents",
+        "productivity",
+        "models"
+      ]
+    },
+    {
+      "global_id": 52,
+      "post_id": "openai-12",
+      "company": "openai",
+      "date": "Mon, 27 Oct 2025",
+      "title": "Frontend Design with Codex Cloud",
+      "summary": "Codex Cloud's multimodal abilities enable it to serve as a frontend design partner for UI building.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Codex",
+          "type": "model",
+          "description": "Programming model"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Multimodal Design",
+          "description": "UI design from sketches",
+          "availability": "Codex Cloud"
+        }
+      ],
+      "topics": [
+        "coding",
+        "multimodal",
+        "design"
+      ]
+    },
+    {
+      "global_id": 53,
+      "post_id": "openai-13",
+      "company": "openai",
+      "date": "Thu, 13 Nov 2025",
+      "title": "Interpretable AI Model Training",
+      "summary": "New method for training small AI models with internal mechanisms that are easier to interpret.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "safety",
+        "models"
+      ]
+    },
+    {
+      "global_id": 54,
+      "post_id": "openai-14",
+      "company": "openai",
+      "date": "Wed, 05 Nov 2025",
+      "title": "OpenAI for Science Initiative",
+      "summary": "Launch of OpenAI for Science to build AI tools that accelerate scientific discovery.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "science",
+        "collaboration"
+      ]
+    },
+    {
+      "global_id": 55,
+      "post_id": "openai-15",
+      "company": "openai",
+      "date": "Wed, 08 Oct 2025",
+      "title": "DevDay 2025 Recap",
+      "summary": "DevDay 2025 unveiled Sora 2 in API, Apps in ChatGPT, and Agent Builder tools.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "Sora 2",
+          "type": "model",
+          "description": "Video generation model"
+        },
+        {
+          "name": "Agent Builder",
+          "type": "tool",
+          "description": "Agent creation tool"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Sora 2",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "video",
+        "agents",
+        "API",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 56,
+      "post_id": "openai-16",
+      "company": "openai",
+      "date": "Thu, 16 Oct 2025",
+      "title": "Sora Video Reaction Tease",
+      "summary": "A one-word post 'Shivers' likely reacting to a demonstration of video generation capabilities.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "video",
+        "multimodal"
+      ]
+    },
+    {
+      "global_id": 57,
+      "post_id": "openai-17",
+      "company": "openai",
+      "date": "Wed, 05 Nov 2025",
+      "title": "IndQA Benchmark for Indian Culture",
+      "summary": "Introduction of IndQA, a benchmark for evaluating AI on Indian culture, languages, and reasoning.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "culture",
+        "models"
+      ]
+    },
+    {
+      "global_id": 58,
+      "post_id": "openai-18",
+      "company": "openai",
+      "date": "Mon, 27 Oct 2025",
+      "title": "Try All Chat Styles",
+      "summary": "A suggestion to try different features or styles, referencing a Reddit user's idea.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "community",
+        "product_update"
+      ]
+    },
+    {
+      "global_id": 59,
+      "post_id": "openai-19",
+      "company": "openai",
+      "date": "Mon, 29 Sep 2025",
+      "title": "Internal AI Use in Operations",
+      "summary": "Feature on how OpenAI's User Operations and Support teams use AI internally.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "productivity",
+        "operations"
+      ]
+    },
+    {
+      "global_id": 60,
+      "post_id": "openai-20",
+      "company": "openai",
+      "date": "Mon, 29 Sep 2025",
+      "title": "OpenAI on OpenAI Series Launch",
+      "summary": "Launch of 'OpenAI on OpenAI', a series showcasing how internal teams use their own AI technology.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "productivity",
+        "culture"
+      ]
+    },
+    {
+      "global_id": 61,
+      "post_id": "openai-21",
+      "company": "openai",
+      "date": "Thu, 23 Oct 2025",
+      "title": "Codex Extension for VS Code",
+      "summary": "New IDE extension allows using Codex directly in VS Code and Cursor for development.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Codex",
+          "type": "model",
+          "description": "Programming model"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Cursor",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "IDE integration"
+        }
+      ],
+      "features": [
+        {
+          "name": "IDE Extension",
+          "description": "In-editor coding assistance",
+          "availability": "VS Code, Cursor"
+        }
+      ],
+      "topics": [
+        "coding",
+        "developer_tools",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 62,
+      "post_id": "openai-22",
+      "company": "openai",
+      "date": "Wed, 22 Oct 2025",
+      "title": "Ask ChatGPT Feature in Atlas",
+      "summary": "The 'Ask ChatGPT' feature in the Atlas browser provides instant answers based on the current page.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT Atlas",
+          "type": "platform",
+          "description": "AI-native web browser"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Contextual Answers",
+          "description": "Page-aware assistance",
+          "availability": "Atlas Browser"
+        }
+      ],
+      "topics": [
+        "browsing",
+        "productivity",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 63,
+      "post_id": "openai-23",
+      "company": "openai",
+      "date": "Tue, 21 Oct 2025",
+      "title": "ChatGPT Atlas Browser Launch",
+      "summary": "Launch of ChatGPT Atlas, a new browser that integrates ChatGPT for seamless web navigation and tasks.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "ChatGPT Atlas",
+          "type": "platform",
+          "description": "AI-native web browser"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Browser Integration",
+          "description": "Deeply integrated AI assistance",
+          "availability": "macOS (others coming soon)"
+        }
+      ],
+      "topics": [
+        "browsing",
+        "agents",
+        "product_launch"
+      ]
+    },
+    {
+      "global_id": 64,
+      "post_id": "openai-24",
+      "company": "openai",
+      "date": "Mon, 15 Sep 2025",
+      "title": "Economic Research on ChatGPT Usage",
+      "summary": "Release of a research paper on global ChatGPT usage trends and demographic shifts.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Harvard University",
+          "category": "education",
+          "type": "research",
+          "details": "Co-authored paper"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "research",
+        "economics",
+        "demographics"
+      ]
+    },
+    {
+      "global_id": 65,
+      "post_id": "openai-25",
+      "company": "openai",
+      "date": "Mon, 06 Oct 2025",
+      "title": "Apps in ChatGPT Launch",
+      "summary": "Users can now chat directly with apps like Booking.com and Spotify inside ChatGPT.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT",
+          "type": "platform",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Booking.com",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "App integration"
+        },
+        {
+          "partner": "Spotify",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "App integration"
+        },
+        {
+          "partner": "Figma",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "App integration"
+        }
+      ],
+      "features": [
+        {
+          "name": "Apps in ChatGPT",
+          "description": "Direct app interaction",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "partnerships",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 66,
+      "post_id": "openai-26",
+      "company": "openai",
+      "date": "Tue, 30 Sep 2025",
+      "title": "Sora 2 Model Announcement",
+      "summary": "Sora 2 is announced with improved physical accuracy, controllability, and synchronized audio.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "Sora 2",
+          "type": "model",
+          "description": "Advanced video generation"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Sora 2",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "video",
+        "multimodal",
+        "models"
+      ]
+    },
+    {
+      "global_id": 67,
+      "post_id": "openai-27",
+      "company": "openai",
+      "date": "Mon, 29 Sep 2025",
+      "title": "Instant Checkout in ChatGPT",
+      "summary": "Introduction of Instant Checkout in ChatGPT with Etsy and Shopify, powered by Agentic Commerce Protocol.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Instant Checkout",
+          "type": "feature",
+          "description": "In-chat purchasing"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Etsy",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Shopping integration"
+        },
+        {
+          "partner": "Stripe",
+          "category": "tech_company",
+          "type": "infrastructure",
+          "details": "Payment processing"
+        }
+      ],
+      "features": [
+        {
+          "name": "Instant Checkout",
+          "description": "Buy products in chat",
+          "availability": "US Pro/Plus/Free"
+        }
+      ],
+      "topics": [
+        "enterprise",
+        "agents",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 68,
+      "post_id": "openai-28",
+      "company": "openai",
+      "date": "Thu, 04 Sep 2025",
+      "title": "OpenAI Jobs Platform Launch",
+      "summary": "Launch of OpenAI-Certified and Jobs Platform to connect AI-skilled workers with employers.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "OpenAI Jobs Platform",
+          "type": "platform",
+          "description": "Job connection board"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "enterprise",
+        "society"
+      ]
+    },
+    {
+      "global_id": 69,
+      "post_id": "openai-29",
+      "company": "openai",
+      "date": "Sun, 19 Oct 2025",
+      "title": "Productivity Prompt Tip",
+      "summary": "A tip on using ChatGPT to break down goals into small daily tasks.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 70,
+      "post_id": "openai-30",
+      "company": "openai",
+      "date": "Tue, 09 Sep 2025",
+      "title": "Conversation Branching in ChatGPT",
+      "summary": "Users can now branch conversations in ChatGPT to explore different directions without losing context.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT",
+          "type": "platform",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Conversation Branching",
+          "description": "Split chat threads",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "product_update",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 71,
+      "post_id": "openai-31",
+      "company": "openai",
+      "date": "Tue, 19 Aug 2025",
+      "title": "ChatGPT Go Launches in India",
+      "summary": "ChatGPT Go, a low-cost subscription plan, launches in India with enhanced limits and UPI support.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "ChatGPT Go",
+          "type": "subscription",
+          "description": "Budget-friendly subscription"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "UPI Payment",
+          "description": "Local payment method",
+          "availability": "India"
+        }
+      ],
+      "topics": [
+        "mobile",
+        "international",
+        "product_launch"
+      ]
+    },
+    {
+      "global_id": 72,
+      "post_id": "openai-32",
+      "company": "openai",
+      "date": "Tue, 14 Oct 2025",
+      "title": "Critical Thinking Prompt Tips",
+      "summary": "A guide providing specific prompts to help users leverage ChatGPT for critical thinking and strategy.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "reasoning",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 73,
+      "post_id": "openai-33",
+      "company": "openai",
+      "date": "Sun, 12 Oct 2025",
+      "title": "Friendly Reminder Video",
+      "summary": "Short video post serving as a friendly reminder to the community.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "community",
+        "culture"
+      ]
+    },
+    {
+      "global_id": 74,
+      "post_id": "openai-34",
+      "company": "openai",
+      "date": "Thu, 14 Aug 2025",
+      "title": "GPT-5 in Medical Research",
+      "summary": "Immunologist Dr. Derya Unutmaz uses GPT-5 to predict experiment outcomes and accelerate medical research.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "health",
+        "models"
+      ]
+    },
+    {
+      "global_id": 75,
+      "post_id": "openai-35",
+      "company": "openai",
+      "date": "Mon, 28 Jul 2025",
+      "title": "OpenAI Culture and Hiring",
+      "summary": "Recap of an OpenAI Forum event discussing the company's culture of autonomy and hiring practices.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "OpenAI Forum",
+          "type": "platform",
+          "description": "Community event space"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "culture",
+        "careers",
+        "community"
+      ]
+    },
+    {
+      "global_id": 76,
+      "post_id": "openai-36",
+      "company": "openai",
+      "date": "Tue, 12 Aug 2025",
+      "title": "GPT-5 Coding Improvements",
+      "summary": "Greg Brockman discusses GPT-5's superior coding capabilities with Cursor co-founder.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [
+        {
+          "partner": "Cursor",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "Discussion on coding"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "coding",
+        "models",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 77,
+      "post_id": "openai-37",
+      "company": "openai",
+      "date": "Thu, 07 Aug 2025",
+      "title": "GPT-5 Official Launch",
+      "summary": "OpenAI introduces GPT-5, their best AI system yet, featuring improvements in coding, math, and writing.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "General Performance",
+          "description": "Coding, math, writing upgrades",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "performance",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 78,
+      "post_id": "openai-38",
+      "company": "openai",
+      "date": "Thu, 02 Oct 2025",
+      "title": "Recap of Recent Product Releases",
+      "summary": "A rundown of recent launches including ChatGPT Pulse, Commerce, Parental Controls, and Sora 2 app.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "ChatGPT Pulse",
+          "type": "feature",
+          "description": "Proactive research cards"
+        },
+        {
+          "name": "Sora app",
+          "type": "application",
+          "description": "Video generation app"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Sora 2",
+          "provider": "OpenAI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Parental Controls",
+          "description": "Teen safety features",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "mobile",
+        "safety",
+        "video"
+      ]
+    },
+    {
+      "global_id": 79,
+      "post_id": "openai-39",
+      "company": "openai",
+      "date": "Fri, 25 Jul 2025",
+      "title": "Presentation Creation with ChatGPT Agent",
+      "summary": "ChatGPT agent can now create fully editable presentations for users.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "ChatGPT agent",
+          "type": "agent",
+          "description": "AI agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Presentation Builder",
+          "description": "Create editable slides",
+          "availability": "ChatGPT agent users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "productivity",
+        "multimodal"
+      ]
+    },
+    {
+      "global_id": 80,
+      "post_id": "openai-40",
+      "company": "openai",
+      "date": "Thu, 17 Jul 2025",
+      "title": "ChatGPT Agent with Computer Control",
+      "summary": "Launch of ChatGPT agent, a unified system capable of browsing and taking action on the user's computer.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "ChatGPT agent",
+          "type": "agent",
+          "description": "Unified agentic system"
+        },
+        {
+          "name": "Operator",
+          "type": "agent",
+          "description": "Action-taking browser"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Computer Control",
+          "description": "Autonomous browser actions",
+          "availability": "Pro, Plus, Team"
+        }
+      ],
+      "topics": [
+        "agents",
+        "safety",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 81,
+      "post_id": "mistralai-1",
+      "company": "mistralai",
+      "date": "Thu, 20 Nov 2025",
+      "title": "Mistral Partners with HTX for AI Security",
+      "summary": "Mistral AI collaborates with Singapore's HTX on AI for security and cybersecurity.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "HTX",
+          "category": "government",
+          "type": "collaboration",
+          "details": "AI for security and safety"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "government",
+        "security",
+        "APAC"
+      ]
+    },
+    {
+      "global_id": 82,
+      "post_id": "mistralai-2",
+      "company": "mistralai",
+      "date": "Wed, 19 Nov 2025",
+      "title": "Sovereign AI Partnership with SAP",
+      "summary": "Mistral AI partners with SAP to deliver sovereign AI products for Europe's digital transformation.",
+      "post_type": "partnership_announcement",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "platform",
+          "description": "AI assistant integration"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "SAP",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "Sovereign AI stack for Europe"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "enterprise",
+        "sovereign-ai",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 83,
+      "post_id": "mistralai-3",
+      "company": "mistralai",
+      "date": "Sun, 09 Nov 2025",
+      "title": "Building Intelligent Document Solutions Course",
+      "summary": "Mistral highlights a course on leveraging Mistral Document AI for turning static text into structured data.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "Mistral Document AI",
+          "type": "solution",
+          "description": "Intelligent document processing"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "documents",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 84,
+      "post_id": "mistralai-4",
+      "company": "mistralai",
+      "date": "Wed, 10 Sep 2025",
+      "title": "Building Custom MCP Servers Webinar",
+      "summary": "Mistral AI announces a webinar on designing and deploying Model Context Protocol (MCP) servers for Le Chat.",
+      "post_type": "event_announcement",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "platform",
+          "description": "AI interface"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "MCP Integration",
+          "description": "Custom server integration",
+          "availability": "Le Chat"
+        }
+      ],
+      "topics": [
+        "agents",
+        "MCP",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 85,
+      "post_id": "mistralai-5",
+      "company": "mistralai",
+      "date": "Tue, 09 Sep 2025",
+      "title": "Mistral AI Raises €1.7B in Series C",
+      "summary": "Mistral AI raises €1.7B in Series C funding led by ASML to accelerate AI technological progress.",
+      "post_type": "funding_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "ASML",
+          "category": "investor",
+          "type": "investment",
+          "details": "Lead investor in Series C"
+        },
+        {
+          "partner": "NVIDIA",
+          "category": "investor",
+          "type": "investment",
+          "details": "Series C investor"
+        },
+        {
+          "partner": "DST Global",
+          "category": "investor",
+          "type": "investment",
+          "details": "Series C investor"
+        },
+        {
+          "partner": "Andreessen Horowitz",
+          "category": "investor",
+          "type": "investment",
+          "details": "Series C investor"
+        },
+        {
+          "partner": "Bpifrance",
+          "category": "investor",
+          "type": "investment",
+          "details": "Series C investor"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "funding",
+        "partnerships",
+        "infrastructure",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 86,
+      "post_id": "mistralai-6",
+      "company": "mistralai",
+      "date": "Tue, 02 Sep 2025",
+      "title": "Getting Started with MCP Webinar",
+      "summary": "Webinar announcement focusing on using Le Chat with enterprise tools via MCP connectors.",
+      "post_type": "event_announcement",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "platform",
+          "description": "AI interface"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Enterprise Connectors",
+          "description": "20+ enterprise tools",
+          "availability": "Le Chat"
+        }
+      ],
+      "topics": [
+        "agents",
+        "MCP",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 87,
+      "post_id": "mistralai-7",
+      "company": "mistralai",
+      "date": "Fri, 05 Sep 2025",
+      "title": "Mistralship First Class Demo Day",
+      "summary": "Mistral AI celebrates the completion of the first Mistralship startup program with demos from participants.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "models"
+      ]
+    },
+    {
+      "global_id": 88,
+      "post_id": "mistralai-8",
+      "company": "mistralai",
+      "date": "Wed, 30 Jul 2025",
+      "title": "Codestral 25.08 and Enterprise Coding Stack",
+      "summary": "Release of the new Codestral 25.08 model and the complete Mistral Coding Stack for enterprises.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "Mistral Coding Stack",
+          "type": "platform",
+          "description": "Enterprise software development stack"
+        },
+        {
+          "name": "Mistral Code",
+          "type": "plugin",
+          "description": "IDE plugin"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Codestral 25.08",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "Codestral Embed",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "Devstral",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "coding",
+        "models",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 89,
+      "post_id": "mistralai-9",
+      "company": "mistralai",
+      "date": "Tue, 10 Jun 2025",
+      "title": "Magistral Reasoning Model Launch",
+      "summary": "Mistral AI announces Magistral, a reasoning model available in Small (open-source) and Medium (enterprise) variants.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "platform",
+          "description": "AI interface"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Magistral Small",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "Magistral Medium",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Flash Answers",
+          "description": "10x faster token throughput",
+          "availability": "Le Chat"
+        }
+      ],
+      "topics": [
+        "models",
+        "enterprise",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 90,
+      "post_id": "mistralai-10",
+      "company": "mistralai",
+      "date": "Thu, 12 Jun 2025",
+      "title": "Partnership with TotalEnergies",
+      "summary": "Mistral AI collaborates with TotalEnergies to advance renewable and low carbon energy using AI.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "TotalEnergies",
+          "category": "enterprise",
+          "type": "collaboration",
+          "details": "AI for renewable energy"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 91,
+      "post_id": "mistralai-11",
+      "company": "mistralai",
+      "date": "Mon, 19 May 2025",
+      "title": "Europe's Largest AI Campus Announcement",
+      "summary": "Mistral AI, MGX, NVIDIA, and Bpifrance announce the creation of Europe's largest AI Campus in Paris.",
+      "post_type": "enterprise_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "NVIDIA",
+          "category": "tech_giant",
+          "type": "collaboration",
+          "details": "AI Campus joint venture"
+        },
+        {
+          "partner": "Bpifrance",
+          "category": "investor",
+          "type": "collaboration",
+          "details": "AI Campus joint venture"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "sovereign-ai",
+        "Europe",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 92,
+      "post_id": "mistralai-12",
+      "company": "mistralai",
+      "date": "Sun, 09 Feb 2025",
+      "title": "First AI Cluster in Paris Region",
+      "summary": "Mistral AI announces its first AI cluster data center located in Essonne, France.",
+      "post_type": "enterprise_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "sovereign-ai",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 93,
+      "post_id": "mistralai-13",
+      "company": "mistralai",
+      "date": "Wed, 07 May 2025",
+      "title": "Le Chat Enterprise and Mistral Medium 3.1",
+      "summary": "Launch of Le Chat Enterprise for secure business AI and the cost-effective Mistral Medium 3 multimodal model.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Le Chat Enterprise",
+          "type": "platform",
+          "description": "Enterprise AI assistant"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Mistral Medium 3",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Company Knowledge Integration",
+          "description": "Connects with Gmail, Drive, Sharepoint",
+          "availability": "Le Chat Enterprise"
+        }
+      ],
+      "topics": [
+        "enterprise",
+        "models",
+        "agents",
+        "products"
+      ]
+    },
+    {
+      "global_id": 94,
+      "post_id": "mistralai-14",
+      "company": "mistralai",
+      "date": "Fri, 07 Mar 2025",
+      "title": "Building Agents for Product Teams",
+      "summary": "Mistral AI shares a blog on using agentic workflows to convert meeting transcripts into engineering tickets.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 95,
+      "post_id": "mistralai-15",
+      "company": "mistralai",
+      "date": "Fri, 01 Aug 2025",
+      "title": "Fine-Tuning Pixtral-12B with LoRA",
+      "summary": "Mistral AI demonstrates how to apply LoRA fine-tuning to Pixtral-12B for specialized tasks like satellite imagery.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Pixtral-12B",
+          "provider": "Mistral AI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 96,
+      "post_id": "mistralai-16",
+      "company": "mistralai",
+      "date": "Thu, 06 Feb 2025",
+      "title": "Le Chat Mobile App Launch",
+      "summary": "Le Chat is now available on web, iOS, and Android with features like document analysis and image generation.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "application",
+          "description": "Mobile AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Mobile App",
+          "description": "iOS and Android availability",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "mobile",
+        "products",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 97,
+      "post_id": "mistralai-17",
+      "company": "mistralai",
+      "date": "Tue, 18 Feb 2025",
+      "title": "Mistral Saba Regional Model Launch",
+      "summary": "Mistral AI introduces Mistral Saba, a regional model optimized for Arabic and South Indian languages.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Mistral Saba",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "APAC",
+        "sovereign-ai"
+      ]
+    },
+    {
+      "global_id": 98,
+      "post_id": "mistralai-18",
+      "company": "mistralai",
+      "date": "Mon, 15 Sep 2025",
+      "title": "Partnership with Kingdom of Morocco",
+      "summary": "Mistral AI agrees on a multi-year partnership with Morocco's Digital Transition Ministry to develop the local AI ecosystem.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Government of Morocco",
+          "category": "government",
+          "type": "collaboration",
+          "details": "AI ecosystem development"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "government",
+        "partnerships",
+        "sovereign-ai"
+      ]
+    },
+    {
+      "global_id": 99,
+      "post_id": "mistralai-19",
+      "company": "mistralai",
+      "date": "Mon, 19 May 2025",
+      "title": "Dell Technologies Strategic Partnership",
+      "summary": "Mistral AI partners with Dell Technologies to bring models to the Dell AI Factory for enterprise deployment.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Dell Technologies",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "Dell AI Factory integration"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "enterprise",
+        "infrastructure"
+      ]
+    },
+    {
+      "global_id": 100,
+      "post_id": "mistralai-20",
+      "company": "mistralai",
+      "date": "Wed, 07 May 2025",
+      "title": "Le Chat Enterprise and Medium 3.1 Launch",
+      "summary": "Launch of Le Chat Enterprise and the new multimodal Mistral Medium 3 model.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Le Chat Enterprise",
+          "type": "platform",
+          "description": "Enterprise AI assistant"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Mistral Medium 3",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "models",
+        "products"
+      ]
+    },
+    {
+      "global_id": 101,
+      "post_id": "mistralai-21",
+      "company": "mistralai",
+      "date": "Thu, 17 Apr 2025",
+      "title": "Integration of Blackwell GPUs with CoreWeave",
+      "summary": "Mistral AI partners with CoreWeave to integrate NVIDIA Blackwell GPUs for model training.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "CoreWeave",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "GPU infrastructure"
+        },
+        {
+          "partner": "NVIDIA",
+          "category": "tech_giant",
+          "type": "collaboration",
+          "details": "Blackwell GPUs"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "partnerships",
+        "models"
+      ]
+    },
+    {
+      "global_id": 102,
+      "post_id": "mistralai-22",
+      "company": "mistralai",
+      "date": "Wed, 16 Apr 2025",
+      "title": "Mistral AI Classifier Factory Launch",
+      "summary": "Launch of Mistral AI Classifier Factory for building custom efficient classification models.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Classifier Factory",
+          "type": "platform",
+          "description": "Custom classifier builder"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "coding",
+        "models"
+      ]
+    },
+    {
+      "global_id": 103,
+      "post_id": "mistralai-23",
+      "company": "mistralai",
+      "date": "Tue, 26 Aug 2025",
+      "title": "Mistral Medium 3.1 LMArena Ranking",
+      "summary": "Mistral Medium 3.1 achieves top rankings on LMArena, punching above its weight class.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Mistral Medium 3.1",
+          "provider": "Mistral AI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 104,
+      "post_id": "mistralai-24",
+      "company": "mistralai",
+      "date": "Tue, 12 Aug 2025",
+      "title": "Mistral Medium 3.1 Release",
+      "summary": "Release of Mistral Medium 3.1 with improvements in reasoning, coding, and multimodal capabilities.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Mistral Medium 3.1",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Smarter Web Search",
+          "description": "More accurate results",
+          "availability": "Le Chat"
+        }
+      ],
+      "topics": [
+        "models",
+        "coding",
+        "products"
+      ]
+    },
+    {
+      "global_id": 105,
+      "post_id": "mistralai-25",
+      "company": "mistralai",
+      "date": "Thu, 30 Jan 2025",
+      "title": "Mistral Small 3 Model Release",
+      "summary": "Mistral AI releases Small 3, an efficient open-source model available on multiple platforms.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Mistral Small 3",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [
+        {
+          "partner": "Hugging Face",
+          "category": "tech_company",
+          "type": "distribution",
+          "details": "Model availability"
+        },
+        {
+          "partner": "Ollama",
+          "category": "tech_company",
+          "type": "distribution",
+          "details": "Model availability"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "models",
+        "open-source",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 106,
+      "post_id": "mistralai-26",
+      "company": "mistralai",
+      "date": "Thu, 16 Jan 2025",
+      "title": "Partnership with Agence France-Presse",
+      "summary": "Mistral AI partners with AFP to integrate verified real-time news into Le Chat.",
+      "post_type": "partnership_announcement",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "platform",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "AFP",
+          "category": "enterprise",
+          "type": "integration",
+          "details": "News content integration"
+        }
+      ],
+      "features": [
+        {
+          "name": "Newswire Integration",
+          "description": "Real-time news stories",
+          "availability": "Le Chat"
+        }
+      ],
+      "topics": [
+        "partnerships",
+        "products",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 107,
+      "post_id": "mistralai-27",
+      "company": "mistralai",
+      "date": "Mon, 06 Jan 2025",
+      "title": "Mistralship Application Extension",
+      "summary": "Mistral AI extends the application deadline for its Mistralship startup program.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "funding"
+      ]
+    },
+    {
+      "global_id": 108,
+      "post_id": "mistralai-28",
+      "company": "mistralai",
+      "date": "Tue, 29 Jul 2025",
+      "title": "Strategic Partnership with NTT DATA",
+      "summary": "Mistral AI and NTT DATA partner to deliver tailored and secure AI solutions for enterprises.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "NTT DATA",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "Enterprise AI delivery"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "enterprise",
+        "sovereign-ai"
+      ]
+    },
+    {
+      "global_id": 109,
+      "post_id": "mistralai-29",
+      "company": "mistralai",
+      "date": "Tue, 17 Jun 2025",
+      "title": "Partnership with Government of Luxembourg",
+      "summary": "Mistral AI partners with Luxembourg to deploy AI in public administration and defense.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Government of Luxembourg",
+          "category": "government",
+          "type": "collaboration",
+          "details": "AI deployment"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "government",
+        "partnerships",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 110,
+      "post_id": "mistralai-30",
+      "company": "mistralai",
+      "date": "Wed, 11 Jun 2025",
+      "title": "Mistral Compute Launch with NVIDIA",
+      "summary": "Mistral AI introduces Mistral Compute, an infrastructure offering in partnership with NVIDIA.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Mistral Compute",
+          "type": "platform",
+          "description": "AI infrastructure"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "NVIDIA",
+          "category": "tech_giant",
+          "type": "collaboration",
+          "details": "Infrastructure partnership"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "partnerships",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 111,
+      "post_id": "mistralai-31",
+      "company": "mistralai",
+      "date": "Wed, 04 Jun 2025",
+      "title": "Mistral Code Assistant Launch",
+      "summary": "Launch of Mistral Code, a customizable AI-powered coding assistant for enterprises.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Mistral Code",
+          "type": "platform",
+          "description": "Coding assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "SNCF",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "Using Mistral Code"
+        },
+        {
+          "partner": "Capgemini",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "Using Mistral Code"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "coding",
+        "enterprise",
+        "products"
+      ]
+    },
+    {
+      "global_id": 112,
+      "post_id": "mistralai-32",
+      "company": "mistralai",
+      "date": "Wed, 28 May 2025",
+      "title": "Codestral Embed Model Release",
+      "summary": "Release of Codestral Embed, an embedding model specialized for code retrieval tasks.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Codestral Embed",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "coding",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 113,
+      "post_id": "mistralai-33",
+      "company": "mistralai",
+      "date": "Tue, 27 May 2025",
+      "title": "Agents API Launch",
+      "summary": "Introduction of Agents API, allowing enterprises to build complex AI agents with code execution and memory.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Agents API",
+          "type": "platform",
+          "description": "Agent building API"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Agent Orchestration",
+          "description": "Coordinate multiple agents",
+          "availability": "Agents API"
+        }
+      ],
+      "topics": [
+        "agents",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 114,
+      "post_id": "mistralai-34",
+      "company": "mistralai",
+      "date": "Mon, 07 Apr 2025",
+      "title": "CMA CGM Strategic Partnership",
+      "summary": "Mistral AI enters a 5-year partnership with CMA CGM to build AI solutions for shipping and logistics.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "CMA CGM",
+          "category": "enterprise",
+          "type": "collaboration",
+          "details": "Logistics AI solutions"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 115,
+      "post_id": "mistralai-35",
+      "company": "mistralai",
+      "date": "Mon, 17 Mar 2025",
+      "title": "Mistral Small 3.1 Model Release",
+      "summary": "Mistral AI introduces Small 3.1 with improved text performance and multimodal understanding.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Mistral Small 3.1",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "open-source",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 116,
+      "post_id": "mistralai-36",
+      "company": "mistralai",
+      "date": "Thu, 06 Mar 2025",
+      "title": "Mistral OCR API Launch",
+      "summary": "Launch of Mistral OCR, a multilingual and multimodal document understanding API.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Mistral OCR",
+          "type": "platform",
+          "description": "Document understanding API"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Multilingual OCR",
+          "description": "Document comprehension",
+          "availability": "API"
+        }
+      ],
+      "topics": [
+        "OCR",
+        "documents",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 117,
+      "post_id": "mistralai-37",
+      "company": "mistralai",
+      "date": "Fri, 28 Feb 2025",
+      "title": "Partnership with Sopra Steria",
+      "summary": "Mistral AI partners with Sopra Steria to deliver AI solutions to European businesses and administrations.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Sopra Steria",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "European AI delivery"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "enterprise",
+        "Europe"
+      ]
+    },
+    {
+      "global_id": 118,
+      "post_id": "mistralai-38",
+      "company": "mistralai",
+      "date": "Wed, 19 Feb 2025",
+      "title": "Le Chat Mobile Hits 1 Million Downloads",
+      "summary": "Le Chat mobile app reaches 1 million downloads less than two weeks after launch.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "Le Chat",
+          "type": "application",
+          "description": "Mobile AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "mobile",
+        "products"
+      ]
+    },
+    {
+      "global_id": 119,
+      "post_id": "mistralai-39",
+      "company": "mistralai",
+      "date": "Mon, 17 Feb 2025",
+      "title": "Mistral Saba Model Announcement",
+      "summary": "Announcement of Mistral Saba, a regional model for Arabic and South Indian languages.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Mistral Saba",
+          "provider": "Mistral AI",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "APAC",
+        "sovereign-ai"
+      ]
+    },
+    {
+      "global_id": 120,
+      "post_id": "mistralai-40",
+      "company": "mistralai",
+      "date": "Wed, 12 Feb 2025",
+      "title": "AI Action Summit Recap and Partnerships",
+      "summary": "Mistral AI recaps the AI Action Summit, highlighting new partnerships with EdTech France, France Travail, Veolia, and others.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "Le Chat Pro",
+          "type": "subscription",
+          "description": "Professional AI tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "France Travail",
+          "category": "government",
+          "type": "collaboration",
+          "details": "Job seeker assistance"
+        },
+        {
+          "partner": "Veolia",
+          "category": "enterprise",
+          "type": "collaboration",
+          "details": "Operational efficiency"
+        },
+        {
+          "partner": "Stellantis",
+          "category": "enterprise",
+          "type": "collaboration",
+          "details": "Vehicle design"
+        },
+        {
+          "partner": "Free",
+          "category": "telecom",
+          "type": "distribution",
+          "details": "Le Chat Pro for subscribers"
+        },
+        {
+          "partner": "Orange",
+          "category": "telecom",
+          "type": "collaboration",
+          "details": "B2B AI services"
+        },
+        {
+          "partner": "Helsing",
+          "category": "defense",
+          "type": "collaboration",
+          "details": "Defense leadership"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "government",
+        "enterprise",
+        "mobile"
+      ]
+    },
+    {
+      "global_id": 121,
+      "post_id": "anthropic-1",
+      "company": "anthropicresearch",
+      "date": "Tue, 18 Nov 2025",
+      "title": "Strategic Partnership with NVIDIA and Microsoft",
+      "summary": "Anthropic partners with NVIDIA and Microsoft, securing $15B investment and launching Claude on Azure.",
+      "post_type": "partnership_announcement",
+      "products": [
+        {
+          "name": "Claude",
+          "type": "AI model",
+          "description": "Frontier model on Azure"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Claude",
+          "provider": "Anthropic",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [
+        {
+          "partner": "NVIDIA",
+          "category": "tech_giant",
+          "type": "investment",
+          "details": "$10B investment commitment"
+        },
+        {
+          "partner": "Microsoft",
+          "category": "tech_giant",
+          "type": "investment",
+          "details": "$5B investment commitment"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "funding",
+        "cloud",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 122,
+      "post_id": "anthropic-2",
+      "company": "anthropicresearch",
+      "date": "Fri, 31 Oct 2025",
+      "title": "Claude for Financial Services Launch",
+      "summary": "Launch of Claude for Financial Services to help organizations with market analysis and operational efficiency.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Claude for Financial Services",
+          "type": "solution",
+          "description": "AI for finance sector"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Brex",
+          "category": "financial",
+          "type": "customer",
+          "details": "Operational efficiency"
+        },
+        {
+          "partner": "RBC",
+          "category": "financial",
+          "type": "customer",
+          "details": "Operational efficiency"
+        },
+        {
+          "partner": "BCI",
+          "category": "financial",
+          "type": "customer",
+          "details": "Operational efficiency"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "finance",
+        "enterprise",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 123,
+      "post_id": "anthropic-3",
+      "company": "anthropicresearch",
+      "date": "Mon, 17 Nov 2025",
+      "title": "Claude Code for Startups",
+      "summary": "Y Combinator founders share how Claude Code is helping startups pivot and build prototypes rapidly.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Claude Code",
+          "type": "tool",
+          "description": "Coding agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Y Combinator",
+          "category": "education",
+          "type": "collaboration",
+          "details": "Startups using Claude Code"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "coding",
+        "enterprise",
+        "education"
+      ]
+    },
+    {
+      "global_id": 124,
+      "post_id": "anthropic-4",
+      "company": "anthropicresearch",
+      "date": "Thu, 13 Nov 2025",
+      "title": "Disruption of AI-Led Cyberattack",
+      "summary": "Anthropic disrupted a large-scale AI espionage campaign executed by a Chinese state-sponsored group.",
+      "post_type": "security_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "security",
+        "agents",
+        "government"
+      ]
+    },
+    {
+      "global_id": 125,
+      "post_id": "anthropic-5",
+      "company": "anthropicresearch",
+      "date": "Thu, 13 Nov 2025",
+      "title": "State of Maryland Partnership",
+      "summary": "Partnership with the state of Maryland to use Claude for government services and benefits processing.",
+      "post_type": "partnership_announcement",
+      "products": [
+        {
+          "name": "Claude",
+          "type": "AI model",
+          "description": "Government service assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "State of Maryland",
+          "category": "government",
+          "type": "collaboration",
+          "details": "Government services pilot"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "government",
+        "enterprise",
+        "education"
+      ]
+    },
+    {
+      "global_id": 126,
+      "post_id": "anthropic-6",
+      "company": "anthropicresearch",
+      "date": "Fri, 24 Oct 2025",
+      "title": "Claude for Life Sciences Momentum",
+      "summary": "Claude for Life Sciences helps companies like AbbVie and Novo Nordisk accelerate scientific discovery.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Claude for Life Sciences",
+          "type": "solution",
+          "description": "AI for life sciences"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "AbbVie",
+          "category": "healthcare",
+          "type": "customer",
+          "details": "Scientific discovery"
+        },
+        {
+          "partner": "Broad Institute",
+          "category": "healthcare",
+          "type": "customer",
+          "details": "Scientific discovery"
+        },
+        {
+          "partner": "Novo Nordisk",
+          "category": "healthcare",
+          "type": "customer",
+          "details": "Scientific discovery"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "healthcare",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 127,
+      "post_id": "anthropic-7",
+      "company": "anthropicresearch",
+      "date": "Wed, 12 Nov 2025",
+      "title": "Custom Data Center Investment",
+      "summary": "Anthropic invests $50 billion in custom-built data centers in Texas and New York with Fluidstack.",
+      "post_type": "infrastructure_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Fluidstack",
+          "category": "tech_company",
+          "type": "collaboration",
+          "details": "Data center construction"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "funding",
+        "cloud"
+      ]
+    },
+    {
+      "global_id": 128,
+      "post_id": "anthropic-8",
+      "company": "anthropicresearch",
+      "date": "Fri, 07 Nov 2025",
+      "title": "New Offices in Paris and Munich",
+      "summary": "Anthropic opens offices in Paris and Munich to support growing demand in EMEA.",
+      "post_type": "enterprise_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "BMW",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "European user"
+        },
+        {
+          "partner": "SAP",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "European user"
+        },
+        {
+          "partner": "L'Oréal",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "European user"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "Europe",
+        "enterprise",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 129,
+      "post_id": "anthropic-9",
+      "company": "anthropicresearch",
+      "date": "Wed, 29 Oct 2025",
+      "title": "Tokyo Office and Japan Partnerships",
+      "summary": "Anthropic opens first APAC office in Tokyo and partners with Japan AI Safety Institute.",
+      "post_type": "enterprise_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Japan AI Safety Institute",
+          "category": "government",
+          "type": "collaboration",
+          "details": "AI safety evaluation"
+        },
+        {
+          "partner": "Rakuten",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "APAC user"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "safety",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 130,
+      "post_id": "anthropic-10",
+      "company": "anthropicresearch",
+      "date": "Tue, 23 Sep 2025",
+      "title": "Collaboration with Chan Zuckerberg Initiative",
+      "summary": "Anthropic works with Learning Commons from CZI to address AI challenges in K-12 education.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Chan Zuckerberg Initiative",
+          "category": "education",
+          "type": "collaboration",
+          "details": "K-12 AI education"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "education",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 131,
+      "post_id": "anthropic-11",
+      "company": "anthropicresearch",
+      "date": "Tue, 21 Oct 2025",
+      "title": "Claude in Pharmaceutical R&D at AbbVie",
+      "summary": "AbbVie uses Claude for multimodal data analysis and optimizing clinical trial designs.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Claude for Life Sciences",
+          "type": "solution",
+          "description": "R&D optimization"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "AbbVie",
+          "category": "healthcare",
+          "type": "customer",
+          "details": "Pharmaceutical R&D"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "healthcare",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 132,
+      "post_id": "anthropic-12",
+      "company": "anthropicresearch",
+      "date": "Mon, 08 Sep 2025",
+      "title": "Endorsement of California SB 53",
+      "summary": "Anthropic endorses California State Senator Scott Wiener’s SB 53 for AI governance.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "government",
+        "safety",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 133,
+      "post_id": "anthropic-13",
+      "company": "anthropicresearch",
+      "date": "Mon, 20 Oct 2025",
+      "title": "Eli Lilly Uses Claude for Research",
+      "summary": "Eli Lilly discusses using Claude for clinical research and drug development with Dario Amodei.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Claude for Life Sciences",
+          "type": "solution",
+          "description": "Drug development"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Eli Lilly",
+          "category": "healthcare",
+          "type": "customer",
+          "details": "Clinical research"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "healthcare",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 134,
+      "post_id": "anthropic-14",
+      "company": "anthropicresearch",
+      "date": "Mon, 29 Sep 2025",
+      "title": "Claude Sonnet 4.5 Release",
+      "summary": "Release of Claude Sonnet 4.5, offering top-tier coding, agentic capabilities, and reasoning upgrades.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "Claude Code",
+          "type": "tool",
+          "description": "Coding agent"
+        },
+        {
+          "name": "Claude App",
+          "type": "application",
+          "description": "Desktop application"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Claude Sonnet 4.5",
+          "provider": "Anthropic",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "Claude Sonnet 4",
+          "provider": "Anthropic",
+          "is_used": true,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Checkpoints",
+          "description": "Rewind code states",
+          "availability": "Claude Code"
+        },
+        {
+          "name": "Context Editing",
+          "description": "Clear stale context",
+          "availability": "Claude API"
+        }
+      ],
+      "topics": [
+        "coding",
+        "agents",
+        "cloud"
+      ]
+    },
+    {
+      "global_id": 135,
+      "post_id": "anthropic-15",
+      "company": "anthropicresearch",
+      "date": "Thu, 31 Jul 2025",
+      "title": "Claude Connects with Canva",
+      "summary": "Claude can now connect with Canva to turn documents into professional branded designs.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Claude",
+          "type": "AI model",
+          "description": "AI assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Canva",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Design generation"
+        }
+      ],
+      "features": [
+        {
+          "name": "Canva Integration",
+          "description": "Generate designs from text",
+          "availability": "Claude users"
+        }
+      ],
+      "topics": [
+        "partnerships",
+        "enterprise",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 136,
+      "post_id": "anthropic-16",
+      "company": "anthropicresearch",
+      "date": "Thu, 18 Sep 2025",
+      "title": "Problem Solver Motivation",
+      "summary": "A short motivational post encouraging problem solving.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "education"
+      ]
+    },
+    {
+      "global_id": 137,
+      "post_id": "anthropic-17",
+      "company": "anthropicresearch",
+      "date": "Mon, 20 Oct 2025",
+      "title": "Claude Code on the Web",
+      "summary": "Introduction of Claude Code on the web, allowing users to delegate coding tasks from the browser.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Claude Code",
+          "type": "tool",
+          "description": "Web-based coding tool"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Web Interface",
+          "description": "Browser-based coding",
+          "availability": "Pro/Max Beta"
+        }
+      ],
+      "topics": [
+        "coding",
+        "cloud",
+        "infrastructure"
+      ]
+    },
+    {
+      "global_id": 138,
+      "post_id": "anthropic-18",
+      "company": "anthropicresearch",
+      "date": "Fri, 18 Jul 2025",
+      "title": "Figma Connector for Claude",
+      "summary": "New Figma connector lets users turn designs into production-ready code using Claude.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Claude",
+          "type": "AI model",
+          "description": "Code generator"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Figma",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Design to code"
+        }
+      ],
+      "features": [
+        {
+          "name": "Figma Connector",
+          "description": "Generate code from design",
+          "availability": "Claude desktop"
+        }
+      ],
+      "topics": [
+        "coding",
+        "partnerships",
+        "MCP"
+      ]
+    },
+    {
+      "global_id": 139,
+      "post_id": "anthropic-19",
+      "company": "anthropicresearch",
+      "date": "Tue, 01 Jul 2025",
+      "title": "Claude Artifacts Gallery Showcase",
+      "summary": "Showcase of user-created artifacts ranging from games to analytical tools.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Artifacts",
+          "type": "feature",
+          "description": "Interactive AI creations"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 140,
+      "post_id": "anthropic-20",
+      "company": "anthropicresearch",
+      "date": "Mon, 30 Jun 2025",
+      "title": "Creating Interactive Artifacts",
+      "summary": "Walkthrough of how to create interactive experiences using Claude Artifacts without coding.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Artifacts",
+          "type": "feature",
+          "description": "Interactive AI creations"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 141,
+      "post_id": "anthropic-21",
+      "company": "anthropicresearch",
+      "date": "Tue, 21 Oct 2025",
+      "title": "Statement on AI Administration Policy",
+      "summary": "CEO Dario Amodei issues a statement on sharing the US administration's goals for AI development.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "government",
+        "safety"
+      ]
+    },
+    {
+      "global_id": 142,
+      "post_id": "anthropic-22",
+      "company": "anthropicresearch",
+      "date": "Tue, 26 Aug 2025",
+      "title": "Claude for Chrome Research Preview",
+      "summary": "Release of Claude for Chrome as a research preview, enabling browser-based actions.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Claude for Chrome",
+          "type": "extension",
+          "description": "Browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Browser Actions",
+          "description": "Takes actions in browser",
+          "availability": "Research Preview"
+        }
+      ],
+      "topics": [
+        "agents",
+        "research",
+        "safety"
+      ]
+    },
+    {
+      "global_id": 143,
+      "post_id": "anthropic-23",
+      "company": "anthropicresearch",
+      "date": "Tue, 17 Jun 2025",
+      "title": "Internal Use of Claude Code",
+      "summary": "Deep dive into how Anthropic's own teams use Claude Code for internal development.",
+      "post_type": "general_update",
+      "products": [
+        {
+          "name": "Claude Code",
+          "type": "tool",
+          "description": "Coding agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 144,
+      "post_id": "anthropic-24",
+      "company": "anthropicresearch",
+      "date": "Wed, 30 Jul 2025",
+      "title": "Claude on LinkedIn Launch",
+      "summary": "Anthropic launches a dedicated Claude page on LinkedIn for practical AI ideas.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 145,
+      "post_id": "anthropic-25",
+      "company": "anthropicresearch",
+      "date": "Fri, 10 Oct 2025",
+      "title": "Novo Nordisk Automates Regulatory Content",
+      "summary": "Novo Nordisk uses Claude Code to build NovoScribe, automating regulatory content creation.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Claude Code",
+          "type": "tool",
+          "description": "Coding agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Novo Nordisk",
+          "category": "healthcare",
+          "type": "customer",
+          "details": "Regulatory automation"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "healthcare",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 146,
+      "post_id": "anthropic-26",
+      "company": "anthropicresearch",
+      "date": "Fri, 23 May 2025",
+      "title": "Rick Rubin Collaboration Project",
+      "summary": "Collaboration with Rick Rubin on 'THE WAY OF CODE', featuring AI-modified art.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Rick Rubin",
+          "category": "enterprise",
+          "type": "collaboration",
+          "details": "Art project"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "education"
+      ]
+    },
+    {
+      "global_id": 147,
+      "post_id": "anthropic-27",
+      "company": "anthropicresearch",
+      "date": "Thu, 09 Oct 2025",
+      "title": "Research on AI Data Poisoning",
+      "summary": "Research finds that small numbers of malicious documents can poison AI models of any size.",
+      "post_type": "research_publication",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "AI Security Institute",
+          "category": "government",
+          "type": "collaboration",
+          "details": "Security research"
+        },
+        {
+          "partner": "Alan Turing Institute",
+          "category": "education",
+          "type": "collaboration",
+          "details": "Security research"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "research",
+        "security",
+        "safety"
+      ]
+    },
+    {
+      "global_id": 148,
+      "post_id": "anthropic-28",
+      "company": "anthropicresearch",
+      "date": "Thu, 31 Jul 2025",
+      "title": "Artifacts File Reading Capability",
+      "summary": "Claude artifacts can now read uploaded files like PDFs and CSVs to build custom tools.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Artifacts",
+          "type": "feature",
+          "description": "Interactive AI creations"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "File Reading",
+          "description": "Read user uploaded files",
+          "availability": "All plans"
+        }
+      ],
+      "topics": [
+        "productivity",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "global_id": 149,
+      "post_id": "anthropic-29",
+      "company": "anthropicresearch",
+      "date": "Thu, 24 Jul 2025",
+      "title": "Claude and Canva Integration",
+      "summary": "Claude can now turn written content into branded visuals through Canva integration.",
+      "post_type": "feature_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Canva",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Visual generation"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 150,
+      "post_id": "anthropic-30",
+      "company": "anthropicresearch",
+      "date": "Fri, 03 Oct 2025",
+      "title": "AI Impact on Cybersecurity",
+      "summary": "Anthropic discusses improvements in defensive cybersecurity capabilities with Claude Sonnet 4.5.",
+      "post_type": "security_announcement",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Claude Sonnet 4.5",
+          "provider": "Anthropic",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "security",
+        "safety",
+        "research"
+      ]
+    },
+    {
+      "global_id": 151,
+      "post_id": "anthropic-31",
+      "company": "anthropicresearch",
+      "date": "Wed, 01 Oct 2025",
+      "title": "Enterprise Customer Stories",
+      "summary": "Highlights of how Novo Nordisk, Salesforce, and others use Claude for business transformation.",
+      "post_type": "enterprise_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Salesforce",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "Business transformation"
+        },
+        {
+          "partner": "Palo Alto Networks",
+          "category": "enterprise",
+          "type": "customer",
+          "details": "Business transformation"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "enterprise",
+        "healthcare",
+        "automotive"
+      ]
+    },
+    {
+      "global_id": 152,
+      "post_id": "anthropic-32",
+      "company": "anthropicresearch",
+      "date": "Mon, 14 Jul 2025",
+      "title": "Claude Integrations Directory",
+      "summary": "Launch of a directory to browse and connect tools like Notion and Stripe to Claude.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Claude Integrations",
+          "type": "feature",
+          "description": "Tool connectivity"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Notion",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Productivity tool"
+        },
+        {
+          "partner": "Stripe",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Payment data"
+        },
+        {
+          "partner": "Zapier",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Workflow automation"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "productivity",
+        "partnerships",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 153,
+      "post_id": "anthropic-33",
+      "company": "anthropicresearch",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Research on Emotional Support Usage",
+      "summary": "Research findings on how people use Claude for emotional support and companionship.",
+      "post_type": "research_publication",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "safety",
+        "education"
+      ]
+    },
+    {
+      "global_id": 154,
+      "post_id": "anthropic-34",
+      "company": "anthropicresearch",
+      "date": "Tue, 08 Apr 2025",
+      "title": "Claude for Education Report",
+      "summary": "Release of the first Education Report analyzing student usage and announcing Claude for Education.",
+      "post_type": "research_publication",
+      "products": [
+        {
+          "name": "Claude for Education",
+          "type": "solution",
+          "description": "AI for universities"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Learning Mode",
+          "description": "Critical thinking tool",
+          "availability": "Pro users with .edu"
+        }
+      ],
+      "topics": [
+        "education",
+        "research",
+        "safety"
+      ]
+    },
+    {
+      "global_id": 155,
+      "post_id": "anthropic-35",
+      "company": "anthropicresearch",
+      "date": "Wed, 25 Jun 2025",
+      "title": "New Ways to Create with Artifacts",
+      "summary": "Introduction of a dedicated space for building and sharing AI-powered artifacts.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Artifacts",
+          "type": "feature",
+          "description": "App creation tool"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Artifacts Space",
+          "description": "Host and share apps",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "coding",
+        "education",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 156,
+      "post_id": "anthropic-36",
+      "company": "anthropicresearch",
+      "date": "Mon, 22 Sep 2025",
+      "title": "Cox Automotive Transformation",
+      "summary": "Cox Automotive uses Claude-powered agents to double consumer lead response times.",
+      "post_type": "enterprise_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Cox Automotive",
+          "category": "automotive",
+          "type": "customer",
+          "details": "AI agents for CRM"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "automotive",
+        "agents",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 157,
+      "post_id": "anthropic-37",
+      "company": "anthropicresearch",
+      "date": "Wed, 18 Jun 2025",
+      "title": "Remote MCP Support for Claude Code",
+      "summary": "Claude Code now supports connecting to remote Model Context Protocol (MCP) servers.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Claude Code",
+          "type": "tool",
+          "description": "Coding agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Remote MCP",
+          "description": "Connect remote tools",
+          "availability": "Claude Code"
+        }
+      ],
+      "topics": [
+        "MCP",
+        "coding",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 158,
+      "post_id": "anthropic-38",
+      "company": "anthropicresearch",
+      "date": "Tue, 09 Sep 2025",
+      "title": "File Creation and Editing in Claude",
+      "summary": "Claude can now create and edit Excel, Word, PowerPoint, and PDF files directly.",
+      "post_type": "feature_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "File Editing",
+          "description": "Create Office docs",
+          "availability": "Max/Team/Enterprise"
+        }
+      ],
+      "topics": [
+        "productivity",
+        "enterprise",
+        "finance"
+      ]
+    },
+    {
+      "global_id": 159,
+      "post_id": "anthropic-39",
+      "company": "anthropicresearch",
+      "date": "Tue, 03 Jun 2025",
+      "title": "Research and Integrations on Pro Plan",
+      "summary": "Research capabilities and Integrations with tools like Zapier are now available on Claude Pro.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Claude Pro",
+          "type": "subscription",
+          "description": "Paid plan"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Zapier",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Workflow automation"
+        },
+        {
+          "partner": "Asana",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Project management"
+        }
+      ],
+      "features": [
+        {
+          "name": "Integrations",
+          "description": "Connect apps",
+          "availability": "Claude Pro"
+        }
+      ],
+      "topics": [
+        "productivity",
+        "research",
+        "MCP"
+      ]
+    },
+    {
+      "global_id": 160,
+      "post_id": "anthropic-40",
+      "company": "anthropicresearch",
+      "date": "Fri, 12 Sep 2025",
+      "title": "AI Safety Partnership with US and UK Institutes",
+      "summary": "Collaboration with US CAISI and UK AISI to test and secure Claude Opus models.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Claude Opus 4",
+          "provider": "Anthropic",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "Claude Opus 4.1",
+          "provider": "Anthropic",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [
+        {
+          "partner": "US CAISI",
+          "category": "government",
+          "type": "collaboration",
+          "details": "Safety testing"
+        },
+        {
+          "partner": "UK AISI",
+          "category": "government",
+          "type": "collaboration",
+          "details": "Safety testing"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "safety",
+        "government",
+        "security"
+      ]
+    },
+    {
+      "global_id": 161,
+      "post_id": "deepseek-1",
+      "company": "deepseek-ai",
+      "date": "Mon, 29 Sep 2025",
+      "title": "DeepSeek-V3.2-Exp with Sparse Attention",
+      "summary": "DeepSeek releases V3.2-Exp featuring DeepSeek Sparse Attention for faster long-context training and 50% lower API prices.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "DeepSeek App",
+          "type": "platform",
+          "description": "User chat interface"
+        },
+        {
+          "name": "DeepSeek API",
+          "type": "API",
+          "description": "Developer interface"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3.2-Exp",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "DeepSeek-V3.1-Terminus",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "DeepSeek Sparse Attention",
+          "description": "Efficient long context processing",
+          "availability": "V3.2-Exp"
+        }
+      ],
+      "topics": [
+        "models",
+        "performance",
+        "pricing",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 162,
+      "post_id": "deepseek-2",
+      "company": "deepseek-ai",
+      "date": "Tue, 23 Sep 2025",
+      "title": "DeepSeek-V3.1-Terminus Update",
+      "summary": "Update to V3.1 improves language consistency, fixes mixed characters, and boosts Code and Search Agent performance.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3.1-Terminus",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Improved Language Consistency",
+          "description": "Fewer CN/EN mix-ups",
+          "availability": "All users"
+        },
+        {
+          "name": "Agent Upgrades",
+          "description": "Stronger Code and Search agents",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "agents",
+        "performance",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 163,
+      "post_id": "deepseek-3",
+      "company": "deepseek-ai",
+      "date": "Thu, 27 Feb 2025",
+      "title": "Optimized Parallelism Strategies Release",
+      "summary": "Release of DualPipe and EPLB algorithms for optimized parallelism in V3/R1 training during OpenSourceWeek.",
+      "post_type": "open_source_release",
+      "products": [
+        {
+          "name": "DualPipe",
+          "type": "tool",
+          "description": "Bidirectional pipeline parallelism algorithm"
+        },
+        {
+          "name": "EPLB",
+          "type": "tool",
+          "description": "Expert-parallel load balancer"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "DeepSeek-R1",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "open-source",
+        "training",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 164,
+      "post_id": "deepseek-4",
+      "company": "deepseek-ai",
+      "date": "Wed, 26 Feb 2025",
+      "title": "DeepGEMM Library Release",
+      "summary": "DeepSeek releases DeepGEMM, an FP8 GEMM library achieving 1350+ TFLOPS on Hopper GPUs for V3/R1 training.",
+      "post_type": "open_source_release",
+      "products": [
+        {
+          "name": "DeepGEMM",
+          "type": "library",
+          "description": "FP8 GEMM library"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "FP8 Support",
+          "description": "Dense and MoE GEMMs",
+          "availability": "Open Source"
+        },
+        {
+          "name": "JIT Compilation",
+          "description": "Just-In-Time compiled",
+          "availability": "Open Source"
+        }
+      ],
+      "topics": [
+        "infrastructure",
+        "hardware",
+        "performance",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 165,
+      "post_id": "deepseek-5",
+      "company": "deepseek-ai",
+      "date": "Thu, 21 Aug 2025",
+      "title": "DeepSeek-V3.1 Hybrid Inference Launch",
+      "summary": "Introduction of DeepSeek-V3.1 with hybrid Think/Non-Think modes and faster reasoning capabilities.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "DeepThink",
+          "type": "feature",
+          "description": "Reasoning toggle"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3.1",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "DeepSeek-R1-0528",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Hybrid Inference",
+          "description": "Switch between Think and Non-Think modes",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "reasoning",
+        "agents",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 166,
+      "post_id": "deepseek-6",
+      "company": "deepseek-ai",
+      "date": "Fri, 30 May 2025",
+      "title": "DeepSeek-R1-0528 Model Release",
+      "summary": "Release of DeepSeek-R1-0528 with improved benchmarks, reduced hallucinations, and JSON output support.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "DeepSeek-R1-0528",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "JSON Output",
+          "description": "Structured data generation",
+          "availability": "All users"
+        },
+        {
+          "name": "Function Calling",
+          "description": "Agent capability",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "open-source",
+        "performance",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 167,
+      "post_id": "deepseek-7",
+      "company": "deepseek-ai",
+      "date": "Mon, 03 Mar 2025",
+      "title": "Inference System Overview Release",
+      "summary": "DeepSeek shares technical details of its V3/R1 inference system, achieving 73.7k input tokens/sec per node.",
+      "post_type": "infrastructure_announcement",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "DeepSeek-R1",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "infrastructure",
+        "performance",
+        "inference",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 168,
+      "post_id": "deepseek-8",
+      "company": "deepseek-ai",
+      "date": "Mon, 03 Mar 2025",
+      "title": "3FS Parallel File System Release",
+      "summary": "Release of Fire-Flyer File System (3FS) delivering 6.6 TiB/s read throughput for high-performance data access.",
+      "post_type": "infrastructure_announcement",
+      "products": [
+        {
+          "name": "3FS",
+          "type": "infrastructure",
+          "description": "Parallel file system"
+        },
+        {
+          "name": "Smallpond",
+          "type": "framework",
+          "description": "Data processing framework"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "High Throughput",
+          "description": "6.6 TiB/s aggregate read",
+          "availability": "Open Source"
+        }
+      ],
+      "topics": [
+        "infrastructure",
+        "performance",
+        "open-source",
+        "training"
+      ]
+    },
+    {
+      "global_id": 169,
+      "post_id": "deepseek-9",
+      "company": "deepseek-ai",
+      "date": "Mon, 17 Feb 2025",
+      "title": "DeepSeek-R1 Deployment Recommendations",
+      "summary": "Official guidelines for deploying DeepSeek-R1, including prompt settings and model bypass mitigation.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "DeepSeek-R1",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "open-source",
+        "inference"
+      ]
+    },
+    {
+      "global_id": 170,
+      "post_id": "deepseek-10",
+      "company": "deepseek-ai",
+      "date": "Wed, 26 Mar 2025",
+      "title": "DeepSeek-V3-0324 Model Release",
+      "summary": "DeepSeek-V3-0324 released with improved reasoning and tool-use, available under MIT License.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "DeepThink",
+          "type": "feature",
+          "description": "Reasoning mode"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3-0324",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "DeepSeek-V3",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "MIT License",
+          "description": "Open source licensing",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "open-source",
+        "reasoning",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 171,
+      "post_id": "deepseek-11",
+      "company": "deepseek-ai",
+      "date": "Thu, 27 Feb 2025",
+      "title": "Off-Peak API Discounts",
+      "summary": "DeepSeek announces massive off-peak discounts: 50% off V3 and 75% off R1 daily from 16:30-00:30 UTC.",
+      "post_type": "pricing_announcement",
+      "products": [
+        {
+          "name": "DeepSeek API",
+          "type": "API",
+          "description": "Developer platform"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "DeepSeek-R1",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Off-Peak Pricing",
+          "description": "Daily discounts during specific hours",
+          "availability": "API Users"
+        }
+      ],
+      "topics": [
+        "pricing",
+        "API",
+        "models"
+      ]
+    },
+    {
+      "global_id": 172,
+      "post_id": "deepseek-12",
+      "company": "deepseek-ai",
+      "date": "Mon, 20 Jan 2025",
+      "title": "DeepSeek-R1 Open Source Release",
+      "summary": "DeepSeek-R1 released under MIT license with performance comparable to OpenAI-o1.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "DeepThink",
+          "type": "feature",
+          "description": "Reasoning capability"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-R1",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "MIT License",
+          "description": "Commercial use allowed",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "models",
+        "open-source",
+        "reasoning",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 173,
+      "post_id": "deepseek-13",
+      "company": "deepseek-ai",
+      "date": "Wed, 15 Jan 2025",
+      "title": "DeepSeek Mobile App Launch",
+      "summary": "Official DeepSeek App launches on App Store and Google Play, powered by DeepSeek-V3.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "DeepSeek App",
+          "type": "application",
+          "description": "Mobile chat app"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Free Access",
+          "description": "Free model usage",
+          "availability": "Mobile users"
+        }
+      ],
+      "topics": [
+        "mobile",
+        "models",
+        "open-source"
+      ]
+    },
+    {
+      "global_id": 174,
+      "post_id": "deepseek-14",
+      "company": "deepseek-ai",
+      "date": "Sat, 04 Jan 2025",
+      "title": "DeepSeek-V3 Hits 60 Tokens/Second",
+      "summary": "DeepSeek-V3 released with 60 tokens/second generation speed, 3x faster than previous versions.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "DeepSeek-V3",
+          "provider": "DeepSeek",
+          "is_used": false,
+          "is_released": true
+        },
+        {
+          "name": "DeepSeek-V2",
+          "provider": "DeepSeek",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "open-source",
+        "API"
+      ]
+    }
+  ]
+}

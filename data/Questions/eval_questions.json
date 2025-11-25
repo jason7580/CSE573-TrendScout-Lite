@@ -1,0 +1,469 @@
+{
+    "evaluation_questions": [
+      {
+        "id": 1,
+        "question": "What products does Anthropic offer?",
+        "category": "factual",
+        "expected_answer": "Claude, Claude Code, Claude for Financial Services, Claude for Life Sciences, Claude for Education, Claude App, Claude Integrations, Artifacts, Claude for Chrome",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "KG can directly query DEVELOPS relationship for Company: Anthropic"
+      },
+      {
+        "id": 2,
+        "question": "Which AI models has DeepSeek released?",
+        "category": "factual",
+        "expected_answer": "DeepSeek-V3.2-Exp, DeepSeek-V3.1-Terminus, DeepSeek-V3.1, DeepSeek-R1-0528, DeepSeek-V3, DeepSeek-R1, DeepSeek-V3-0324, DeepSeek-V2",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Direct lookup of RELEASED_MODEL relationship"
+      },
+      {
+        "id": 3,
+        "question": "Who are Mistral AI's government partners?",
+        "category": "factual",
+        "expected_answer": "HTX (Singapore), Government of Morocco, Government of Luxembourg, France Travail, UK AISI, US CAISI",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Requires filtering partners by category 'government'"
+      },
+      {
+        "id": 4,
+        "question": "Which company developed the 'Comet' browser agent?",
+        "category": "factual",
+        "expected_answer": "Perplexity AI",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Simple Entity lookup"
+      },
+      {
+        "id": 5,
+        "question": "List all partners categorized as 'healthcare' in the dataset.",
+        "category": "factual",
+        "expected_answer": "AbbVie, Broad Institute, Novo Nordisk, Eli Lilly",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Requires querying Partner entities by category attribute"
+      },
+      {
+        "id": 6,
+        "question": "What specific 'coding' tools has OpenAI released?",
+        "category": "factual",
+        "expected_answer": "Codex, Agent Builder",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Requires filtering Products by description or topic 'coding'"
+      },
+      {
+        "id": 7,
+        "question": "Which company released the model 'Magistral'?",
+        "category": "factual",
+        "expected_answer": "Mistral AI",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Direct model-to-company relationship"
+      },
+      {
+        "id": 8,
+        "question": "Who are the listed investors in Mistral AI's Series C round?",
+        "category": "factual",
+        "expected_answer": "ASML, NVIDIA, DST Global, Andreessen Horowitz, Bpifrance, General Catalyst, Index Ventures, Lightspeed",
+        "difficulty": "hard",
+        "kg_advantage": true,
+        "notes": "Complex list retrieval from partner/investor data"
+      },
+      {
+        "id": 9,
+        "question": "What is the name of Perplexity's enterprise tier for federal users?",
+        "category": "factual",
+        "expected_answer": "Enterprise Pro for Government",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Product lookup"
+      },
+      {
+        "id": 10,
+        "question": "Which company partners with 'Lewis Hamilton'?",
+        "category": "factual",
+        "expected_answer": "Perplexity AI",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Partner relationship lookup"
+      },
+      {
+        "id": 11,
+        "question": "Which companies utilize OpenAI's models?",
+        "category": "relationship",
+        "expected_answer": "Perplexity AI (uses GPT-5, GPT-5.1, Sora 2, o3, GPT-4.5)",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Traverses USES_MODEL relationship"
+      },
+      {
+        "id": 12,
+        "question": "Which company has partnerships with both Microsoft and NVIDIA?",
+        "category": "relationship",
+        "expected_answer": "Anthropic (and Mistral AI also partners with NVIDIA and Microsoft Azure via SAP/integration implied, but Anthropic has direct investment from both)",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Requires intersection of PARTNERS_WITH queries"
+      },
+      {
+        "id": 13,
+        "question": "What products are associated with the 'agents' topic?",
+        "category": "relationship",
+        "expected_answer": "Comet, Perplexity Patents, ChatGPT agent, Operator, Agents API (Mistral), Claude Code, Claude for Chrome",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Traverse Topic -> Post -> Product or Product -> Description"
+      },
+      {
+        "id": 14,
+        "question": "Which companies have integrated with Canva?",
+        "category": "relationship",
+        "expected_answer": "OpenAI (Apps in ChatGPT), Anthropic (Claude Connects)",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Traverse Partner (Canva) <- PARTNERS_WITH <- Company"
+      },
+      {
+        "id": 15,
+        "question": "Identify all AI models used by Perplexity AI.",
+        "category": "relationship",
+        "expected_answer": "Nano Banana Pro, Sora 2 Pro, GPT-5.1, GPT-5, GPT-4.5, o3, Claude Sonnet 4, Sonnet 4 Thinking",
+        "difficulty": "hard",
+        "kg_advantage": true,
+        "notes": "Traverses USES_MODEL for specific company"
+      },
+      {
+        "id": 16,
+        "question": "Which financial institutions partner with Anthropic?",
+        "category": "relationship",
+        "expected_answer": "Brex, RBC (Royal Bank of Canada), BCI, Stripe (integration)",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Filter Partners by Category: Financial for Anthropic"
+      },
+      {
+        "id": 17,
+        "question": "Which company has a partnership with a 'telecom' category partner?",
+        "category": "relationship",
+        "expected_answer": "Mistral AI (partners with Free and Orange)",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Traverse Company -> Partner -> Category (telecom)"
+      },
+      {
+        "id": 18,
+        "question": "What models did Anthropic release that are available on Perplexity?",
+        "category": "relationship",
+        "expected_answer": "Claude Sonnet 4, Sonnet 4 Thinking",
+        "difficulty": "hard",
+        "kg_advantage": true,
+        "notes": "Cross-reference RELEASED_MODEL (Anthropic) and USES_MODEL (Perplexity)"
+      },
+      {
+        "id": 19,
+        "question": "Which company connects with the 'automotive' industry via Cox Automotive?",
+        "category": "relationship",
+        "expected_answer": "Anthropic",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Partner lookup"
+      },
+      {
+        "id": 20,
+        "question": "Which products are linked to 'sovereign AI' initiatives?",
+        "category": "relationship",
+        "expected_answer": "Le Chat (via SAP partnership), Mistral Saba, Mistral Compute",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Topic traversal to Products/Posts"
+      },
+      {
+        "id": 21,
+        "question": "Compare the video generation capabilities of OpenAI and Perplexity.",
+        "category": "comparison",
+        "expected_answer": "OpenAI released Sora 2. Perplexity offers video generation via Sora 2 Pro and generic Video Generation on web/mobile.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Requires synthesizing product features from both companies"
+      },
+      {
+        "id": 22,
+        "question": "Which company has more listed government partners: Mistral or Perplexity?",
+        "category": "comparison",
+        "expected_answer": "Mistral (HTX, Morocco, Luxembourg, France Travail, UK/US Institutes) has more than Perplexity (GSA, US Gov).",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Count and compare relationships"
+      },
+      {
+        "id": 23,
+        "question": "How do the 'coding' agents from Anthropic and Mistral differ by name?",
+        "category": "comparison",
+        "expected_answer": "Anthropic offers 'Claude Code'; Mistral offers 'Mistral Code' and 'Codestral'.",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Compare product names with 'code' in them"
+      },
+      {
+        "id": 24,
+        "question": "Which company offers a specific 'Life Sciences' solution: Anthropic or OpenAI?",
+        "category": "comparison",
+        "expected_answer": "Anthropic (Claude for Life Sciences). OpenAI mentions health research but no specific branded 'Life Sciences' product.",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Product existence check"
+      },
+      {
+        "id": 25,
+        "question": "Compare the reasoning models: OpenAI vs DeepSeek vs Mistral.",
+        "category": "comparison",
+        "expected_answer": "OpenAI: o3 (mentioned in Perplexity usage). DeepSeek: DeepSeek-R1. Mistral: Magistral.",
+        "difficulty": "hard",
+        "kg_advantage": true,
+        "notes": "Requires identifying the 'reasoning' model for each"
+      },
+      {
+        "id": 26,
+        "question": "Which companies have integrated 'Artifacts' or similar interactive creation tools?",
+        "category": "comparison",
+        "expected_answer": "Anthropic (Artifacts).",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Feature search"
+      },
+      {
+        "id": 27,
+        "question": "Who has a partnership with Spotify: OpenAI or Perplexity?",
+        "category": "comparison",
+        "expected_answer": "OpenAI (Apps in ChatGPT).",
+        "difficulty": "easy",
+        "kg_advantage": true,
+        "notes": "Partner check"
+      },
+      {
+        "id": 28,
+        "question": "Compare the browser-based agents: Perplexity vs OpenAI.",
+        "category": "comparison",
+        "expected_answer": "Perplexity has 'Comet'. OpenAI has 'ChatGPT Agent' / 'Operator' / 'Atlas Browser'.",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Product category comparison"
+      },
+      {
+        "id": 29,
+        "question": "Which company released a model specifically for 'Indian culture'?",
+        "category": "comparison",
+        "expected_answer": "OpenAI (IndQA benchmark - technically a benchmark) vs Mistral (Mistral Saba - regional model for South Indian languages).",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Nuanced comparison of 'Indian' related releases"
+      },
+      {
+        "id": 30,
+        "question": "Which companies have a defined 'Enterprise' subscription tier mentioned?",
+        "category": "comparison",
+        "expected_answer": "Perplexity (Enterprise Pro/Max), OpenAI (Enterprise), Mistral (Le Chat Enterprise).",
+        "difficulty": "medium",
+        "kg_advantage": true,
+        "notes": "Product name keyword search"
+      },
+      {
+        "id": 31,
+        "question": "When did Perplexity announce the partnership with GSA?",
+        "category": "temporal",
+        "expected_answer": "November 19, 2025",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Date lookup in post metadata"
+      },
+      {
+        "id": 32,
+        "question": "What was OpenAI's most recent announcement in November 2025?",
+        "category": "temporal",
+        "expected_answer": "Group chats in ChatGPT (Nov 20) or Research on GPT-5 (Nov 20).",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Requires sorting posts by date"
+      },
+      {
+        "id": 33,
+        "question": "Which model was released first: GPT-5 or DeepSeek-V3?",
+        "category": "temporal",
+        "expected_answer": "DeepSeek-V3 (Jan 4, 2025) was released before GPT-5 (Aug 7, 2025).",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Compare dates of two events"
+      },
+      {
+        "id": 34,
+        "question": "When did Mistral AI raise its Series C funding?",
+        "category": "temporal",
+        "expected_answer": "September 9, 2025",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Date lookup"
+      },
+      {
+        "id": 35,
+        "question": "Timeline of Anthropic's data center investment announcement?",
+        "category": "temporal",
+        "expected_answer": "November 12, 2025",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Date lookup"
+      },
+      {
+        "id": 36,
+        "question": "What did Perplexity launch in July 2025?",
+        "category": "temporal",
+        "expected_answer": "Comet booking capabilities, Comet as DJ, Comet saved content, Curiosity Campaign, Comet Shopping Agents, Comet Voice Browsing, Comet Beta.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Aggregation of events in a month"
+      },
+      {
+        "id": 37,
+        "question": "Did OpenAI release 'Sora 2' before or after 'GPT-5.1'?",
+        "category": "temporal",
+        "expected_answer": "Before. Sora 2 was Sept 30, 2025. GPT-5.1 was Nov 12, 2025.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Comparison of dates"
+      },
+      {
+        "id": 38,
+        "question": "When did DeepSeek release the 'R1' model?",
+        "category": "temporal",
+        "expected_answer": "January 20, 2025",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Date lookup"
+      },
+      {
+        "id": 39,
+        "question": "What updates did Mistral provide in February 2025?",
+        "category": "temporal",
+        "expected_answer": "First AI Cluster in Paris, Le Chat Mobile App Launch, Mistral Saba Model, AI Action Summit recap.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Aggregation by month"
+      },
+      {
+        "id": 40,
+        "question": "When did Anthropic open their Tokyo office?",
+        "category": "temporal",
+        "expected_answer": "October 29, 2025",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Date lookup"
+      },
+      {
+        "id": 41,
+        "question": "What specific features does Perplexity's 'Enterprise Pro for Government' include?",
+        "category": "detail",
+        "expected_answer": "Model-agnostic AI, secure-by-default guarantees for federal users.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Requires extracting descriptive text from post"
+      },
+      {
+        "id": 42,
+        "question": "How much funding did Anthropic secure from NVIDIA and Microsoft combined in Nov 2025?",
+        "category": "detail",
+        "expected_answer": "$15 billion ($10B from NVIDIA, $5B from Microsoft).",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Requires calculation/extraction from text"
+      },
+      {
+        "id": 43,
+        "question": "What specific benefits did Y Combinator founders attribute to Claude Code?",
+        "category": "detail",
+        "expected_answer": "Pivoting categories, rapidly generating working prototypes, winning government contracts.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Qualitative detail extraction"
+      },
+      {
+        "id": 44,
+        "question": "What are the key technical specs of Mistral's '3FS' file system?",
+        "category": "detail",
+        "expected_answer": "6.6 TiB/s aggregate read throughput, 3.66 TiB/min on GraySort, 40+ GiB/s peak per client node.",
+        "difficulty": "hard",
+        "kg_advantage": false,
+        "notes": "Technical spec lookup"
+      },
+      {
+        "id": 45,
+        "question": "What is 'DeepSeek Sparse Attention' designed to do?",
+        "category": "detail",
+        "expected_answer": "Enable faster, more efficient training & inference on long context.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Feature explanation"
+      },
+      {
+        "id": 46,
+        "question": "Why did OpenAI launch the free year of Plus for veterans?",
+        "category": "detail",
+        "expected_answer": "Driven by internal veteran employees to help with transition to civilian life (jobs, education, benefits).",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Context/Reasoning extraction"
+      },
+      {
+        "id": 47,
+        "question": "What percentage improvement did Perplexity claim for the Comet Assistant upgrade?",
+        "category": "detail",
+        "expected_answer": "23% improvement in performance.",
+        "difficulty": "easy",
+        "kg_advantage": false,
+        "notes": "Specific number extraction"
+      },
+      {
+        "id": 48,
+        "question": "What is the 'Agentic Commerce Protocol' used for?",
+        "category": "detail",
+        "expected_answer": "Powering Instant Checkout in ChatGPT with merchants like Shopify and Etsy.",
+        "difficulty": "medium",
+        "kg_advantage": false,
+        "notes": "Definition/Usage extraction"
+      },
+      {
+        "id": 49,
+        "question": "What are the recommended settings for deploying DeepSeek-R1?",
+        "category": "detail",
+        "expected_answer": "No system prompt, Temperature 0.6.",
+        "difficulty": "hard",
+        "kg_advantage": false,
+        "notes": "Technical instruction lookup"
+      },
+      {
+        "id": 50,
+        "question": "What types of organizations were targeted in the cyberattack disrupted by Anthropic?",
+        "category": "detail",
+        "expected_answer": "Large tech companies, financial institutions, chemical manufacturing companies, and government agencies.",
+        "difficulty": "hard",
+        "kg_advantage": false,
+        "notes": "List extraction from narrative"
+      }
+    ],
+    "metadata": {
+      "total_questions": 50,
+      "categories": {
+        "factual": 10,
+        "relationship": 10,
+        "comparison": 10,
+        "temporal": 10,
+        "detail": 10
+      },
+      "difficulty_distribution": {
+        "easy": 15,
+        "medium": 25,
+        "hard": 10
+      }
+    }
+  }

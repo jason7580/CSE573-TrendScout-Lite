@@ -1,0 +1,1149 @@
+{
+  "company": "perplexity-ai",
+  "display_name": "Perplexity AI",
+  "total_posts": 40,
+  "posts": [
+    {
+      "global_id": 1,
+      "post_id": "perplexity-1",
+      "company": "perplexity-ai",
+      "date": "Wed, 19 Nov 2025",
+      "title": "Enterprise Pro for Government Launch",
+      "summary": "Perplexity announces a partnership with the GSA to bring Enterprise Pro AI to the US Government.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Enterprise Pro for Government",
+          "type": "platform",
+          "description": "Enterprise-grade AI for federal users"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "GSA",
+          "category": "government",
+          "type": "contract",
+          "details": "Government-wide contract"
+        },
+        {
+          "partner": "US Government",
+          "category": "government",
+          "type": "contract",
+          "details": "Direct partnership for AI adoption"
+        }
+      ],
+      "features": [
+        {
+          "name": "Secure-by-default",
+          "description": "Guarantees for federal users",
+          "availability": "Government agencies"
+        }
+      ],
+      "topics": [
+        "government",
+        "enterprise",
+        "security",
+        "partnerships"
+      ]
+    },
+    {
+      "global_id": 2,
+      "post_id": "perplexity-2",
+      "company": "perplexity-ai",
+      "date": "Fri, 14 Nov 2025",
+      "title": "Comet Assistant Transparency Updates",
+      "summary": "Comet Assistant receives updates for transparency, permission protocols, and user control over automated actions.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Comet Assistant",
+          "type": "agent",
+          "description": "AI browsing assistant"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Permission Requests",
+          "description": "Asks before sensitive actions",
+          "availability": "All users"
+        },
+        {
+          "name": "Action Visibility",
+          "description": "Shows exactly what the agent is doing",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "privacy",
+        "security",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 3,
+      "post_id": "perplexity-3",
+      "company": "perplexity-ai",
+      "date": "Sat, 22 Nov 2025",
+      "title": "New Default Generation Models",
+      "summary": "Nano Banana Pro and Sora 2 Pro are now the default generation models for Perplexity and Comet.",
+      "post_type": "model_release",
+      "products": [
+        {
+          "name": "Perplexity Max",
+          "type": "subscription",
+          "description": "Premium subscription tier"
+        }
+      ],
+      "ai_models": [
+        {
+          "name": "Nano Banana Pro",
+          "provider": "Unknown",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "Sora 2 Pro",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "multimodal",
+        "performance"
+      ]
+    },
+    {
+      "global_id": 4,
+      "post_id": "perplexity-4",
+      "company": "perplexity-ai",
+      "date": "Thu, 13 Nov 2025",
+      "title": "GPT-5.1 Availability",
+      "summary": "GPT-5.1 is now available for Perplexity Pro and Max subscribers.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5.1",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "search"
+      ]
+    },
+    {
+      "global_id": 5,
+      "post_id": "perplexity-5",
+      "company": "perplexity-ai",
+      "date": "Wed, 05 Nov 2025",
+      "title": "Perplexity Becomes Default AI for Snapchat",
+      "summary": "Perplexity will become the default AI provider for all Snapchat users starting early next year.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Snapchat",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Default AI in Snapchat app"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "mobile",
+        "integration",
+        "social"
+      ]
+    },
+    {
+      "global_id": 6,
+      "post_id": "perplexity-6",
+      "company": "perplexity-ai",
+      "date": "Wed, 29 Oct 2025",
+      "title": "Email Assistant Trial Launch",
+      "summary": "Perplexity Pro subscribers can now access a 14-day trial of the privacy-focused Email Assistant.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Email Assistant",
+          "type": "feature",
+          "description": "AI assistant for drafting and labeling emails"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Privacy-first drafting",
+          "description": "Email content not logged",
+          "availability": "Pro Subscribers"
+        },
+        {
+          "name": "Auto-deletion",
+          "description": "Chains deleted after two weeks",
+          "availability": "Pro Subscribers"
+        }
+      ],
+      "topics": [
+        "agents",
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "global_id": 7,
+      "post_id": "perplexity-7",
+      "company": "perplexity-ai",
+      "date": "Thu, 30 Oct 2025",
+      "title": "Perplexity Patents Launch",
+      "summary": "Launch of Perplexity Patents, an AI patent research agent utilizing a citation-first approach.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Perplexity Patents",
+          "type": "platform",
+          "description": "AI patent research agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Natural Language Search",
+          "description": "Search without keywords",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "search",
+        "legal",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 8,
+      "post_id": "perplexity-8",
+      "company": "perplexity-ai",
+      "date": "Thu, 06 Nov 2025",
+      "title": "Comet Assistant Performance Upgrade",
+      "summary": "Major upgrades to Comet Assistant improve performance by 23% and enable multi-site workflows.",
+      "post_type": "product_update",
+      "products": [
+        {
+          "name": "Comet Assistant",
+          "type": "agent",
+          "description": "Browser automation agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Parallel Browsing",
+          "description": "Works across multiple tabs",
+          "availability": "All users"
+        },
+        {
+          "name": "Permission Memory",
+          "description": "Remembers user approval",
+          "availability": "All users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "performance",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 9,
+      "post_id": "perplexity-9",
+      "company": "perplexity-ai",
+      "date": "Tue, 05 Aug 2025",
+      "title": "Response to Cloudflare Blog",
+      "summary": "Perplexity addresses inaccuracies in Cloudflare's recent blog post regarding modern AI assistants.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "security",
+        "technology",
+        "industry"
+      ]
+    },
+    {
+      "global_id": 10,
+      "post_id": "perplexity-10",
+      "company": "perplexity-ai",
+      "date": "Thu, 18 Sep 2025",
+      "title": "Perplexity Enterprise Max Launch",
+      "summary": "Announcement of Enterprise Max tier offering unlimited Labs queries and premium security features.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Enterprise Max",
+          "type": "subscription",
+          "description": "Top-tier enterprise plan"
+        },
+        {
+          "name": "Comet Max Assistant",
+          "type": "agent",
+          "description": "Advanced assistant for enterprise"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Unlimited Labs",
+          "description": "Unlimited queries",
+          "availability": "Enterprise Max"
+        },
+        {
+          "name": "10x File Uploads",
+          "description": "Increased capacity",
+          "availability": "Enterprise Max"
+        }
+      ],
+      "topics": [
+        "enterprise",
+        "security",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 11,
+      "post_id": "perplexity-11",
+      "company": "perplexity-ai",
+      "date": "Tue, 16 Sep 2025",
+      "title": "New Data Connectors Integration",
+      "summary": "Pro users can now connect GitHub, Notion, and email, while Enterprise Pro gets Linear and Outlook support.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Perplexity Pro",
+          "type": "subscription",
+          "description": "Paid user tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "GitHub",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Data connector"
+        },
+        {
+          "partner": "Notion",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Data connector"
+        },
+        {
+          "partner": "Linear",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Enterprise data connector"
+        }
+      ],
+      "features": [
+        {
+          "name": "Personal Knowledge Search",
+          "description": "Search across connected apps",
+          "availability": "Pro/Enterprise"
+        }
+      ],
+      "topics": [
+        "integration",
+        "productivity",
+        "search"
+      ]
+    },
+    {
+      "global_id": 12,
+      "post_id": "perplexity-12",
+      "company": "perplexity-ai",
+      "date": "Wed, 03 Sep 2025",
+      "title": "Comet for Students Worldwide",
+      "summary": "Comet is now available to students worldwide with features like Study Mode and schedule management.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        },
+        {
+          "name": "Study Mode",
+          "type": "feature",
+          "description": "Exam prep and scheduling tools"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Study Mode",
+          "description": "Exam prep and scheduling",
+          "availability": "Students"
+        }
+      ],
+      "topics": [
+        "education",
+        "students",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 13,
+      "post_id": "perplexity-13",
+      "company": "perplexity-ai",
+      "date": "Wed, 27 Aug 2025",
+      "title": "Voice Mode on Android with SMPL",
+      "summary": "Perplexity Voice Mode now uses SMPL to provide clear conversations on Android devices.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Voice Mode",
+          "type": "feature",
+          "description": "Conversational AI interface"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "SMPL Integration",
+          "description": "Improved voice clarity",
+          "availability": "Android"
+        }
+      ],
+      "topics": [
+        "voice",
+        "mobile",
+        "android"
+      ]
+    },
+    {
+      "global_id": 14,
+      "post_id": "perplexity-14",
+      "company": "perplexity-ai",
+      "date": "Tue, 10 Jun 2025",
+      "title": "o3 Model Availability",
+      "summary": "OpenAI's o3 model is now available for Perplexity Pro users.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "o3",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "search",
+        "reasoning"
+      ]
+    },
+    {
+      "global_id": 15,
+      "post_id": "perplexity-15",
+      "company": "perplexity-ai",
+      "date": "Thu, 14 Aug 2025",
+      "title": "Comet for Enterprise Launch",
+      "summary": "Comet is now available for Enterprise Pro users with enhanced security and compliance standards.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Comet for Enterprise",
+          "type": "agent",
+          "description": "AI browser agent for business"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Enterprise Security",
+          "description": "Maintains compliance standards",
+          "availability": "Enterprise Pro"
+        }
+      ],
+      "topics": [
+        "enterprise",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "global_id": 16,
+      "post_id": "perplexity-16",
+      "company": "perplexity-ai",
+      "date": "Wed, 13 Aug 2025",
+      "title": "Comet Desktop App Launch",
+      "summary": "Comet is now available for all US-based Perplexity Pro users on Mac and Windows.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "application",
+          "description": "Desktop AI browser"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "desktop",
+        "browsing"
+      ]
+    },
+    {
+      "global_id": 17,
+      "post_id": "perplexity-17",
+      "company": "perplexity-ai",
+      "date": "Mon, 11 Aug 2025",
+      "title": "Video Generation Launch",
+      "summary": "Video generation is now available on web and mobile with quotas for Pro and Max subscribers.",
+      "post_type": "feature_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Video Generation",
+          "description": "Create videos from prompts",
+          "availability": "Web, iOS, Android"
+        }
+      ],
+      "topics": [
+        "multimodal",
+        "video",
+        "mobile"
+      ]
+    },
+    {
+      "global_id": 18,
+      "post_id": "perplexity-18",
+      "company": "perplexity-ai",
+      "date": "Thu, 07 Aug 2025",
+      "title": "GPT-5 Availability",
+      "summary": "GPT-5 is now available on Perplexity and Comet for Max and Pro subscribers.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-5",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "search"
+      ]
+    },
+    {
+      "global_id": 19,
+      "post_id": "perplexity-19",
+      "company": "perplexity-ai",
+      "date": "Mon, 28 Jul 2025",
+      "title": "Comet Booking Capabilities",
+      "summary": "Comet can now search, book, and confirm appointments on behalf of the user.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Appointment Booking",
+          "description": "Automated booking and confirmation",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "automation",
+        "productivity"
+      ]
+    },
+    {
+      "global_id": 20,
+      "post_id": "perplexity-20",
+      "company": "perplexity-ai",
+      "date": "Thu, 24 Jul 2025",
+      "title": "Comet as a DJ",
+      "summary": "Playful update showcasing Comet's ability to act as a DJ.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "media",
+        "entertainment"
+      ]
+    },
+    {
+      "global_id": 21,
+      "post_id": "perplexity-21",
+      "company": "perplexity-ai",
+      "date": "Wed, 23 Jul 2025",
+      "title": "Comet Saved Content Access",
+      "summary": "Users can instantly access saved content from anywhere using Comet.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Universal Access",
+          "description": "Access saved content anywhere",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "productivity",
+        "search"
+      ]
+    },
+    {
+      "global_id": 22,
+      "post_id": "perplexity-22",
+      "company": "perplexity-ai",
+      "date": "Tue, 14 Oct 2025",
+      "title": "Firefox Search Partnership",
+      "summary": "Mozilla Firefox users can now set Perplexity as their default search engine.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Mozilla",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "Default search engine option in Firefox"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "search",
+        "partnerships",
+        "browsers"
+      ]
+    },
+    {
+      "global_id": 23,
+      "post_id": "perplexity-23",
+      "company": "perplexity-ai",
+      "date": "Mon, 21 Jul 2025",
+      "title": "Curiosity Campaign Update",
+      "summary": "A brand engagement post asking users where their curiosity will lead them.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "marketing",
+        "engagement"
+      ]
+    },
+    {
+      "global_id": 24,
+      "post_id": "perplexity-24",
+      "company": "perplexity-ai",
+      "date": "Thu, 10 Jul 2025",
+      "title": "Comet Usage Engagement",
+      "summary": "Community engagement post asking users about their daily accomplishments with Comet.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "community",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 25,
+      "post_id": "perplexity-25",
+      "company": "perplexity-ai",
+      "date": "Thu, 10 Jul 2025",
+      "title": "Comet Shopping Agents",
+      "summary": "Highlighting agents that shop on behalf of the user within Comet.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Shopping Agent",
+          "description": "Automated shopping capabilities",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "shopping",
+        "automation"
+      ]
+    },
+    {
+      "global_id": 26,
+      "post_id": "perplexity-26",
+      "company": "perplexity-ai",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Comet Task Automation",
+      "summary": "Comet can now book meetings and send emails, transforming sessions into seamless interactions.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Task Automation",
+          "description": "Book meetings and send emails",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "agents",
+        "productivity",
+        "automation"
+      ]
+    },
+    {
+      "global_id": 27,
+      "post_id": "perplexity-27",
+      "company": "perplexity-ai",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Voice Browsing with Comet",
+      "summary": "Users can now browse the web using their voice with Comet.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Voice Browsing",
+          "description": "Voice-controlled navigation",
+          "availability": "Comet users"
+        }
+      ],
+      "topics": [
+        "voice",
+        "accessibility",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 28,
+      "post_id": "perplexity-28",
+      "company": "perplexity-ai",
+      "date": "Wed, 09 Jul 2025",
+      "title": "Comet Beta Launch",
+      "summary": "Comet is now available to Max subscribers and rolling out via invite-only waitlist.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Comet",
+          "type": "agent",
+          "description": "AI browser agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "agents",
+        "browsing",
+        "search"
+      ]
+    },
+    {
+      "global_id": 29,
+      "post_id": "perplexity-29",
+      "company": "perplexity-ai",
+      "date": "Fri, 30 May 2025",
+      "title": "Pinned Sidebar Categories",
+      "summary": "Finance, Travel, Shopping, and Academic pages are now pinned to the sidebar for easier access.",
+      "post_type": "feature_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Pinned Sidebar",
+          "description": "Quick access to verticals",
+          "availability": "Web users"
+        }
+      ],
+      "topics": [
+        "finance",
+        "education",
+        "shopping",
+        "search"
+      ]
+    },
+    {
+      "global_id": 30,
+      "post_id": "perplexity-30",
+      "company": "perplexity-ai",
+      "date": "Thu, 29 May 2025",
+      "title": "Perplexity Labs Launch",
+      "summary": "Launch of Perplexity Labs for handling complex tasks like coding and design for Pro users.",
+      "post_type": "product_launch",
+      "products": [
+        {
+          "name": "Perplexity Labs",
+          "type": "platform",
+          "description": "Advanced workspace for complex tasks"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Complex Task Handling",
+          "description": "Coding, headless browsing, design",
+          "availability": "Pro users"
+        }
+      ],
+      "topics": [
+        "productivity",
+        "coding",
+        "development"
+      ]
+    },
+    {
+      "global_id": 31,
+      "post_id": "perplexity-31",
+      "company": "perplexity-ai",
+      "date": "Wed, 28 May 2025",
+      "title": "Lewis Hamilton Partnership",
+      "summary": "Perplexity announces a brand partnership with Formula 1 driver Lewis Hamilton.",
+      "post_type": "partnership_announcement",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Lewis Hamilton",
+          "category": "media",
+          "type": "marketing",
+          "details": "Brand ambassador"
+        }
+      ],
+      "features": [],
+      "topics": [
+        "partnerships",
+        "marketing",
+        "sports"
+      ]
+    },
+    {
+      "global_id": 32,
+      "post_id": "perplexity-32",
+      "company": "perplexity-ai",
+      "date": "Sat, 01 Mar 2025",
+      "title": "GPT-4.5 Live",
+      "summary": "GPT-4.5 is now live on Perplexity for all Pro users with a daily query limit.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "GPT-4.5",
+          "provider": "OpenAI",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "performance",
+        "search"
+      ]
+    },
+    {
+      "global_id": 33,
+      "post_id": "perplexity-33",
+      "company": "perplexity-ai",
+      "date": "Thu, 22 May 2025",
+      "title": "Claude Sonnet 4 Availability",
+      "summary": "Claude Sonnet 4 and Sonnet 4 Thinking from Anthropic are now available for Pro users.",
+      "post_type": "model_release",
+      "products": [],
+      "ai_models": [
+        {
+          "name": "Claude Sonnet 4",
+          "provider": "Anthropic",
+          "is_used": true,
+          "is_released": false
+        },
+        {
+          "name": "Sonnet 4 Thinking",
+          "provider": "Anthropic",
+          "is_used": true,
+          "is_released": false
+        }
+      ],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "models",
+        "reasoning",
+        "search"
+      ]
+    },
+    {
+      "global_id": 34,
+      "post_id": "perplexity-34",
+      "company": "perplexity-ai",
+      "date": "Wed, 01 Oct 2025",
+      "title": "Research on Distributed RL",
+      "summary": "Perplexity engineering blog details how RDMA unlocks ultra-fast parameter updates for trillion-parameter models.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "research",
+        "performance",
+        "infrastructure",
+        "models"
+      ]
+    },
+    {
+      "global_id": 35,
+      "post_id": "perplexity-35",
+      "company": "perplexity-ai",
+      "date": "Wed, 23 Apr 2025",
+      "title": "iOS Voice Assistant Launch",
+      "summary": "Introducing Perplexity iOS Voice Assistant capable of multi-app actions like booking and emailing.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Voice Assistant",
+          "type": "feature",
+          "description": "iOS voice control agent"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "Multi-app Actions",
+          "description": "interact across apps",
+          "availability": "iOS"
+        }
+      ],
+      "topics": [
+        "voice",
+        "mobile",
+        "ios",
+        "agents"
+      ]
+    },
+    {
+      "global_id": 36,
+      "post_id": "perplexity-36",
+      "company": "perplexity-ai",
+      "date": "Wed, 23 Apr 2025",
+      "title": "Perplexity in Practice Event",
+      "summary": "Announcement for a virtual event teaching business development workflows using Perplexity.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "education",
+        "enterprise",
+        "community"
+      ]
+    },
+    {
+      "global_id": 37,
+      "post_id": "perplexity-37",
+      "company": "perplexity-ai",
+      "date": "Thu, 17 Apr 2025",
+      "title": "SOC 2 Type II Compliance",
+      "summary": "Perplexity announces SOC 2 Type II compliance and new enterprise security features like SSO.",
+      "post_type": "enterprise_announcement",
+      "products": [
+        {
+          "name": "Enterprise Pro",
+          "type": "subscription",
+          "description": "Enterprise tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [
+        {
+          "name": "SOC 2 Type II",
+          "description": "Security compliance certification",
+          "availability": "All users"
+        },
+        {
+          "name": "SSO",
+          "description": "Single Sign-On",
+          "availability": "Enterprise Pro"
+        }
+      ],
+      "topics": [
+        "security",
+        "compliance",
+        "enterprise"
+      ]
+    },
+    {
+      "global_id": 38,
+      "post_id": "perplexity-38",
+      "company": "perplexity-ai",
+      "date": "Thu, 10 Apr 2025",
+      "title": "Box and Dropbox Integration",
+      "summary": "Enterprise Pro users can now access Box and Dropbox files via Deep Research.",
+      "post_type": "feature_announcement",
+      "products": [
+        {
+          "name": "Enterprise Pro",
+          "type": "subscription",
+          "description": "Enterprise tier"
+        }
+      ],
+      "ai_models": [],
+      "partnerships": [
+        {
+          "partner": "Box",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "File search integration"
+        },
+        {
+          "partner": "Dropbox",
+          "category": "tech_company",
+          "type": "integration",
+          "details": "File search integration"
+        }
+      ],
+      "features": [
+        {
+          "name": "Deep Research for Files",
+          "description": "Search internal files",
+          "availability": "Enterprise Pro"
+        }
+      ],
+      "topics": [
+        "integration",
+        "enterprise",
+        "search"
+      ]
+    },
+    {
+      "global_id": 39,
+      "post_id": "perplexity-39",
+      "company": "perplexity-ai",
+      "date": "Mon, 17 Mar 2025",
+      "title": "Brand Accuracy Statement",
+      "summary": "A short brand statement emphasizing accuracy: 'When you need to get it right, ask Perplexity.'",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "marketing",
+        "brand"
+      ]
+    },
+    {
+      "global_id": 40,
+      "post_id": "perplexity-40",
+      "company": "perplexity-ai",
+      "date": "Fri, 14 Mar 2025",
+      "title": "Teaser Date Post",
+      "summary": "A mysterious post containing only a date: 3-17-25, likely teasing an upcoming announcement.",
+      "post_type": "general_update",
+      "products": [],
+      "ai_models": [],
+      "partnerships": [],
+      "features": [],
+      "topics": [
+        "marketing",
+        "community"
+      ]
+    }
+  ]
+}

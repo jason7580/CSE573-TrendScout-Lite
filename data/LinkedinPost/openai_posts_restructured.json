@@ -1,0 +1,402 @@
+[
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 17 Nov 2025 18:01:02 GMT (UTC)",
+        "content": "OpenAI is recognized as an Emerging Leader in the 2025 Gartner® Innovation Guide for Generative AI Model Providers.We think this recognition reflects the momentum behind our frontier models and enterprise-grade strengths — from multimodal capabilities to the security, governance, and reliability enterprises need.We see customers moving from pilots to production, deploying agents and multimodal workflows that deliver measurable results. We’re focused on giving organizations the platform, tools, and safeguards to scale these systems safely.https://lnkd.in/dP9h4eX9",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7396246002619383808",
+        "id": 1
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 20 Nov 2025 17:34:59 GMT (UTC)",
+        "content": "Group chats in ChatGPT are now rolling out globally.Group chats are a new way to collaborate with friends, family, or coworkers and ChatGPT in the same conversation.Now available to all logged-in users on ChatGPT Free, Go, Plus and Pro plans.https://lnkd.in/dNhk2Jz8",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7397326607910125568",
+        "id": 2
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Sat, 15 Nov 2025 23:19:35 GMT (UTC)",
+        "content": "It’s true. Chat is now better at not using em dashes—if you instruct it via custom instructions.You can find your custom instructions under your personalization settings.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7395601391865511936",
+        "id": 3
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 12 Nov 2025 19:05:51 GMT (UTC)",
+        "content": "GPT-5.1 in ChatGPT is rolling out to all users this week.The updated model is now better at:- Following custom instructions- Using reasoning for more accurate responses- And just better at chatting overallWe’re also rolling out more unique chat styles in your ChatGPT personalization tab, making it easier to set the tone and style that feels right for you in ChatGPT.Today’s GPT-5.1 updates and new customization options are a step toward a ChatGPT that feels like it fits you—smarter, more enjoyable to talk to, and more adaptable to your preferences. Going forward, we’ll continue improving along these dimensions—there’s much more to come.https://lnkd.in/gEv7rhmd",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7394450373190717441",
+        "id": 4
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 11 Nov 2025 16:42:24 GMT (UTC)",
+        "content": "Every year, hundreds of thousands of U.S. servicemembers transition from military to civilian life with a long list of things to figure out: job hunting, evaluating education options, navigating earned benefits, housing, finances, and getting used to a new routine. Nearly half of post-9/11 veterans say their adjustment to civilian life was difficult.Today we’re announcing that U.S. servicemembers and veterans can receive a free year of ChatGPT Plus if they’re within 12 months of retirement or separation. This initiative originated with veterans working at OpenAI who use these tools every day. They know firsthand how ChatGPT can help with the next chapter, from building resumes to exploring new careers.U.S. servicemembers and veterans who are interested can learn more at⁠chatgpt.com/veterans-claim.They will get access to our latest models and features, 100 example chats⁠ for veterans (written by OpenAI veterans), and a customized getting started video⁠tailored to veterans and hosted on the OpenAI Academy. And we’re doing this alongside SheerID—leveraging their permission-based verification platform to make sure the access goes to those who’ve served and are transitioning to their next stage of life.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7394051885231550465",
+        "id": 5
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 10 Nov 2025 15:44:15 GMT (UTC)",
+        "content": "Today,OpenAIis announcing that U.S. servicemembers and veterans can receive a free year of ChatGPT Plus if they’re within 12 months of retirement or separation. This effort was driven by veterans at OpenAI,  including me, who’ve seen firsthand how these tools can make the transition to civilian life a little easier.I’m an AI Adoption Manager at OpenAI and a 20-year美國陸軍veteran. When I left the military, I didn’t have a traditional tech background. I relied on ChatGPT early on to bridge the gap, learning cloud concepts, translating technical jargon, and gaining the confidence to navigate a new career path. Over time, I went from user to power user to someone helping public-sector teams understand how to think with AI.That journey ultimately brought me to OpenAI, where I work every day to help governments and public servants use frontier AI responsibly and effectively.If AI helped me build a new career, I know it can help others do the same. Proud to have helped bring this initiative to life — and excited for what it can unlock for those who’ve served.Offer page:https://lnkd.in/gvQtqaxcThere is a link in the comments to a video walkthrough I made for the OpenAI Academy on best practices for using ChatGPT for military transitions.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7393674866127802368",
+        "id": 6
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 20 Nov 2025 18:24:59 GMT (UTC)",
+        "content": "We’re releasing new research on how GPT-5 is accelerating scientific discovery.In collaboration with researchers at universities and national laboratories, the paper brings together early experiments offering the first signs of how GPT-5 can strengthen research across mathematics, physics, biology, computer science, astronomy, and materials science.The case studies highlight where GPT-5 can contribute today—synthesizing scattered results, surfacing mechanisms, navigating literature conceptually, accelerating tough computations, and even helping generate new proofs of unsolved propositions.These are early signals with well-defined limits. But the direction is encouraging: faster exploration, stronger workflows, and a path toward deeper, reliable AI-assisted discovery as capabilities improve.Today’s paper, “Early science acceleration experiments with GPT-5,” offers a clear, grounded view of what models like GPT-5 can and cannot do in real research settings.To hear directly from OpenAI researchers behind the work, listen to the new episode of the OpenAI Podcast:https://lnkd.in/eSzE5iKz",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7397339194789961729",
+        "id": 7
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 05 Nov 2025 18:19:57 GMT (UTC)",
+        "content": "Over 1 million business customers are now using OpenAI, the fastest-growing business platform in history.AI is a tool of abundance. The most successful businesses use AI to multiply, not just cut. They’re launching new products faster and tackling many more great ideas that would have fallen below the line in the past. Let's build:https://lnkd.in/gPWh-uyr",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7391902109044105216",
+        "id": 8
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 05 Nov 2025 17:05:53 GMT (UTC)",
+        "content": "We’re celebrating a major milestone: more than 1 million business customers around the world are directly using OpenAI—the fastest-growing business platform in history.We’re also seeing a shift from using AI to building with it. Companies are creating new applications and agentic workflows on OpenAI — fromCanva,Figma,Zillow, andSpotifyintegrating directly into ChatGPT, toShopify,Etsy,沃爾瑪,PayPal, andSalesforcebringing conversational commerce to users through the Agentic Commerce Protocol.Thank you to every company building with us. We’re just getting started — there’s a massive opportunity to rethink how work gets done, and we’re excited to build the platform that powers it.https://lnkd.in/dMN3ikfn",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7391883470316212224",
+        "id": 9
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 04 Nov 2025 18:21:07 GMT (UTC)",
+        "content": "Codex provides high-signal code reviews with the quality and depth of a senior engineer.Maja TrębaczandRomain Huetshow you how to set up Codex to automatically review new pull requests in GitHub and in the Codex CLI, and discuss the research approach we used to train our models to generate quality code reviews.Get started with Codex code review:https://lnkd.in/g_ctVpN8",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7391540012443590656",
+        "id": 10
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Fri, 31 Oct 2025 17:00:47 GMT (UTC)",
+        "content": "Turn on agent mode and ChatGPT can take action for you—research, plan, and get things done while you browse.Now in preview for Plus, Pro, and Business users.https://lnkd.in/g9DgnSA2",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7390070247384526848",
+        "id": 11
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 27 Oct 2025 16:25:45 GMT (UTC)",
+        "content": "Codex’s multimodal abilities can help you design, iterate, and build beautiful frontends for your appsChanning CongerandRomain Huetshow how to use Codex Cloud as your front-end design partner — from sketching ideas to shipping UI.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7388611877687287809",
+        "id": 12
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 13 Nov 2025 19:25:20 GMT (UTC)",
+        "content": "We’ve developed a new way to train small AI models with internal mechanisms that are easier for humans to examine and understand.Language models like the ones behind ChatGPT have complex, sometimes surprising internal structures, and we don’t yet fully understand how they work.This approach is an early step toward closing that gap, and a part of a broader set of efforts across OpenAI to make our systems more interpretable—developing methods that help us understand why a model produced a given output. In some cases that means looking at the model’s step-by-step reasoning, and in others it means trying to reverse-engineer the small circuits inside the network.There’s still a long path to fully understanding the complex behaviors of our most capable models.https://lnkd.in/gqWJyw_b",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7394817666877886464",
+        "id": 13
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 05 Nov 2025 23:17:49 GMT (UTC)",
+        "content": "We’re building OpenAI for Science to help scientists push the frontier of knowledge further and faster – compressing decades of discovery into just a few years.We’re looking for collaborators to join us as we design AI tools that fit naturally into how real research happens. Reach out here:www.openai.com/science",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7391977069963862017",
+        "id": 14
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 08 Oct 2025 17:14:24 GMT (UTC)",
+        "content": "DevDay [2025] is a wrap.This year, we brought together more than 1,500 developers, founders, and builders at Fort Mason in San Francisco to celebrate what it means to build with OpenAI.Sam Altman opened the event with the keynote, and we were joined by leaders like Jony Ive, Greg Brockman, and SF Mayor Daniel Lurie to dig into what’s new, what’s possible, and what’s next in AI.We unveiled powerful new tools for developers, startups, and enterprises —like Sora 2 in the API, apps in ChatGPT, Agent Builder and Agentkit. To everyone who joined — in person or online — thank you. Now, let’s get to building.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7381738753071128576",
+        "id": 15
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 16 Oct 2025 18:13:25 GMT (UTC)",
+        "content": "Shivers.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7384652707791298562",
+        "id": 16
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 05 Nov 2025 05:30:09 GMT (UTC)",
+        "content": "We’re introducing IndQA — a benchmark for evaluating AI systems on Indian culture and languages.IndQA measures knowledge and reasoning across everyday Indian life — spanning 2,278 questions, 12 languages, and 10 cultural domains, created in partnership with 261 domain experts across India. Unlike existing benchmarks, IndQA is designed to probe culturally nuanced, reasoning-heavy tasks that existing evaluations struggle to capture.This reflects our commitment to making AI more useful and accessible globally, and we hope IndQA informs and inspires further benchmark work in the research community.https://lnkd.in/eQ7s8BUd",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7391708381708939264",
+        "id": 17
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 27 Oct 2025 15:35:26 GMT (UTC)",
+        "content": "Try them all.💡: Excellent_Box_8216 on Reddit",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7388599214727024640",
+        "id": 18
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 29 Sep 2025 22:54:24 GMT (UTC)",
+        "content": "Today we launched a new series on how OpenAI uses AI internally... and User Operations / Support is featured! I am extremely proud of the work the crew is putting in and very happy to see their efforts being highlighted. Our intent is to share more details on our builds (and learnings!) over time, but for now check out our initial video and blog post linked below:https://lnkd.in/eSHMPdXELooking forward to sharing and learning from others who are on a similar journey!",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7378562822714122240",
+        "id": 19
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 29 Sep 2025 22:44:25 GMT (UTC)",
+        "content": "How does OpenAI use its own technology? It’s a question we hear all the time, so we wanted to share some answers.Today we’re launching OpenAI on OpenAI, a new series that shows how our own teams use AI to run the business.These are first-hand stories from the people building and using the tech every day.Check out the first stories:https://lnkd.in/efrqjDJ4",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7378560314063257600",
+        "id": 20
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 23 Oct 2025 17:26:07 GMT (UTC)",
+        "content": "Use Codex right in your code editor with the new IDE extension for VS Code, Cursor and other forks.Gabriel PealandRomain Huetshow you how to explore code, implement new features, and brainstorm front-end design ideas for their app.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7387177517692018688",
+        "id": 21
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Wed, 22 Oct 2025 21:09:36 GMT (UTC)",
+        "content": "Open “Ask ChatGPT” and ChatGPT can see the page you’re on to give instant, accurate answers—no tab-switching required.Try ChatGPT Atlas—our new browser:https://chatgpt.com/atlas",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7386871371424911360",
+        "id": 22
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 21 Oct 2025 17:24:24 GMT (UTC)",
+        "content": "Meet our new browser—ChatGPT Atlas.With Atlas, ChatGPT can come with you anywhere across the web—helping you in the window right where you are, understanding what you’re trying to do, and completing tasks for you, all without copying and pasting or leaving the page.Your ChatGPT memory is built in, so conversations can draw on past chats and details to help you get new things done.Available today on macOS. Windows, iOS, and Android are coming soon.https://lnkd.in/g9DgnSA2",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7386452311742693376",
+        "id": 23
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 15 Sep 2025 15:53:54 GMT (UTC)",
+        "content": "This morning, theOpenAIEconomic Research team and our co-author ProfessorDavid Deming(美國哈佛大學) released a first-of-its-kind research paper on how ChatGPT is being used across the world. This is very exciting for me personally because one of the reasons I joined OpenAI was to produce research on how AI is changing our economy and society.The paper is officially aNational Bureau of Economic Researchworking paper (https://lnkd.in/gPDB3fuq) which means it will contribute to the conversation among leading economists as well as the broader discussion of AI in the media.I’ll be sharing takeaways from the paper on an ongoing basis. One early finding: our user base has shifted over time to better reflect the broader population. For example, just after ChatGPT launched, about 80% of users had typically masculine names. Today, that share is closer to 50%.Read more about the paper here:https://lnkd.in/gdZ_cyugSpecial thanks toCarl,Christopher,Kevin,Tom, andZoëfor leading this effort.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7373383571543113729",
+        "id": 24
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 06 Oct 2025 18:10:51 GMT (UTC)",
+        "content": "We’re kicking off DevDay [2025] with something big — apps in ChatGPT.You can now chat directly with apps, right inside ChatGPT. Whether you’re planning your next getaway, designing a presentation, or finding your dream home — you can do it all in one conversation.The first apps from pilot partners —Booking.com,Canva,Coursera,Expedia Group,Figma,Spotify, andZillow— are now live in ChatGPT.This marks the beginning of apps in ChatGPT, unlocking new possibilities for users and new opportunities for developers.https://lnkd.in/gm8WX7Xw",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7381028181404938240",
+        "id": 25
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 30 Sep 2025 17:21:57 GMT (UTC)",
+        "content": "This is Sora 2.Sora 2 can do things that are exceptionally difficult for prior video generation models.It’s more physically accurate and realistic than prior systems and a big leap forward in controllability. And it also comes with synchronized audio.https://lnkd.in/gXPXz3Qa",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7378841550551904256",
+        "id": 26
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 29 Sep 2025 17:01:05 GMT (UTC)",
+        "content": "ChatGPT already helps millions of people find what to buy. Now it can help them buy it too.We’re introducing Instant Checkout in ChatGPT withEtsyandShopify, and open-sourcing the Agentic Commerce Protocol that powers it, built withStripe, so more merchants and developers can integrate agentic checkout.Instant Checkout is now rolling out to US ChatGPT Pro, Plus and Free logged-in users buying from US Etsy sellers, with over 1 million Shopify merchants coming soon.Merchants interested in joining can learn more and apply here:https://lnkd.in/ghhis9xu",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7378473911379935232",
+        "id": 27
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 04 Sep 2025 18:44:41 GMT (UTC)",
+        "content": "Whenever I talk with people about AI, one of the first questions I get is almost always: what will this mean for my job? I believe AI will open up more opportunities than any technology in history – but it will also change how work gets done. Today we’re announcing OpenAI-Certified and the OpenAI Jobs Platform – two new initiatives that are about helping people become fluent in AI and connecting them with employers who need their skills. We can’t eliminate the disruption AI will bring, but we can make sure the benefits are shared broadly, not just by a fortunate few. This is one big step in the right direction.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7369440286889963523",
+        "id": 28
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Sun, 19 Oct 2025 15:46:43 GMT (UTC)",
+        "content": "Prompt: [Input: Your situation and what success looks like to you]Break this into small, focused actions—starting with the next best move. Give me one task I can complete in ten minutes or less every day at 1 PM.Pro tip: You can make changes to tasks by going to your settings and then clicking schedules.📹:Tiffany Kyazze",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7385702952868634624",
+        "id": 29
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 09 Sep 2025 15:40:51 GMT (UTC)",
+        "content": "By popular request: you can now branch conversations in ChatGPT, letting you more easily explore different directions without losing your original thread.📹:Jessica Camilleri-Shelton",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7371205961954308096",
+        "id": 30
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 19 Aug 2025 04:41:12 GMT (UTC)",
+        "content": "We just launched ChatGPT Go, a new low-cost subscription plan in India at ₹399/month. 🇮🇳With this plan, users get everything in Free, and 10x more messages with GPT-5 auto, 10x more image generations, 10x more file uploads and 2x longer memory for more personalized responses.And you can now pay with UPI in Indian Rupees.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7363429808246018051",
+        "id": 31
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 14 Oct 2025 15:24:54 GMT (UTC)",
+        "content": "🧠 🤝Prompt 1: Critical ThinkingHere’s my idea/plan: [insert].Act as a critical thinker — question my assumptions, challenge the logic, and highlight any blind spots I might be missing. Stress test my reasoning and point out weaknesses, but don’t rewrite or change the original idea itself.Prompt 2: Reframe Through a Different LensHere’s the core idea: [insert].Reframe it from different angles — for example, shift to a new audience POV, explore an emotional trigger, or create a different positioning strategy.Show me fresh perspectives I might not have considered, while keeping the main essence intact.Prompt 3: Structure My Messy IdeasHere’s a messy brain dump: [insert].Turn it into a clear outline or practical framework that keeps my natural voice and style intact. Don’t add new ideas — instead, focus on bringing clarity and structure so my notes flow logically and can be used to take action immediately.Prompt 4: Spot Hidden AssumptionsHere’s my plan: [insert].Identify the hidden assumptions I might be making — especially the ones that are risky, flawed, or could simply be wrong. Help me see where I may be overconfident, what I’m taking for granted, and what could undermine my plan if left unchecked.Prompt 5: Stress-Test With ScenariosHere’s my strategy: [insert].Show me 3 best-case scenarios, 3 worst-case scenarios, and 3 likely scenarios.Explain how each outcome could realistically unfold, and what that would mean for the success or failure of my overall strategy.Prompt 6: Play Devil’s AdvocateHere’s my plan: [insert].Argue against it as if you completely disagree. Be blunt, direct, and brutally honest. Tell me what the critics would say, where they’d find the weak spots, and why my plan might not work at all.📹:Jessica Camilleri-Shelton",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7383885521464418304",
+        "id": 32
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Sun, 12 Oct 2025 19:39:14 GMT (UTC)",
+        "content": "Friendly reminder.📹:Jessica Wang",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7383224750862561280",
+        "id": 33
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 14 Aug 2025 19:44:19 GMT (UTC)",
+        "content": "\"GPT-5 is able to predict the outcome of experiments that we haven't even done. That saves us weeks and even months.\"Immunologist and professor Dr.Derya Unutmazexplains how he uses GPT-5 as a collaborator on medical research. It’s our most intelligent model yet, capable of generating novel hypotheses, accelerating discoveries, and pushing the frontier of science.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7361845147354980352",
+        "id": 34
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Mon, 28 Jul 2025 19:01:40 GMT (UTC)",
+        "content": "In front of an online audience of thousands last Thursday, OpenAI’s head recruiter, Joaquin Quiñonero Candela, described one of the common threads that draws talent to the company: OpenAI’s culture.“We’re a culture of doers who do things – with autonomy, with agency,” he said at the OpenAI Forum. “There’s no sitting around asking for permission.”Joaquin also mentioned how OpenAI’s mission is attractive to candidates. “We’re building AGI, and we’re bringing it to humanity in a way that’s responsible and beneficial.” And he explained how it’s the people at OpenAI who draw talent to the company. “We often say good people draw good people. And people want to work with like-minded people … people who, you know, want to jump into the deep-end and into the unknown.”Joaquin’s comments came during an hourlong conversation at the OpenForum titled: “Careers at the Frontier: Hiring the Future at OpenAI,” where he discussed his own career trajectory – stints at Facebook and LinkedIn before coming to OpenAI to work on AI safety and even a three-month turn as an intern on the company’s health team.Joaquin’s current role at OpenAI is Head of Recruiting, and he explained why he made the move to the post. “Although OpenAI is about 10 years old, in many ways we’re only getting started now. I feel like we’re at the beginning of building a company that is probably going to be generational,” he said. “It became a no-brainer.”When Natalie Cone, who was moderating the conversation as head of the OpenAI Forum Community, asked him what a typical day looks like for his recruiting team, Joaquin replied, “Oh, a typical day is crazy.” He explained: “We have a constantly changing environment. The goals are always changing. We can’t really predict what products would be shipping long term, because the models keep getting more capable. It’s very hard, then, to know how much do different teams need to grow.”Approximately 11,000 guests registered for this online discussion – more than any other previous OpenAI Forum event.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7355673820441006083",
+        "id": 35
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Tue, 12 Aug 2025 16:51:07 GMT (UTC)",
+        "content": "GPT‑5 is our strongest coding model to date, showing particular improvements in complex front‑end generation and debugging larger repositories.Greg Brockmansits down withMichael T.,CursorCo-Founder and CEO, to chat about GPT-5's coding capabilities.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7361076784055922688",
+        "id": 36
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 07 Aug 2025 19:55:21 GMT (UTC)",
+        "content": "Introducing GPT-5, our best AI system yet!GPT-5 features state-of-the-art performance across coding, math, writing assistance, health, visual perception, and more.Use GPT-5 to build websites, create apps, and tap into its improved writing capabilities to help with everyday tasks like reports, emails, and editing.GPT-5 is also our best model yet for health-related questions, empowering users to be informed about and advocate for their health.GPT‑5 starts rolling out to all users today.https://lnkd.in/gbmzqvYB",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7359311207679381504",
+        "id": 37
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 02 Oct 2025 15:38:50 GMT (UTC)",
+        "content": "OpenAI, calm down. I can only type so fast. Let’s cover the new releases and why they matter:Since last Thursday,OpenAIhas launched ChatGPT Pulse, Commerce in chat, parental controls, and Sora 2 + Sora app.Here’s the full rundown:→ ChatGPT Pulse (preview): Pro users on mobile can now get a daily, proactive research cards based on your chats, feedback, and optional calendar. You can thumbs-up/down and curate what shows next. Why does this matter? AI is getting more proactive! You won’t have to prompt all the dang time!→ Commerce in chat: OpenAI rolled out Instant Checkout using the open Agentic Commerce Protocol (built with Stripe). You can already buy from U.S. Etsy sellers inside ChatGPT, with Shopify merchants “coming soon.” Why does this matter? ChatGPT was already being used to shop and browse, now it’s going fully vertical. More “complete” experiences will happen inside ChatGPT.→ Parental controls: New teen safety features now let parents link accounts, set limits, and dial down sensitive content. It’s imperfect (and will evolve), but this seems to be the most concrete teen-focused guardrail set we’ve seen from them to date. Why does this matter? AI is becoming more integrated into our personal lives and full families are signing up for it as an app they use together, this was the obvious next step.→ Sora 2 + Sora app: A major step-up in physical realism and control, now with synced dialogue/SFX, plus a new (currently) invite-only iOS app that looks and feels like TikTok, but for AI-generated video only. Cameos let friends appear with consent and revocable control. Available in US/Canada first. Why does this matter? Meta and TikTok own a huge part of the commerce chain because of a social-first strategy, OpenAI wants a piece of the pie.Overall: more proactive and personalized systems, more vertical integration, more connections with family and friends, and more weirdness still to come.What say you on these releases?Stay tuned for more. Dev Day is in less than a week 👀",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7379540376241688576",
+        "id": 38
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Fri, 25 Jul 2025 20:35:25 GMT (UTC)",
+        "content": "Slideshows, no stress.ChatGPT agent is your one-stop shop for fully editable presentations.",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7354610249217003520",
+        "id": 39
+    },
+    {
+        "company": "openai",
+        "source": "LinkedIn",
+        "date": "Thu, 17 Jul 2025 18:19:27 GMT (UTC)",
+        "content": "ChatGPT can now do work for you using its own computer.Introducing ChatGPT agent—a unified agentic system combining Operator’s action-taking remote browser, deep research’s web synthesis, and ChatGPT’s conversational strengths.Built-in safety keeps you in control:✅ Confirmation before important actions✅ No data stored in takeover mode✅ One-click to clear browsing and log out of all sitesChatGPT agent starts rolling out today to Pro, Plus, and Team users. Pro users will get access by the end of day, while Plus and Team users will get access over the next few days. Enterprise and Edu users will get access in the coming weeks.https://lnkd.in/esn2WSEV",
+        "topics": [],
+        "type": "text",
+        "news_url": "https://www.linkedin.com/feed/update/urn:li:activity:7351676930317877251",
+        "id": 40
+    }
+]

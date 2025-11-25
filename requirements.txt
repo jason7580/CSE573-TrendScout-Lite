@@ -1,0 +1,34 @@
+# TrendScout AI Requirements
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask>=3.0.0
+
+# LangChain (updated for latest versions)
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-core>=0.3.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Graph Database
+neo4j>=5.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# OpenAI
+openai>=1.0.0
+
+# Gemini (for evaluation)
+google-genai>=0.3.0
+
+# Utilities
+tiktoken>=0.5.0
+
+# Data Collection (optional - data already provided)
+selenium>=4.15.0
+beautifulsoup4>=4.12.0

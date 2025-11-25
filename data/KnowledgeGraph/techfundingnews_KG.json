@@ -1,0 +1,595 @@
+[
+    {
+      "company": {
+        "name": "NexDash",
+        "location": "Berlin, Germany",
+        "founded_date": "2025",
+        "description": "Aims to scale zero-emission logistics infrastructure across Europe, creating a new class of freight carriers."
+      },
+      "funding": {
+        "amount": 5,
+        "currency": "EUR",
+        "round_type": "seed",
+        "date": "2025-11-21"
+      },
+      "investors": [
+        {
+          "name": "Extantia Capital",
+          "role": "participant"
+        },
+        {
+          "name": "Clean Energy Ventures",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Michael Cassau",
+          "role": "Founder"
+        }
+      ],
+      "products": [
+        "NexOS"
+      ],
+      "key_people": [
+        {
+          "name": "Joern-Carlos Kuntze",
+          "role": "Partner",
+          "company": "Extantia Capital",
+          "quote": "Electrification in heavy-duty transport doesn’t fail because of technology, but because of orchestration. NexDash integrates software, infrastructure, and capital where it matters most – in operations."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "NestAI",
+        "location": "Finland",
+        "founded_date": null,
+        "description": "Developing artificial intelligence technologies for defence and critical infrastructure."
+      },
+      "funding": {
+        "amount": 100,
+        "currency": "EUR",
+        "round_type": null,
+        "date": "2025-11-21"
+      },
+      "investors": [
+        {
+          "name": "Tesi",
+          "role": "lead"
+        },
+        {
+          "name": "Nokia",
+          "role": "lead"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Peter Sarlin",
+          "role": "Co-founder"
+        }
+      ],
+      "products": [],
+      "key_people": []
+    },
+    {
+      "company": {
+        "name": "Rift",
+        "location": "France",
+        "founded_date": "2023",
+        "description": "Offers a sovereign, on-demand aerial intelligence network powered by autonomous, long-endurance drones."
+      },
+      "funding": {
+        "amount": 4.6,
+        "currency": "EUR",
+        "round_type": null,
+        "date": "2025-11-20"
+      },
+      "investors": [
+        {
+          "name": "AlleyCorp",
+          "role": "participant"
+        },
+        {
+          "name": "OVNI Capital",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Daniel Nef",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Dorian Millière",
+          "role": "Co-founder"
+        }
+      ],
+      "products": [
+        "RiftOS"
+      ],
+      "key_people": []
+    },
+    {
+      "company": {
+        "name": "Logistica OS",
+        "location": "Berlin, Germany",
+        "founded_date": "2025",
+        "description": "Develops AI-powered agents explicitly designed to automate repetitive workflows within supply chain operations."
+      },
+      "funding": {
+        "amount": 1.5,
+        "currency": "EUR",
+        "round_type": "pre-seed",
+        "date": "2025-11-20"
+      },
+      "investors": [
+        {
+          "name": "NAP",
+          "role": "lead"
+        },
+        {
+          "name": "Daphni",
+          "role": "participant"
+        },
+        {
+          "name": "Javier de la Fuente",
+          "role": "participant"
+        },
+        {
+          "name": "Nono Konopka",
+          "role": "participant"
+        },
+        {
+          "name": "Daniel Khachab",
+          "role": "participant"
+        },
+        {
+          "name": "Andrew Shaw",
+          "role": "participant"
+        },
+        {
+          "name": "Jonas Meynert",
+          "role": "participant"
+        },
+        {
+          "name": "Tony Kula",
+          "role": "participant"
+        },
+        {
+          "name": "Hermann Ude",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Flavio Alario",
+          "role": "Founder"
+        },
+        {
+          "name": "Kenan Deniz",
+          "role": "Founder"
+        },
+        {
+          "name": "Florian Lehmann",
+          "role": "Founder"
+        }
+      ],
+      "products": [
+        "PalletClaim",
+        "Jackie",
+        "Django",
+        "Marcellus"
+      ],
+      "key_people": [
+        {
+          "name": "Flavio Alario",
+          "role": "Founder",
+          "company": "Logistica OS",
+          "quote": "We started Logistica OS to give logistics teams the software they deserve. Tools that take away the daily chaos and make operations faster, more straightforward, and genuinely enjoyable to run."
+        },
+        {
+          "name": "Mey Cezairli",
+          "role": "Partner",
+          "company": "NAP",
+          "quote": "Logistics is under-digitised and under-automated for a reason. It’s incredibly complex, with messy workflows, countless edge cases, and quirks in every warehouse, partner, and delivery."
+        },
+        {
+          "name": "Cristian Pinto",
+          "role": "Investor",
+          "company": "Daphni",
+          "quote": "By being AI-native, Logistica OS is unlocking automation of repetitive processes that can unlock dozens of billions in productivity gains for retailers."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Kaaj",
+        "location": "San Francisco, USA",
+        "founded_date": null,
+        "description": "An agentic AI credit intelligence platform that automates small business loan underwriting from application to decision-ready analysis."
+      },
+      "funding": {
+        "amount": 3.8,
+        "currency": "USD",
+        "round_type": "seed",
+        "date": "2025-11-19"
+      },
+      "investors": [
+        {
+          "name": "Kindred Ventures",
+          "role": "lead"
+        },
+        {
+          "name": "Better Tomorrow Ventures",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Utsav Shah",
+          "role": "Founder"
+        },
+        {
+          "name": "Shivi Sharma",
+          "role": "Founder"
+        }
+      ],
+      "products": [],
+      "key_people": [
+        {
+          "name": "Kanyi Maqubela",
+          "role": "Managing Partner",
+          "company": "Kindred Ventures",
+          "quote": "Small business lending has long struggled with a fundamental economics problem: the cost to underwrite smaller loans hasn’t matched the returns, leaving millions of businesses underserved."
+        },
+        {
+          "name": "Jake Gibson",
+          "role": "Founding Partner",
+          "company": "Better Tomorrow Ventures",
+          "quote": "We’re backing a team with the rare combination of deep AI expertise and domain knowledge in credit risk to build the infrastructure that will power the next generation of small business finance."
+        },
+        {
+          "name": "Sheel Mohnot",
+          "role": "Co-founder & General Partner",
+          "company": "Better Tomorrow Ventures",
+          "quote": "What impressed us most was Kaaj’s approach to building transparent, audit-ready AI that enhances rather than replaces human judgment."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Dost",
+        "location": "Spain",
+        "founded_date": "2021",
+        "description": "AI-powered financial automation platform addressing inefficiencies in mid-market finance operations."
+      },
+      "funding": {
+        "amount": 6,
+        "currency": "GBP",
+        "round_type": "Series A",
+        "date": "2025-11-19"
+      },
+      "investors": [
+        {
+          "name": "Octopus Ventures",
+          "role": "lead"
+        },
+        {
+          "name": "TQ Ventures",
+          "role": "participant"
+        },
+        {
+          "name": "Draper B1",
+          "role": "participant"
+        },
+        {
+          "name": "Born Capital",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Adam Barbera",
+          "role": "CEO"
+        }
+      ],
+      "products": [],
+      "key_people": [
+        {
+          "name": "Adam Barbera",
+          "role": "CEO",
+          "company": "Dost",
+          "quote": "Our philosophy is to build technology that becomes indispensable by becoming invisible."
+        },
+        {
+          "name": "Uthish Ranjan",
+          "role": "Unknown",
+          "company": "Octopus Ventures",
+          "quote": "Dost is an AI-native platform tackling one of finance’s most entrenched inefficiencies — invoice processing."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Big Rentals",
+        "location": "USA",
+        "founded_date": "2023",
+        "description": "Offers HQ Rent, an AI-driven platform that consolidates scheduling, payments, and fleet management into a single software solution."
+      },
+      "funding": {
+        "amount": 2.8,
+        "currency": "USD",
+        "round_type": "seed",
+        "date": "2025-11-18"
+      },
+      "investors": [
+        {
+          "name": "SNAK Venture Partners",
+          "role": "lead"
+        },
+        {
+          "name": "Ironspring Ventures",
+          "role": "participant"
+        },
+        {
+          "name": "Forum Ventures",
+          "role": "participant"
+        },
+        {
+          "name": "LAUNCH Fund",
+          "role": "participant"
+        },
+        {
+          "name": "NuFund Venture Group",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Pablo Fernandez",
+          "role": "CEO/Co-Founder"
+        }
+      ],
+      "products": [
+        "HQ Rent"
+      ],
+      "key_people": [
+        {
+          "name": "Pablo Fernandez",
+          "role": "CEO",
+          "company": "Big Rentals",
+          "quote": "For too long, local rental companies and small business owners have had to stitch together outdated tools, paper, and spreadsheets."
+        },
+        {
+          "name": "Sonia Nagar",
+          "role": "Co-Founder",
+          "company": "SNAK Venture Partners",
+          "quote": "Big Rentals is transforming an overlooked yet essential backbone of our economy."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Poppy Flowers",
+        "location": "Charlottesville, USA",
+        "founded_date": "2019",
+        "description": "Addresses floral supply chain issues with a technology-driven platform that brings transparency and modern design to wedding florals."
+      },
+      "funding": {
+        "amount": 2.66,
+        "currency": "USD",
+        "round_type": "Series A",
+        "date": "2025-11-18"
+      },
+      "investors": [
+        {
+          "name": "Michigan Capital Network",
+          "role": "lead"
+        },
+        {
+          "name": "Virginia Venture Partners",
+          "role": "participant"
+        },
+        {
+          "name": "Wakestream Ventures",
+          "role": "participant"
+        },
+        {
+          "name": "IDEA Fund Partners",
+          "role": "participant"
+        },
+        {
+          "name": "Front Porch Ventures",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Cameron Hardesty",
+          "role": "Founder"
+        }
+      ],
+      "products": [
+        "Proposal Builder"
+      ],
+      "key_people": [
+        {
+          "name": "Cameron Hardesty",
+          "role": "Founder",
+          "company": "Poppy Flowers",
+          "quote": "Poppy was built from my own experiences and the belief that wedding florals could be radically better – for couples, for florists, and for the industry at large."
+        },
+        {
+          "name": "Meagan Malm",
+          "role": "Senior Principal",
+          "company": "Michigan Capital Network",
+          "quote": "Poppy continues to prove how technology can revolutionise even the most traditional industries."
+        },
+        {
+          "name": "Christopher Langford",
+          "role": "Unknown",
+          "company": "IDEA Fund Partners",
+          "quote": "Poppy continues to redefine what’s possible in the wedding and floral industries."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Project Prometheus",
+        "location": "UNKNOWN",
+        "founded_date": null,
+        "description": "An artificial intelligence company leveraging AI to help design and manufacture in fields like computing hardware, automotive, and aerospace."
+      },
+      "funding": {
+        "amount": 6200,
+        "currency": "USD",
+        "round_type": null,
+        "date": "2025-11-18"
+      },
+      "investors": [],
+      "founders": [
+        {
+          "name": "Jeff Bezos",
+          "role": "Co-CEO"
+        },
+        {
+          "name": "Vik Bajaj",
+          "role": "Co-CEO"
+        }
+      ],
+      "products": [],
+      "key_people": [
+        {
+          "name": "Scott Chou",
+          "role": "Co-Founder",
+          "company": "ESO Fund",
+          "quote": "Jeff Bezos getting back into the trenches is exciting, and it tells you he sees a real opportunity."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Cellbyte",
+        "location": "Munich, Germany",
+        "founded_date": "2024",
+        "description": "Provides pharmaceutical teams with a single AI-driven system that centralises all information to address drug launch bottlenecks."
+      },
+      "funding": {
+        "amount": 2.75,
+        "currency": "USD",
+        "round_type": "seed",
+        "date": "2025-11-18"
+      },
+      "investors": [
+        {
+          "name": "Frontline Ventures",
+          "role": "lead"
+        },
+        {
+          "name": "Y Combinator",
+          "role": "participant"
+        },
+        {
+          "name": "Pace Ventures",
+          "role": "participant"
+        },
+        {
+          "name": "Saras Capital",
+          "role": "participant"
+        },
+        {
+          "name": "Springboard Health Angels",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Daniel Moreira",
+          "role": "Founder"
+        },
+        {
+          "name": "Felix Steinbrenner",
+          "role": "Co-CEO and Co-Founder"
+        },
+        {
+          "name": "Samuel Moreira",
+          "role": "Founder"
+        }
+      ],
+      "products": [],
+      "key_people": [
+        {
+          "name": "Felix Steinbrenner",
+          "role": "Co-CEO and Co-Founder",
+          "company": "Cellbyte",
+          "quote": "The success of a drug’s entire lifecycle is decided in its launch sequence."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Peec AI",
+        "location": "Berlin, Germany",
+        "founded_date": null,
+        "description": "Marketing platform providing visibility into how AI platforms describe products and the sources influencing those descriptions."
+      },
+      "funding": {
+        "amount": 21,
+        "currency": "USD",
+        "round_type": "Series A",
+        "date": "2025-11-18"
+      },
+      "investors": [
+        {
+          "name": "Singular",
+          "role": "lead"
+        },
+        {
+          "name": "Antler",
+          "role": "participant"
+        },
+        {
+          "name": "Combination VC",
+          "role": "participant"
+        },
+        {
+          "name": "identity.vc",
+          "role": "participant"
+        },
+        {
+          "name": "S20",
+          "role": "participant"
+        }
+      ],
+      "founders": [
+        {
+          "name": "Daniel Drabo",
+          "role": "Founder"
+        },
+        {
+          "name": "Tobias Siwonia",
+          "role": "Founder"
+        },
+        {
+          "name": "Marius Meiners",
+          "role": "Co-founder & CEO"
+        }
+      ],
+      "products": [],
+      "key_people": [
+        {
+          "name": "Marius Meiners",
+          "role": "Co-founder & CEO",
+          "company": "Peec AI",
+          "quote": "We are obsessed with precision. Clean data, clear workflows, and a UI that teams actually love to use."
+        },
+        {
+          "name": "Henri Tilloy",
+          "role": "Partner",
+          "company": "Singular",
+          "quote": "AI search is rewriting the rules of discovery, and Peec AI is the team redefining how brands show up in that new landscape."
+        }
+      ]
+    }
+  ]
