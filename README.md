@@ -140,11 +140,11 @@ NEO4J_PASSWORD=your-password
 
 ## 👥 Team Members
 
-- Aditya Pokharna - 
-- Sahil Pawar - 
-- Wei-An Wang - 
-- Yu-Yao Hsieh - 
-- Zih-Jyun Lin - 
+- Aditya Pokharna
+- Sahil Pawar
+- Wei-An Wang
+- Yu-Yao Hsieh
+- Zih-Jyun Lin
 
 ## 📄 License
 
