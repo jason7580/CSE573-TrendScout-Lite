@@ -107,7 +107,14 @@ Our work extends these hybrid approaches specifically for market intelligence ap
 
 \section{System Architecture and Algorithms}
 
-Our system architecture implements a sophisticated hybrid retrieval pipeline that intelligently combines RAG and Knowledge Graph capabilities. Figure \ref{fig:architecture} illustrates the complete data flow from collection through answer generation.
+Our system architecture implements a sophisticated hybrid retrieval pipeline that intelligently combines RAG and Knowledge Graph capabilities. Figure \ref{fig:dataflow} illustrates the complete data flow from collection through answer generation.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{DataFlow.png}
+\caption{Complete Data Flow Architecture: From LinkedIn post collection through Selenium scraping and Gemini entity extraction, to dual storage in ChromaDB and Neo4j, culminating in GPT-4 answer synthesis. The system processes user queries through both RAG similarity search and KG Cypher queries before combining contexts for comprehensive responses.}
+\label{fig:dataflow}
+\end{figure*}
 
 \subsection{Overall Architecture}
 
@@ -418,7 +425,14 @@ We designed a comprehensive evaluation framework to systematically compare RAG-o
 
 \subsection{Evaluation Dataset}
 
-We constructed a test set of 50 carefully designed questions spanning five categories, each containing 10 questions:
+We constructed a test set of 50 carefully designed questions spanning five categories, each containing 10 questions (see Figure \ref{fig:questions} for examples):
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.48\textwidth]{50Questions.png}
+\caption{Sample evaluation questions across five categories: Factual, Relationship, Comparison, Temporal, and Detail queries. Each category tests different aspects of the system's retrieval and reasoning capabilities.}
+\label{fig:questions}
+\end{figure}
 
 \textbf{Factual Queries:} Questions seeking specific facts about companies, products, or models. Example: "What products does Anthropic offer?"
 
@@ -521,6 +535,13 @@ The substantial improvements in accuracy and completeness demonstrate that struc
 \subsection{Win/Tie/Loss Analysis}
 
 Figure \ref{fig:wins} shows the distribution of outcomes across all 50 questions:
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.48\textwidth]{ResultPlot.png}
+\caption{Win Distribution across 50 evaluation questions. RAG+KG achieves a 44\% win rate compared to 14\% for RAG-only, with 42\% ties. The pie chart demonstrates consistent superiority of the hybrid approach.}
+\label{fig:wins}
+\end{figure}
 
 \begin{itemize}
 \item RAG+KG wins: 22 questions (44\%)
@@ -644,6 +665,13 @@ The TrendScout AI user interface embodies three core design principles:
 \subsection{Interface Components}
 
 Figure \ref{fig:ui} shows the main interface, which consists of several key components:
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.9\textwidth]{UI_Screenshot.png}
+\caption{TrendScout AI Web Interface: The conversational interface features query input with example prompts, configuration toggles for KG and RAG, conversation history display, source citation controls, and real-time system status indicators. The dark theme with cyan accents provides an intuitive, modern user experience.}
+\label{fig:ui}
+\end{figure*}
 
 \textbf{Query Input:} A text input field with an "Ask" button enables natural language queries. The interface includes example queries to help users understand system capabilities:
 \begin{itemize}
@@ -934,7 +962,7 @@ Beyond immediate market intelligence applications, this work contributes to the 
 \item Customer support systems integrating product documentation (structured) with user community discussions (unstructured)
 \end{itemize}
 
-As the field progresses toward more capable AI systems, thoughtful integration of complementary approaches—combining the semantic understanding of large language models with the precise reasoning of structured knowledge—represents a promising path forward.
+As the field progresses toward more capable AI systems, thoughtful integration of complementary approaches - combining the semantic understanding of large language models with the precise reasoning of structured knowledge - represents a promising path forward.
 
 \section*{Acknowledgments}
 
