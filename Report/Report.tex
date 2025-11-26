@@ -41,13 +41,13 @@ The artificial intelligence startup ecosystem has experienced unprecedented grow
 
 The artificial intelligence industry has entered a transformative phase characterized by rapid innovation, massive capital influx, and intense competition. In 2024, generative AI startups alone raised \$56 billion, reflecting growing investor confidence in AI technologies \cite{pitchbook2024}. This unprecedented growth has fundamentally altered the venture capital landscape, with 46.4\% of US VC funding now directed toward AI companies, up from 36\% in previous years \cite{cbinsights2024}. Venture capitalists themselves have embraced AI tools, with 76\% using AI for daily operations and 62\% leveraging AI to research potential investment opportunities \cite{vcsurvey2024}.
 
-However, this explosive growth has created substantial challenges for market participants. The sheer volume of information—funding announcements, product launches, strategic partnerships, technical breakthroughs, and evolving industry narratives—has overwhelmed traditional manual tracking methods. Industry trends shift rapidly; themes like "AI agents" and "AI infrastructure" emerge and evolve within months, making it difficult for investors and analysts to maintain current, comprehensive understanding of the competitive landscape.
+However, this explosive growth has created substantial challenges for market participants. The sheer volume of information-funding announcements, product launches, strategic partnerships, technical breakthroughs, and evolving industry narratives-has overwhelmed traditional manual tracking methods. Industry trends shift rapidly; themes like "AI agents" and "AI infrastructure" emerge and evolve within months, making it difficult for investors and analysts to maintain current, comprehensive understanding of the competitive landscape.
 
 Traditional approaches to market intelligence rely heavily on manual research, requiring analysts to aggregate information from disparate sources including news articles, company announcements, LinkedIn posts, and industry reports. This process is time-consuming, prone to information gaps, and struggles to capture the complex relationships between companies, products, partnerships, and technologies that characterize the modern AI ecosystem.
 
 Recent advances in Large Language Models (LLMs) and semantic search technologies have opened new possibilities for automated market intelligence. Retrieval-Augmented Generation (RAG) systems can retrieve relevant context from document collections and generate informed responses, while Knowledge Graphs excel at representing and querying structured relationships between entities. However, each approach has inherent limitations when applied in isolation to complex market intelligence tasks.
 
-We present TrendScout AI, a novel hybrid system that synergistically combines RAG and Knowledge Graph technologies to address these challenges. Our system analyzes LinkedIn posts from leading AI companies—Perplexity AI, OpenAI, Anthropic, Mistral AI, and DeepSeek—to build both a vector database for semantic search and a structured knowledge graph for relationship queries. By intelligently routing queries to appropriate retrieval mechanisms and synthesizing results through GPT-4, TrendScout AI provides accurate, comprehensive, and contextually relevant answers to natural language questions about the AI startup ecosystem.
+We present TrendScout AI, a novel hybrid system that synergistically combines RAG and Knowledge Graph technologies to address these challenges. Our system analyzes LinkedIn posts from leading AI companies-Perplexity AI, OpenAI, Anthropic, Mistral AI, and DeepSeek-to build both a vector database for semantic search and a structured knowledge graph for relationship queries. By intelligently routing queries to appropriate retrieval mechanisms and synthesizing results through GPT-4, TrendScout AI provides accurate, comprehensive, and contextually relevant answers to natural language questions about the AI startup ecosystem.
 
 The key contributions of this work are:
 
@@ -308,7 +308,8 @@ else:
 
 if use_rag:
     rag_results = rag_retrieval(query)
-    rag_context = format_rag_results(rag_results)
+    rag_context = format_rag_results
+    (rag_results)
 else:
     rag_context = ""
 
@@ -628,10 +629,10 @@ Analyzing cases where RAG-only outperformed RAG+KG reveals several patterns:
 To assess the statistical significance of our results, we performed paired t-tests comparing RAG-only and RAG+KG scores across all 50 questions. The results show:
 
 \begin{itemize}
-\item Total score improvement: t(49) = 4.23, p < 0.001
-\item Accuracy improvement: t(49) = 3.87, p < 0.001
-\item Completeness improvement: t(49) = 4.05, p < 0.001
-\item Relevance improvement: t(49) = 0.89, p = 0.38
+\item Total score improvement: $t(49)=4.23$, $p<0.001$.
+\item Accuracy improvement: $t(49)=3.87$, $p<0.001$.
+\item Completeness improvement: $t(49)=4.05$, $p<0.001$.
+\item Relevance improvement: $t(49)=0.89$, $p=0.38$.
 \end{itemize}
 
 The highly significant improvements in total score, accuracy, and completeness confirm that the hybrid approach provides genuine, reliable improvements rather than random variation. The non-significant relevance result aligns with our observation that both systems maintain good focus.
@@ -766,7 +767,7 @@ Several design decisions enhance usability:
 
 \textbf{Progressive Disclosure:} Advanced features like source citations and Cypher queries are hidden by default, keeping the interface clean for casual users while remaining accessible to power users.
 
-\textbf{Immediate Feedback:} The system provides immediate visual feedback for all interactions—button clicks, configuration changes, and query submissions—preventing user confusion about system state.
+\textbf{Immediate Feedback:} The system provides immediate visual feedback for all interactions-button clicks, configuration changes, and query submissions-preventing user confusion about system state.
 
 \textbf{Error Handling:} When errors occur (API failures, empty results, malformed queries), the system displays clear, actionable error messages rather than technical stack traces.
 
@@ -894,7 +895,7 @@ This work demonstrates that hybrid RAG+KG approaches provide substantial improve
 
 \item \textbf{Query-Specific Strengths:} Knowledge Graphs provide maximum value for factual queries (+2.8 points) and relationship queries (+3.3 points), while providing minimal benefit for detail-oriented queries that require comprehensive textual descriptions.
 
-\item \textbf{Complementary Mechanisms:} RAG and KG retrieval address different aspects of information needs—RAG excels at semantic understanding and contextual information, while KG excels at structured facts and explicit relationships.
+\item \textbf{Complementary Mechanisms:} RAG and KG retrieval address different aspects of information needs-RAG excels at semantic understanding and contextual information, while KG excels at structured facts and explicit relationships.
 
 \item \textbf{LLM-Powered Entity Extraction:} Using LLMs (Gemini) for entity extraction from informal social media text achieves superior accuracy compared to traditional NER approaches, enabling reliable automated knowledge graph construction.
 
